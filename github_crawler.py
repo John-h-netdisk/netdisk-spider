@@ -1,6 +1,6 @@
 """
-GitHub Actions 云端爬虫 v2
-两步采集：搜索引擎获取页面URL → 访问页面提取网盘链接
+GitHub Actions 云端爬虫 v3
+直接访问已知资源站点，提取网盘链接
 """
 import re
 import json
@@ -9,107 +9,58 @@ import random
 import os
 import requests
 from datetime import datetime
-from urllib.parse import quote, urljoin
-
-# 搜索关键词池（每次随机选3个）
-KEYWORDS_POOL = [
-    "影视资源 夸克网盘", "音乐合集 百度网盘", "电子书 PDF 网盘",
-    "编程教程 Python 网盘", "考研资料 网盘分享", "设计素材 PS 网盘",
-    "儿童绘本 网盘", "办公软件 模板 网盘", "健身瑜伽 视频 网盘",
-    "有声书 网盘", "纪录片 BBC 网盘", "游戏资源 网盘",
-    "钢琴谱 网盘", "无损音乐 FLAC 网盘", "考公资料 网盘"
-]
+from urllib.parse import quote
 
 # 网盘链接正则
 BAIDU_PATTERN = re.compile(r'https?://pan\.baidu\.com/s/[a-zA-Z0-9_-]+(?:\?pwd=[a-zA-Z0-9]+)?')
 QUARK_PATTERN = re.compile(r'https?://pan\.quark\.cn/s/[a-zA-Z0-9]+')
 
-
-def search_ddg(keyword):
-    """DuckDuckGo搜索，返回结果页面URL列表"""
-    try:
-        url = f"https://html.duckduckgo.com/html/?q={quote(keyword)}"
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-            'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-        }
-        resp = requests.get(url, headers=headers, timeout=30)
-        resp.raise_for_status()
-        # DDG HTML版本的结果链接在 <a class="result__a" href="..."> 中
-        # 但实际URL被DDG包裹成 /l/?uddg=ENCODURL 格式
-        links = []
-        # 提取uddg参数中的真实URL
-        uddg_matches = re.findall(r'uddg=([^&"]+)', resp.text)
-        for encoded_url in uddg_matches:
-            from urllib.parse import unquote
-            real_url = unquote(encoded_url)
-            if real_url.startswith('http') and 'duckduckgo' not in real_url:
-                links.append(real_url)
-        print(f"  [DDG] HTTP {resp.status_code}, {len(resp.text)} bytes, {len(links)} result URLs")
-        return links
-    except Exception as e:
-        print(f"[错误] DDG搜索失败: {e}")
-        return []
+# 种子页面列表（直接访问提取链接）
+SEED_PAGES = [
+    # Telegram 公开频道（t.me/s/ 不需要登录）
+    "https://t.me/s/Aliyun_1",
+    "https://t.me/s/Aliyun_2",
+    "https://t.me/s/Aliyun_4",
+    "https://t.me/s/Aliyun_drive",
+    "https://t.me/s/Quark_Movies",
+    "https://t.me/s/baidu_share",
+    "https://t.me/s/Quark_Share",
+    "https://t.me/s/pan_baidu",
+    "https://t.me/s/pan_quark",
+    "https://t.me/s/Netdisk_Resources",
+    "https://t.me/s/Music_Share_Zone",
+    "https://t.me/s/Book_Share_Zone",
+    "https://t.me/s/Movie_Share_Zone",
+    "https://t.me/s/Software_Share_Zone",
+    "https://t.me/s/Aliyun_3",
+    "https://t.me/s/Aliyun_5",
+    "https://t.me/s/Aliyun_6",
+    "https://t.me/s/Aliyun_7",
+    "https://t.me/s/Aliyun_8",
+    # 可以添加更多种子页面
+]
 
 
-def search_bing(keyword):
-    """Bing搜索，返回结果页面URL列表"""
-    try:
-        url = f"https://www.bing.com/search?q={quote(keyword)}"
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-            'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-        }
-        resp = requests.get(url, headers=headers, timeout=30)
-        resp.raise_for_status()
-        # Bing结果链接在 <a href="https://..."> 中，通常在 class="b_algo" 的 li 内
-        links = []
-        # 提取所有外部链接
-        all_links = re.findall(r'<a[^>]+href="(https?://[^"]+)"[^>]*>', resp.text)
-        for link in all_links:
-            # 过滤掉bing自身链接和常见无关链接
-            skip_domains = ['bing.com', 'microsoft.com', 'msn.com', 'go.microsoft', 'bing.net',
-                           'w3.org', 'schema.org', 'live.com', 'skype.com', 'office.com']
-            if not any(s in link.lower() for s in skip_domains):
-                links.append(link)
-        # 去重
-        links = list(dict.fromkeys(links))
-        print(f"  [Bing] HTTP {resp.status_code}, {len(resp.text)} bytes, {len(links)} result URLs")
-        return links
-    except Exception as e:
-        print(f"[错误] Bing搜索失败: {e}")
-        return []
-
-
-def search(keyword):
-    """先DDG，失败则Bing兜底"""
-    links = search_ddg(keyword)
-    if not links:
-        print(f"  [切换] DDG无结果，尝试Bing...")
-        links = search_bing(keyword)
-    return links[:8]  # 最多访问前8个结果页面
-
-
-def fetch_page(url):
+def fetch_page(url, timeout=15):
     """访问页面，返回HTML内容"""
     try:
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
             'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+            'Accept-Encoding': 'gzip, deflate',
+            'Connection': 'keep-alive',
         }
-        resp = requests.get(url, headers=headers, timeout=15, allow_redirects=True)
+        resp = requests.get(url, headers=headers, timeout=timeout, allow_redirects=True)
         resp.encoding = resp.apparent_encoding or 'utf-8'
         return resp.text
     except Exception as e:
-        print(f"    [页面错误] {url[:60]}... {e}")
+        print(f"    [页面错误] {url[:50]}... {type(e).__name__}: {e}")
         return ""
 
 
-def extract_links_from_page(html_content, page_url):
-    """从页面HTML中提取网盘链接"""
+def extract_links_from_html(html_content, page_url):
+    """从HTML中提取网盘链接和标题"""
     results = []
 
     # 百度网盘
@@ -121,10 +72,10 @@ def extract_links_from_page(html_content, page_url):
             password = pwd_match.group(1)
             url = url.split('?pwd=')[0]
 
-        # 提取标题：从链接前后200字符
+        # 从上下文提取标题
         idx = match.start()
         context = html_content[max(0, idx-200):idx+200]
-        title = extract_title(context, url)
+        title = extract_title(context)
 
         results.append({
             "title": title,
@@ -143,7 +94,7 @@ def extract_links_from_page(html_content, page_url):
 
         idx = match.start()
         context = html_content[max(0, idx-200):idx+200]
-        title = extract_title(context, url)
+        title = extract_title(context)
 
         results.append({
             "title": title,
@@ -159,10 +110,10 @@ def extract_links_from_page(html_content, page_url):
     return results
 
 
-def extract_title(context, url):
+def extract_title(context):
     """从上下文提取标题"""
     title = "未知资源"
-    # 尝试匹配中文标题
+    # 匹配中文标题
     title_match = re.search(r'[\u4e00-\u9fff\w\s·\-：【】[]{4,50}', context)
     if title_match:
         title = title_match.group(0).strip()
@@ -181,37 +132,33 @@ def run_crawler():
 
     os.makedirs("data", exist_ok=True)
 
-    # 随机选3个关键词
-    keywords = random.sample(KEYWORDS_POOL, min(3, len(KEYWORDS_POOL)))
-    print(f"[爬虫] 本轮关键词: {keywords}")
+    print(f"[爬虫] 启动云端爬虫 v3 | {timestamp}")
+    print(f"[配置] 种子页面: {len(SEED_PAGES)} 个")
 
-    for kw in keywords:
-        print(f"\n[搜索] {kw} ...")
-        page_urls = search(kw)
+    # 随机选3-5个种子页面（避免同时访问太多被封）
+    pages_to_visit = random.sample(SEED_PAGES, min(4, len(SEED_PAGES)))
+    print(f"[访问] 本轮访问 {len(pages_to_visit)} 个页面")
 
-        if not page_urls:
-            print(f"  [跳过] {kw} 无搜索结果")
+    for page_url in pages_to_visit:
+        print(f"\n[抓取] {page_url}")
+        html = fetch_page(page_url)
+
+        if not html:
+            print("    [跳过] 页面获取失败")
             continue
 
-        print(f"  [访问] 准备访问 {len(page_urls)} 个页面")
+        print(f"    [页面] {len(html)} 字节")
 
-        for page_url in page_urls:
-            print(f"  [抓取] {page_url[:70]}...")
-            html = fetch_page(page_url)
-
-            if not html:
-                continue
-
-            links = extract_links_from_page(html, page_url)
-            if links:
-                # 填充关键词
-                for l in links:
-                    l["keyword"] = kw
-                print(f"    [命中] 找到 {len(links)} 个网盘链接")
-                all_results.extend(links)
-
-            # 延迟避免封禁
-            time.sleep(random.uniform(1, 3))
+        links = extract_links_from_html(html, page_url)
+        if links:
+            print(f"    [命中] 找到 {len(links)} 个网盘链接")
+            for link in links[:3]:  # 只打印前3条预览
+                print(f"      - {link['pan_type']} | {link['title'][:30]}... | {link['share_url'][:50]}...")
+            all_results.extend(links)
+        else:
+            # 检查页面是否包含任何 pan 关键词（确认不是被反爬）
+            has_pan = 'pan.baidu.com' in html or 'pan.quark.cn' in html
+            print(f"    [未命中] 页面中{'包含' if has_pan else '不含'} pan 关键词")
 
         time.sleep(random.uniform(2, 5))
 
@@ -226,7 +173,7 @@ def run_crawler():
     # 保存
     output = {
         "timestamp": timestamp,
-        "keywords": keywords,
+        "keywords": pages_to_visit,
         "total_found": len(all_results),
         "unique_links": len(unique_results),
         "results": unique_results
