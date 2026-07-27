@@ -28,6 +28,14 @@ jobs:
     - name: Run crawler
       run: |
         python github_crawler.py
+      continue-on-error: true
+      
+    - name: Show crawler output
+      if: always()
+      run: |
+        echo "=== Checking output ==="
+        ls -la data/batch_github_*.json 2>/dev/null || echo "No output files generated"
+        cat data/batch_github_*.json 2>/dev/null | head -50 || echo "No JSON to display"
         
     - name: Commit results
       run: |
