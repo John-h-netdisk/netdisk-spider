@@ -1,5 +1,8 @@
 name: NetDisk Spider
 
+permissions:
+  contents: write
+
 on:
   # 每6小时运行一次（UTC时间）
   schedule:
@@ -15,6 +18,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
       
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -41,11 +46,15 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add data/batch_github_*.json
+        # Add only if files exist
+        for f in data/batch_github_*.json; do
+          if [ -f "$f" ]; then git add "$f"; fi
+        done
         git diff --staged --quiet || git commit -m "[Auto] Crawl at $(date +%Y%m%d_%H%M)"
         
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
+        force_with_lease: true
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
