@@ -1,224 +1,335 @@
+# -*- coding: utf-8 -*-
 """
-GitHub Actions 云端爬虫 v4
-使用 r.jina.ai 文本提取服务访问TG频道，获取纯文本+链接
+GitHub Actions 云端爬虫 v5
+直接访问 t.me/s/ 频道页面 + BeautifulSoup 解析 HTML
+弃用 r.jina.ai（GitHub 美国机房可直连 t.me，无需中转）
+频道列表来自本地验证有效的 tg_spider_v2.py
 """
 import re
 import json
 import time
 import random
 import os
-import requests
+import html as html_module
 from datetime import datetime
 
-# 网盘链接正则
-BAIDU_PATTERN = re.compile(r'https?://pan\.baidu\.com/s/[a-zA-Z0-9_-]+(?:\?pwd=[a-zA-Z0-9]+)?')
-QUARK_PATTERN = re.compile(r'https?://pan\.quark\.cn/s/[a-zA-Z0-9]+')
+import requests
+from bs4 import BeautifulSoup
 
-# 种子页面列表
-SEED_PAGES = [
-    "https://t.me/s/Aliyun_1",
-    "https://t.me/s/Aliyun_2",
-    "https://t.me/s/Aliyun_4",
-    "https://t.me/s/Aliyun_drive",
-    "https://t.me/s/Quark_Movies",
-    "https://t.me/s/baidu_share",
-    "https://t.me/s/Quark_Share",
-    "https://t.me/s/pan_baidu",
-    "https://t.me/s/pan_quark",
-    "https://t.me/s/Netdisk_Resources",
-    "https://t.me/s/Music_Share_Zone",
-    "https://t.me/s/Book_Share_Zone",
-    "https://t.me/s/Movie_Share_Zone",
-    "https://t.me/s/Software_Share_Zone",
-    "https://t.me/s/Aliyun_3",
-    "https://t.me/s/Aliyun_5",
-    "https://t.me/s/Aliyun_6",
-    "https://t.me/s/Aliyun_7",
-    "https://t.me/s/Aliyun_8",
-    "https://t.me/s/Quark_1",
-    "https://t.me/s/Quark_2",
-    "https://t.me/s/Quark_3",
-    "https://t.me/s/Baidu_1",
-    "https://t.me/s/Baidu_2",
-    "https://t.me/s/Baidu_3",
+# ============================================================
+# 配置
+# ============================================================
+
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+# 已验证有效的 TG 频道列表（来自 tg_spider_v2.py）
+CHANNELS = [
+    "bdyunpan",      # 百度网盘资源（高产）
+    "PanjClub",      # 网盘俱乐部
+    "Quark_Movies",  # 夸克电影
+    "yunpan139",     # 移动云盘（也含百度/夸克）
+    "shareAliyun",   # 阿里（含混合链接）
+    "yunpanxunlei",  # 迅雷（含混合链接）
+    "fuliziyuan",    # 福利资源
+    "XiangxiuNBB",   # 香秀
+    "yunpanuc",      # UC（含混合链接）
+    "leoziyuan",     # 乐资源
+    "yunpanx",       # 云盘
+    "yunpanbaidu",   # 百度网盘资源分享2
+    "yunpanNB",      # 鹏星4K影视综合
+    "QuarkShare",    # 夸克云盘资源收集
+    "quarkdj",       # 网盘资源分享
+    "quarkshare",    # 夸克云盘资源收集2
+    "kuakeshare",    # 夸克网盘资源分享
 ]
 
+# 网盘域名映射
+PAN_HOSTS = {
+    "pan.baidu.com": "baidu",
+    "pan.quark.cn": "quark",
+    "drive.quark.cn": "quark",
+}
 
-def fetch_with_jina(target_url):
-    """使用 jina.ai 提取页面纯文本内容"""
+# 提取码正则
+PASSCODE_RE = re.compile(
+    r"(?:\u63d0\u53d6\u7801|\u5bc6\u7801|pwd|pass|passwd|code|key|\u5bc6\u5319)[:\uff1a\s]*([a-zA-Z0-9]{3,6})",
+    re.I,
+)
+
+# 通用 URL 正则（从正文文本中抓链接）
+URL_RE = re.compile(r"https?://[A-Za-z0-9\-._~:/?#\[\]@!$&'()*+,;=%]+", re.I)
+
+# ============================================================
+# 工具函数
+# ============================================================
+
+def classify_pan(url):
+    """判断 URL 属于哪个网盘"""
+    from urllib.parse import urlparse
+    host = urlparse(url).hostname or ""
+    for domain, ptype in PAN_HOSTS.items():
+        if host == domain or host.endswith(f".{domain}"):
+            return ptype
+    return ""
+
+
+def clean_title(title):
+    """只去除表情符号和多余空白，保留完整可读标题"""
+    if not title:
+        return ""
+    title = html_module.unescape(title)
+    # 去除 Unicode 表情
+    title = re.sub(
+        r'[\U0001F300-\U0001F9FF\U0001F600-\U0001F64F\U0001F680-\U0001F6FF'
+        r'\U00002600-\U000027BF\U000024C2-\U0001F251]+',
+        '', title
+    )
+    title = re.sub(r'\s+', ' ', title).strip()
+    return title
+
+
+def classify_type(title):
+    """简单的关键词匹配分类"""
+    t = title.lower()
+    keywords = {
+        "movie": ["电影", "剧集", "电视剧", "动漫", "动画", "纪录片", "综艺",
+                   "4k", "1080p", "2160p", "蓝光", "bd", "hdr", "remux",
+                   "漫威", "dc", "迪士尼", "宫崎骏", "新海诚"],
+        "music": ["音乐", "专辑", "歌曲", "mp3", "flac", "wav", "无损",
+                  "黑胶", "原声", "ost", "演唱", "歌手", "乐队",
+                  "piano", "钢琴", "violin", "小提琴", "guitar", "吉他",
+                  "曲谱", "谱", "天空之城", "卡农", "菊次郎",
+                  "taylor", "swift", "周杰伦", "林俊杰", "陈奕迅"],
+        "ebook": ["电子书", "pdf", "epub", "书籍", "图书", "教材",
+                  "小说", "漫画", "杂志", "文学", "名著", "传记",
+                  "历史", "哲学", "科学"],
+        "software": ["软件", "工具", "app", "应用", "破解", "激活",
+                     "adobe", "office", "ps", "photoshop", "cad"],
+        "learning": ["教程", "课程", "学习", "教学", "培训", "入门",
+                     "进阶", "实战", "网课", "公开课",
+                     "编程", "python", "java", "javascript", "c++",
+                     "前端", "后端", "ai", "人工智能", "机器学习"],
+    }
+    for type_name, kws in keywords.items():
+        for kw in kws:
+            if kw.lower() in t:
+                return type_name
+    return "other"
+
+
+# ============================================================
+# 核心采集逻辑
+# ============================================================
+
+def fetch_page(channel, before=""):
+    """直接访问 t.me/s/{channel} 页面，返回 HTML"""
+    url = f"https://t.me/s/{channel}"
+    if before:
+        url += f"?before={before}"
     try:
-        jina_url = f"https://r.jina.ai/http://{target_url.replace('https://', '').replace('http://', '')}"
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-        }
-        print(f"    [jina] {jina_url[:80]}...")
-        resp = requests.get(jina_url, headers=headers, timeout=20)
-        if resp.status_code == 200:
-            text = resp.text
-            print(f"    [jina] 成功获取 {len(text)} 字符")
-            return text
+        r = requests.get(url, headers={"User-Agent": UA}, timeout=30)
+        if r.status_code == 200 and "tgme_widget_message" in r.text:
+            return r.text
         else:
-            print(f"    [jina] HTTP {resp.status_code}")
+            print(f"    [fetch] HTTP {r.status_code}, "
+                  f"contains tgme: {'tgme_widget_message' in r.text}, "
+                  f"size: {len(r.text)}")
             return ""
     except Exception as e:
-        print(f"    [jina错误] {type(e).__name__}: {e}")
+        print(f"    [fetch error] {type(e).__name__}: {e}")
         return ""
 
 
-def fetch_direct(target_url):
-    """直接访问页面"""
-    try:
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        }
-        resp = requests.get(target_url, headers=headers, timeout=15, allow_redirects=True)
-        resp.encoding = resp.apparent_encoding or 'utf-8'
-        print(f"    [direct] HTTP {resp.status_code}, {len(resp.text)} bytes")
-        return resp.text
-    except Exception as e:
-        print(f"    [direct错误] {type(e).__name__}: {e}")
-        return ""
-
-
-def extract_links(text_content, page_url):
-    """从文本中提取网盘链接和标题"""
+def parse_messages(html_text, channel):
+    """用 BeautifulSoup 解析 TG 频道页面，提取网盘链接"""
+    soup = BeautifulSoup(html_text, "html.parser")
     results = []
 
-    # 百度网盘
-    for match in BAIDU_PATTERN.finditer(text_content):
-        url = match.group(0)
-        password = ""
-        pwd_match = re.search(r'pwd=([a-zA-Z0-9]+)', url)
-        if pwd_match:
-            password = pwd_match.group(1)
-            url = url.split('?pwd=')[0]
+    for msg_wrap in soup.find_all("div", class_="tgme_widget_message_wrap"):
+        msg = msg_wrap.find("div", class_="tgme_widget_message")
+        if not msg:
+            continue
 
-        # 从上下文提取标题（jina.ai会在链接后放文本描述）
-        idx = match.start()
-        context = text_content[max(0, idx-300):idx+300]
-        title = extract_title(context)
+        post_id = msg.get("data-post", "").replace(f"{channel}/", "")
+        text_el = msg_wrap.find("div", class_="tgme_widget_message_text")
+        raw_text = text_el.get_text("\n").strip() if text_el else ""
+        time_el = msg_wrap.find("time")
+        msg_time = time_el.get("datetime", "") if time_el else ""
 
-        results.append({
-            "title": title,
-            "share_url": url,
-            "share_password": password,
-            "pan_type": "baidu",
-            "resource_type": "other",
-            "source": "github_actions",
-            "keyword": "",
-            "page_url": page_url
-        })
+        # 标题 = 正文第一行
+        title = raw_text.split("\n")[0].strip() if raw_text else ""
+        title = clean_title(title)
+        if len(title) < 3:
+            title = raw_text[:80].strip() if raw_text else f"{channel} {post_id}"
 
-    # 夸克网盘
-    for match in QUARK_PATTERN.finditer(text_content):
-        url = match.group(0)
+        # 提取链接：从正文文本 + <a> href 双通道
+        seen = set()
+        links = []
 
-        idx = match.start()
-        context = text_content[max(0, idx-300):idx+300]
-        title = extract_title(context)
+        # 通道1: 从纯文本中正则匹配 URL
+        for url_match in URL_RE.finditer(raw_text):
+            url = url_match.group(0)
+            ptype = classify_pan(url)
+            if not ptype:
+                continue
+            key = url.lower()
+            if key in seen:
+                continue
+            seen.add(key)
+            links.append({"type": ptype, "url": url})
 
-        results.append({
-            "title": title,
-            "share_url": url,
-            "share_password": "",
-            "pan_type": "quark",
-            "resource_type": "other",
-            "source": "github_actions",
-            "keyword": "",
-            "page_url": page_url
-        })
+        # 通道2: 从 <a> 标签 href 属性提取
+        if text_el:
+            for a in text_el.find_all("a", href=True):
+                url = a["href"]
+                ptype = classify_pan(url)
+                if not ptype:
+                    continue
+                key = url.lower()
+                if key in seen:
+                    continue
+                seen.add(key)
+                links.append({"type": ptype, "url": url})
+
+        if not links:
+            continue
+
+        # 匹配提取码
+        passcodes = PASSCODE_RE.findall(raw_text)
+        for link in links:
+            url_pos = raw_text.find(link["url"])
+            best_code = ""
+            best_dist = float("inf")
+            for code in passcodes:
+                code_pos = raw_text.find(code)
+                dist = abs(code_pos - url_pos) if url_pos >= 0 else 9999
+                if dist < best_dist:
+                    best_dist = dist
+                    best_code = code
+            if best_code and best_dist < 200:
+                link["passcode"] = best_code
+            else:
+                # 也从 URL 本身提取 ?pwd= 参数
+                pwd_match = re.search(r'[?&]pwd=([a-zA-Z0-9]+)', link["url"])
+                if pwd_match:
+                    link["passcode"] = pwd_match.group(1)
+                    link["url"] = re.sub(r'[?&]pwd=[a-zA-Z0-9]+', '', link["url"])
+                else:
+                    link["passcode"] = ""
+
+        rtype = classify_type(title)
+
+        for link in links:
+            results.append({
+                "title": title[:100],
+                "share_url": link["url"],
+                "share_password": link.get("passcode", ""),
+                "pan_type": link["type"],
+                "resource_type": rtype,
+                "source": f"telegram:{channel}:{post_id}",
+                "msg_time": msg_time,
+            })
 
     return results
 
 
-def extract_title(context):
-    """从上下文提取标题"""
-    title = "未知资源"
-    # jina.ai 的格式通常是 "Title: [标题]\nURL: [url]\n..."
-    # 先尝试匹配 jina.ai 的 Title 行
-    title_match = re.search(r'Title:\s*(.+)', context)
-    if title_match:
-        title = title_match.group(1).strip()
-    else:
-        # 匹配中文标题
-        title_match = re.search(r'[\u4e00-\u9fff\w\s·\-：【】[]{4,50}', context)
-        if title_match:
-            title = title_match.group(0).strip()
+def get_before_link(html_text):
+    """获取下一页的 before 参数"""
+    soup = BeautifulSoup(html_text, "html.parser")
+    for a in soup.find_all("a", href=True):
+        if "before=" in a["href"]:
+            match = re.search(r"before=([^&]+)", a["href"])
+            if match:
+                return match.group(1)
+    return None
 
-    title = re.sub(r'<[^>]+>', '', title)
-    title = re.sub(r'https?://\S+', '', title).strip()
-    if not title or len(title) < 2:
-        title = "未知资源"
-    return title[:50]
 
+def crawl_channel(channel, max_pages=3):
+    """爬取单个频道，翻 max_pages 页"""
+    print(f"\n[{channel}] 开始爬取 (max {max_pages} pages)")
+    before = ""
+    all_results = []
+    page = 0
+
+    while page < max_pages:
+        html_text = fetch_page(channel, before)
+        if not html_text:
+            print(f"  [{channel}] Page {page+1}: fetch failed")
+            break
+
+        records = parse_messages(html_text, channel)
+        if not records:
+            print(f"  [{channel}] Page {page+1}: no pan links found")
+            break
+
+        all_results.extend(records)
+        print(f"  [{channel}] Page {page+1}: {len(records)} links")
+
+        next_before = get_before_link(html_text)
+        if not next_before:
+            print(f"  [{channel}] No more pages")
+            break
+
+        before = next_before
+        page += 1
+        time.sleep(0.5)
+
+    print(f"  [{channel}] done: {len(all_results)} links from {page+1} pages")
+    return all_results
+
+
+# ============================================================
+# 主入口
+# ============================================================
 
 def run_crawler():
-    """主爬虫逻辑"""
     timestamp = datetime.now().strftime("%Y%m%d_%H%M")
-    all_results = []
-
     os.makedirs("data", exist_ok=True)
 
-    print(f"[爬虫] 启动云端爬虫 v4 | {timestamp}")
-    print(f"[配置] 种子页面: {len(SEED_PAGES)} 个")
+    print(f"[crawler] v5 start | {timestamp}")
+    print(f"[config] {len(CHANNELS)} channels")
 
-    # 随机选3-5个种子页面
-    pages_to_visit = random.sample(SEED_PAGES, min(5, len(SEED_PAGES)))
-    print(f"[访问] 本轮访问 {len(pages_to_visit)} 个页面")
+    # 每次随机选 5 个频道，每个频道翻 3 页
+    channels_this_run = random.sample(CHANNELS, min(5, len(CHANNELS)))
+    print(f"[run] channels: {channels_this_run}")
 
-    for page_url in pages_to_visit:
-        print(f"\n[抓取] {page_url}")
+    all_results = []
+    debug_info = []
 
-        # 先尝试 jina.ai 提取
-        text = fetch_with_jina(page_url)
-
-        if not text:
-            print("    [jina失败] 尝试直接访问...")
-            text = fetch_direct(page_url)
-
-        if not text:
-            print("    [跳过] 两种方法都失败")
-            continue
-
-        links = extract_links(text, page_url)
-        if links:
-            print(f"    [命中] 找到 {len(links)} 个网盘链接")
-            for link in links[:3]:
-                print(f"      - {link['pan_type']} | {link['title'][:30]}... | {link['share_url'][:50]}...")
-            all_results.extend(links)
+    for ch in channels_this_run:
+        results = crawl_channel(ch, max_pages=3)
+        if results:
+            all_results.extend(results)
         else:
-            has_pan = 'pan.baidu.com' in text or 'pan.quark.cn' in text
-            print(f"    [未命中] 页面中{'包含' if has_pan else '不含'} pan 关键词")
-            if not has_pan and len(text) > 0:
-                # 打印前200字符帮助调试
-                preview = text[:200].replace('\n', ' ')
-                print(f"    [预览] {preview}...")
-
-        time.sleep(random.uniform(2, 5))
+            debug_info.append({"channel": ch, "status": "no_links"})
+        time.sleep(random.uniform(1, 2))
 
     # 去重
     seen = set()
     unique_results = []
     for r in all_results:
-        if r["share_url"] not in seen:
-            seen.add(r["share_url"])
+        key = r["share_url"].lower()
+        if key not in seen:
+            seen.add(key)
             unique_results.append(r)
 
     # 保存
     output = {
+        "version": "v5",
         "timestamp": timestamp,
-        "keywords": pages_to_visit,
+        "channels_visited": channels_this_run,
         "total_found": len(all_results),
         "unique_links": len(unique_results),
-        "results": unique_results
+        "results": unique_results,
+        "debug": debug_info,
     }
 
     output_file = f"data/batch_github_{timestamp}.json"
-    with open(output_file, 'w', encoding='utf-8') as f:
+    with open(output_file, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"\n[完成] 保存 {len(unique_results)} 条链接到 {output_file}")
-    print(f"[统计] 总发现 {len(all_results)} 条, 去重后 {len(unique_results)} 条")
+    print(f"\n[done] saved {len(unique_results)} links to {output_file}")
+    print(f"[stats] total={len(all_results)}, unique={len(unique_results)}")
     return output_file
 
 
