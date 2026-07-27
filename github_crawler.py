@@ -6,6 +6,7 @@ import re
 import json
 import time
 import random
+import os
 import requests
 from datetime import datetime
 from urllib.parse import quote
@@ -152,6 +153,9 @@ def run_crawler():
         "unique_links": len(unique_results),
         "results": unique_results
     }
+    
+    # 确保data目录存在
+    os.makedirs("data", exist_ok=True)
     
     output_file = f"data/batch_github_{timestamp}.json"
     with open(output_file, 'w', encoding='utf-8') as f:
