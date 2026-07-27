@@ -1,0 +1,43 @@
+name: NetDisk Spider
+
+on:
+  # 每6小时运行一次（UTC时间）
+  schedule:
+    - cron: '0 */6 * * *'
+  # 手动触发（调试用）
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10  # 单次最多10分钟，防止意外消耗
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4
+        
+    - name: Run crawler
+      run: |
+        python github_crawler.py
+        
+    - name: Commit results
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/batch_github_*.json
+        git diff --staged --quiet || git commit -m "[Auto] Crawl at $(date +%Y%m%d_%H%M)"
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}

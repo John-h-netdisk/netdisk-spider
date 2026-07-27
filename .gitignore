@@ -1,0 +1,10 @@
+data/search_engine.db
+*.db
+__pycache__/
+*.log
+*.pyc
+config/quark_cookie.txt
+config/*.json
+scripts/*.pyc
+frontend/*.pyc
+data/backup/
