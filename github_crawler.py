@@ -22,26 +22,39 @@ from bs4 import BeautifulSoup
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
-# 已验证有效的 TG 频道列表（来自 tg_spider_v2.py）
-CHANNELS = [
-    "bdyunpan",      # 百度网盘资源（高产）
-    "PanjClub",      # 网盘俱乐部
-    "Quark_Movies",  # 夸克电影
-    "yunpan139",     # 移动云盘（也含百度/夸克）
-    "shareAliyun",   # 阿里（含混合链接）
-    "yunpanxunlei",  # 迅雷（含混合链接）
-    "fuliziyuan",    # 福利资源
-    "XiangxiuNBB",   # 香秀
-    "yunpanuc",      # UC（含混合链接）
-    "leoziyuan",     # 乐资源
-    "yunpanx",       # 云盘
-    "yunpanbaidu",   # 百度网盘资源分享2
-    "yunpanNB",      # 鹏星4K影视综合
-    "QuarkShare",    # 夸克云盘资源收集
-    "quarkdj",       # 网盘资源分享
-    "quarkshare",    # 夸克云盘资源收集2
-    "kuakeshare",    # 夸克网盘资源分享
-]
+# ============================================================
+# 频道配置（按活跃度 / 产出率分级）
+# ============================================================
+# 分级规则：
+#   HIGH  = 高产频道（百度/夸克为主，更新频繁）→ 翻 5 页
+#   MID   = 中等产出（混合内容但有效）        → 翻 3 页
+#   LOW   = 低产频道（更新少或含大量非目标）   → 翻 2 页
+CHANNEL_CONFIG = {
+    # --- HIGH 高产（目标网盘为主，翻 5 页）---
+    "bdyunpan":      {"priority": "HIGH", "pages": 5, "note": "百度网盘资源，高产"},
+    "PanjClub":      {"priority": "HIGH", "pages": 5, "note": "网盘俱乐部"},
+    "Quark_Movies":  {"priority": "HIGH", "pages": 5, "note": "夸克电影"},
+    "yunpanbaidu":   {"priority": "HIGH", "pages": 5, "note": "百度网盘资源分享2"},
+    "QuarkShare":    {"priority": "HIGH", "pages": 5, "note": "夸克云盘资源收集"},
+    "quarkshare":    {"priority": "HIGH", "pages": 5, "note": "夸克云盘资源收集2"},
+    "kuakeshare":    {"priority": "HIGH", "pages": 5, "note": "夸克网盘资源分享"},
+    "yunpanNB":      {"priority": "HIGH", "pages": 5, "note": "鹏星4K影视综合"},
+    "leoziyuan":     {"priority": "HIGH", "pages": 5, "note": "乐资源"},
+
+    # --- MID 中等（混合内容，翻 3 页）---
+    "yunpan139":     {"priority": "MID",  "pages": 3, "note": "移动云盘（混合）"},
+    "yunpanx":       {"priority": "MID",  "pages": 3, "note": "云盘"},
+    "quarkdj":       {"priority": "MID",  "pages": 3, "note": "网盘资源分享"},
+    "fuliziyuan":    {"priority": "MID",  "pages": 3, "note": "福利资源"},
+
+    # --- LOW 低产（非目标网盘为主，翻 2 页）---
+    "shareAliyun":   {"priority": "LOW",  "pages": 2, "note": "阿里云（混合，非目标为主）"},
+    "yunpanxunlei":  {"priority": "LOW",  "pages": 2, "note": "迅雷（非目标）"},
+    "yunpanuc":      {"priority": "LOW",  "pages": 2, "note": "UC（非目标）"},
+    "XiangxiuNBB":   {"priority": "LOW",  "pages": 2, "note": "香秀"},
+}
+
+CHANNELS = list(CHANNEL_CONFIG.keys())
 
 # 网盘域名映射
 PAN_HOSTS = {
@@ -246,12 +259,15 @@ def get_before_link(html_text):
 
 def crawl_channel(channel, max_pages=3):
     """爬取单个频道，翻 max_pages 页"""
-    print(f"\n[{channel}] 开始爬取 (max {max_pages} pages)")
+    cfg = CHANNEL_CONFIG.get(channel, {"priority": "MID", "pages": 3, "note": ""})
+    pages = cfg["pages"]
+    print(f"\n[{channel}] {cfg['note']} | 优先级={cfg['priority']} | 计划翻 {pages} 页")
+
     before = ""
     all_results = []
     page = 0
 
-    while page < max_pages:
+    while page < pages:
         html_text = fetch_page(channel, before)
         if not html_text:
             print(f"  [{channel}] Page {page+1}: fetch failed")
@@ -274,7 +290,7 @@ def crawl_channel(channel, max_pages=3):
         page += 1
         time.sleep(0.5)
 
-    print(f"  [{channel}] done: {len(all_results)} links from {page+1} pages")
+    print(f"  [{channel}] done: {len(all_results)} links from {page+1}/{pages} pages")
     return all_results
 
 
@@ -286,20 +302,26 @@ def run_crawler():
     timestamp = datetime.now().strftime("%Y%m%d_%H%M")
     os.makedirs("data", exist_ok=True)
 
-    print(f"[crawler] v5 start | {timestamp}")
-    print(f"[config] {len(CHANNELS)} channels")
-
-    # 每次随机选 5 个频道，每个频道翻 3 页
-    channels_this_run = random.sample(CHANNELS, min(5, len(CHANNELS)))
-    print(f"[run] channels: {channels_this_run}")
+    print(f"[crawler] v6 start | {timestamp}")
+    print(f"[config] 共 {len(CHANNELS)} 个频道")
+    print(f"[strategy] 遍历全部频道，按优先级分配翻页数")
+    print(f"  HIGH(5页): {[c for c in CHANNELS if CHANNEL_CONFIG[c]['priority']=='HIGH']}")
+    print(f"  MID(3页):  {[c for c in CHANNELS if CHANNEL_CONFIG[c]['priority']=='MID']}")
+    print(f"  LOW(2页):  {[c for c in CHANNELS if CHANNEL_CONFIG[c]['priority']=='LOW']}")
+    print(f"[estimate] 总页数约: {sum(CHANNEL_CONFIG[c]['pages'] for c in CHANNELS)} 页")
 
     all_results = []
     debug_info = []
+    total_pages = 0
 
-    for ch in channels_this_run:
-        results = crawl_channel(ch, max_pages=3)
+    # 遍历全部频道（高优先级先采）
+    sorted_channels = sorted(CHANNELS, key=lambda c: {"HIGH": 0, "MID": 1, "LOW": 2}[CHANNEL_CONFIG[c]["priority"]])
+
+    for ch in sorted_channels:
+        results = crawl_channel(ch)
         if results:
             all_results.extend(results)
+            total_pages += CHANNEL_CONFIG[ch]["pages"]
         else:
             debug_info.append({"channel": ch, "status": "no_links"})
         time.sleep(random.uniform(1, 2))
@@ -315,9 +337,9 @@ def run_crawler():
 
     # 保存
     output = {
-        "version": "v5",
+        "version": "v6",
         "timestamp": timestamp,
-        "channels_visited": channels_this_run,
+        "channels_visited": sorted_channels,
         "total_found": len(all_results),
         "unique_links": len(unique_results),
         "results": unique_results,
@@ -329,7 +351,7 @@ def run_crawler():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     print(f"\n[done] saved {len(unique_results)} links to {output_file}")
-    print(f"[stats] total={len(all_results)}, unique={len(unique_results)}")
+    print(f"[stats] total={len(all_results)}, unique={len(unique_results)}, channels={len(sorted_channels)}, est_pages={total_pages}")
     return output_file
 
 
