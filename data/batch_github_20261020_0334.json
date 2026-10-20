@@ -1,0 +1,5355 @@
+{
+  "version": "v6",
+  "timestamp": "20261020_0334",
+  "channels_visited": [
+    "bdyunpan",
+    "PanjClub",
+    "Quark_Movies",
+    "yunpanbaidu",
+    "QuarkShare",
+    "quarkshare",
+    "kuakeshare",
+    "yunpanNB",
+    "leoziyuan",
+    "yunpan139",
+    "yunpanx",
+    "quarkdj",
+    "fuliziyuan",
+    "shareAliyun",
+    "yunpanxunlei",
+    "yunpanuc",
+    "XiangxiuNBB"
+  ],
+  "total_found": 1056,
+  "unique_links": 590,
+  "results": [
+    {
+      "title": "4K [][14]",
+      "share_url": "https://pan.quark.cn/s/07a451fbad12",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12584",
+      "msg_time": "2026-10-19T14:04:38+00:00"
+    },
+    {
+      "title": "4KMAX [246]",
+      "share_url": "https://pan.quark.cn/s/e9c59aeb2fed",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12585",
+      "msg_time": "2026-10-19T14:10:10+00:00"
+    },
+    {
+      "title": "4K [60fps][10]",
+      "share_url": "https://pan.quark.cn/s/2a3857c79b80",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12586",
+      "msg_time": "2026-10-19T14:18:46+00:00"
+    },
+    {
+      "title": "4KMAX [HDR60fps][16]",
+      "share_url": "https://pan.quark.cn/s/a1a2341087d4",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12587",
+      "msg_time": "2026-10-19T14:26:03+00:00"
+    },
+    {
+      "title": "4KMAX [HDR60fps][12]",
+      "share_url": "https://pan.quark.cn/s/4b5f99c86e99",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12588",
+      "msg_time": "2026-10-19T14:32:07+00:00"
+    },
+    {
+      "title": "4K [60fps][10]",
+      "share_url": "https://pan.quark.cn/s/7560da09962d",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12589",
+      "msg_time": "2026-10-19T14:49:52+00:00"
+    },
+    {
+      "title": "4K [HDR60fps][][20]",
+      "share_url": "https://pan.quark.cn/s/746710605c25",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12590",
+      "msg_time": "2026-10-19T14:58:57+00:00"
+    },
+    {
+      "title": "4KMAX [HDR60fps][][06]",
+      "share_url": "https://pan.quark.cn/s/22be92e2bf7e",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12592",
+      "msg_time": "2026-10-19T15:08:56+00:00"
+    },
+    {
+      "title": "[DSNP][][05]",
+      "share_url": "https://pan.quark.cn/s/0ade7e4170c2",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12593",
+      "msg_time": "2026-10-19T15:21:00+00:00"
+    },
+    {
+      "title": "4KMAX [HDR60fps][][10]",
+      "share_url": "https://pan.quark.cn/s/1902851ea637",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12594",
+      "msg_time": "2026-10-19T17:46:27+00:00"
+    },
+    {
+      "title": "4KMAX [HDR60fps][][23]",
+      "share_url": "https://pan.quark.cn/s/2599fa37ea63",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12595",
+      "msg_time": "2026-10-19T17:46:57+00:00"
+    },
+    {
+      "title": "BOSS 4K [14]",
+      "share_url": "https://pan.quark.cn/s/cb8a756dff59",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12596",
+      "msg_time": "2026-10-19T17:47:35+00:00"
+    },
+    {
+      "title": "[AMZN][][01]",
+      "share_url": "https://pan.quark.cn/s/f590bd3ad53e",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12597",
+      "msg_time": "2026-10-19T18:44:44+00:00"
+    },
+    {
+      "title": "[][16]",
+      "share_url": "https://pan.quark.cn/s/a39bfba730cb",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12598",
+      "msg_time": "2026-10-20T00:27:10+00:00"
+    },
+    {
+      "title": "[][40]",
+      "share_url": "https://pan.quark.cn/s/c3c6e3b0d080",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12599",
+      "msg_time": "2026-10-20T00:31:04+00:00"
+    },
+    {
+      "title": "4KMAX [559]",
+      "share_url": "https://pan.quark.cn/s/2acd6ea2f90a",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12600",
+      "msg_time": "2026-10-20T02:29:44+00:00"
+    },
+    {
+      "title": "4KMAX [387]",
+      "share_url": "https://pan.quark.cn/s/21ccf92e5d15",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12601",
+      "msg_time": "2026-10-20T02:32:22+00:00"
+    },
+    {
+      "title": "4K [49]",
+      "share_url": "https://pan.quark.cn/s/8dc9fa1552d3",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12602",
+      "msg_time": "2026-10-20T02:50:20+00:00"
+    },
+    {
+      "title": "[FLAC][11]",
+      "share_url": "https://pan.quark.cn/s/1fb1cc4c8706",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "music",
+      "source": "telegram:PanjClub:12603",
+      "msg_time": "2026-10-20T02:51:48+00:00"
+    },
+    {
+      "title": "[29]",
+      "share_url": "https://pan.quark.cn/s/2f2119cf7a28",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12604",
+      "msg_time": "2026-10-20T02:52:34+00:00"
+    },
+    {
+      "title": "[HBOMax][][12]",
+      "share_url": "https://pan.quark.cn/s/e5edda29aaa5",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12548",
+      "msg_time": "2026-10-17T21:12:39+00:00"
+    },
+    {
+      "title": "4K [DV&HDR][][12]",
+      "share_url": "https://pan.quark.cn/s/d733f98f76d8",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12551",
+      "msg_time": "2026-10-18T13:19:51+00:00"
+    },
+    {
+      "title": "4K [][105]",
+      "share_url": "https://pan.quark.cn/s/2ab01a296201",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12552",
+      "msg_time": "2026-10-18T13:22:39+00:00"
+    },
+    {
+      "title": "4KMAX [+][163]",
+      "share_url": "https://pan.quark.cn/s/b4f238ea66ad",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12553",
+      "msg_time": "2026-10-18T13:26:38+00:00"
+    },
+    {
+      "title": "4KMAX [701]",
+      "share_url": "https://pan.quark.cn/s/45bab8573d53",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12556",
+      "msg_time": "2026-10-18T13:34:16+00:00"
+    },
+    {
+      "title": "4K [24]",
+      "share_url": "https://pan.quark.cn/s/2c1b0873ccd7",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12557",
+      "msg_time": "2026-10-18T13:41:11+00:00"
+    },
+    {
+      "title": "4KMAX [HDR60fps][22]",
+      "share_url": "https://pan.quark.cn/s/cfd9df8ae6fa",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12560",
+      "msg_time": "2026-10-18T13:47:54+00:00"
+    },
+    {
+      "title": "[][08]",
+      "share_url": "https://pan.quark.cn/s/ec7fbefa57ea",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12569",
+      "msg_time": "2026-10-18T18:20:35+00:00"
+    },
+    {
+      "title": "[NF][][04]",
+      "share_url": "https://pan.quark.cn/s/c9d667db79ea",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12570",
+      "msg_time": "2026-10-18T18:22:00+00:00"
+    },
+    {
+      "title": "[AMZN][][10]",
+      "share_url": "https://pan.quark.cn/s/2c96a3c11fa6",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12571",
+      "msg_time": "2026-10-18T18:25:10+00:00"
+    },
+    {
+      "title": "[][23]",
+      "share_url": "https://pan.quark.cn/s/fdc306aa766f",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12574",
+      "msg_time": "2026-10-18T22:06:48+00:00"
+    },
+    {
+      "title": "[][02]",
+      "share_url": "https://pan.quark.cn/s/2cd793ca5efc",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12575",
+      "msg_time": "2026-10-18T23:15:15+00:00"
+    },
+    {
+      "title": "[HBOMax][][05]",
+      "share_url": "https://pan.quark.cn/s/d25132b8f8b6",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12576",
+      "msg_time": "2026-10-18T23:15:41+00:00"
+    },
+    {
+      "title": "4K [HDR][14]",
+      "share_url": "https://pan.quark.cn/s/f0ba5460ffa7",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12577",
+      "msg_time": "2026-10-19T01:46:23+00:00"
+    },
+    {
+      "title": "4K [][29]",
+      "share_url": "https://pan.quark.cn/s/32a5995681a7",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12578",
+      "msg_time": "2026-10-19T01:53:29+00:00"
+    },
+    {
+      "title": "4KMAX [650]",
+      "share_url": "https://pan.quark.cn/s/2aa53b3ac94f",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12579",
+      "msg_time": "2026-10-19T02:49:25+00:00"
+    },
+    {
+      "title": "4K [14]",
+      "share_url": "https://pan.quark.cn/s/643d1bff02a7",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12580",
+      "msg_time": "2026-10-19T02:53:06+00:00"
+    },
+    {
+      "title": "4K [15]",
+      "share_url": "https://pan.quark.cn/s/cba5dd3931e7",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12581",
+      "msg_time": "2026-10-19T03:09:44+00:00"
+    },
+    {
+      "title": "4KMAX [HDR60fps][18]",
+      "share_url": "https://pan.quark.cn/s/ae16a8ba8d7f",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12582",
+      "msg_time": "2026-10-19T04:24:24+00:00"
+    },
+    {
+      "title": "4K [IQ][][08]",
+      "share_url": "https://pan.quark.cn/s/2302cf664f87",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12583",
+      "msg_time": "2026-10-19T14:04:21+00:00"
+    },
+    {
+      "title": "4K [SDR][][11]",
+      "share_url": "https://pan.quark.cn/s/9ee1a730df2c",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12495",
+      "msg_time": "2026-10-15T12:07:31+00:00"
+    },
+    {
+      "title": "13 4KMAX [14]",
+      "share_url": "https://pan.quark.cn/s/85633515cc67",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12496",
+      "msg_time": "2026-10-15T12:08:25+00:00"
+    },
+    {
+      "title": "4KMAX [4K&1080][11]",
+      "share_url": "https://pan.quark.cn/s/7923945679d9",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12497",
+      "msg_time": "2026-10-15T12:09:31+00:00"
+    },
+    {
+      "title": "4KMAX [HDR60fps][][24]",
+      "share_url": "https://pan.quark.cn/s/e16840a644ae",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12504",
+      "msg_time": "2026-10-15T12:55:35+00:00"
+    },
+    {
+      "title": "4KMAX [288]",
+      "share_url": "https://pan.quark.cn/s/799d53b3cb0b",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12505",
+      "msg_time": "2026-10-15T12:57:13+00:00"
+    },
+    {
+      "title": "[DSNP][][04]",
+      "share_url": "https://pan.quark.cn/s/7be78b6e36a4",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12506",
+      "msg_time": "2026-10-15T21:07:19+00:00"
+    },
+    {
+      "title": "4K [HDR60fps][][30]",
+      "share_url": "https://pan.quark.cn/s/235696fe507f",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12507",
+      "msg_time": "2026-10-15T22:16:10+00:00"
+    },
+    {
+      "title": "4K [99]",
+      "share_url": "https://pan.quark.cn/s/9c8fd5fcdf91",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12509",
+      "msg_time": "2026-10-16T10:43:45+00:00"
+    },
+    {
+      "title": "4K [12]",
+      "share_url": "https://pan.quark.cn/s/8998a1880787",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12510",
+      "msg_time": "2026-10-16T10:45:06+00:00"
+    },
+    {
+      "title": "4K [08]",
+      "share_url": "https://pan.quark.cn/s/2a1c96992945",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12514",
+      "msg_time": "2026-10-16T10:59:10+00:00"
+    },
+    {
+      "title": "[][175]",
+      "share_url": "https://pan.quark.cn/s/ce90063d8a9c",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12521",
+      "msg_time": "2026-10-16T11:34:01+00:00"
+    },
+    {
+      "title": "4K [60fps][DTS][20]",
+      "share_url": "https://pan.quark.cn/s/fd86f8cc79b8",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12524",
+      "msg_time": "2026-10-16T19:38:16+00:00"
+    },
+    {
+      "title": "4KMAX [215]",
+      "share_url": "https://pan.quark.cn/s/9538f19b274f",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12528",
+      "msg_time": "2026-10-17T13:24:36+00:00"
+    },
+    {
+      "title": "4KMAX [492]",
+      "share_url": "https://pan.quark.cn/s/add639e5cf7d",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12530",
+      "msg_time": "2026-10-17T13:29:09+00:00"
+    },
+    {
+      "title": "4KMAX [FLAC][05]",
+      "share_url": "https://pan.quark.cn/s/9102415230b5",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12531",
+      "msg_time": "2026-10-17T13:30:53+00:00"
+    },
+    {
+      "title": "[04]",
+      "share_url": "https://pan.quark.cn/s/97307567b446",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12532",
+      "msg_time": "2026-10-17T13:31:55+00:00"
+    },
+    {
+      "title": "4KMAX [461]",
+      "share_url": "https://pan.quark.cn/s/ccf845301583",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12533",
+      "msg_time": "2026-10-17T13:33:09+00:00"
+    },
+    {
+      "title": "4K [][196]",
+      "share_url": "https://pan.quark.cn/s/c7edc31dde3f",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12534",
+      "msg_time": "2026-10-17T13:47:28+00:00"
+    },
+    {
+      "title": "Doctor X [NF][][04]",
+      "share_url": "https://pan.quark.cn/s/f0dbda64c640",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12542",
+      "msg_time": "2026-10-17T18:40:45+00:00"
+    },
+    {
+      "title": "[NF][][10]",
+      "share_url": "https://pan.quark.cn/s/81a69a1a636d",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12547",
+      "msg_time": "2026-10-17T21:04:14+00:00"
+    },
+    {
+      "title": "4K [DV&HDR][][94]",
+      "share_url": "https://pan.quark.cn/s/4f7854f740e9",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12427",
+      "msg_time": "2026-10-11T14:04:34+00:00"
+    },
+    {
+      "title": "4K [23]",
+      "share_url": "https://pan.quark.cn/s/5ead674685a5",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12429",
+      "msg_time": "2026-10-11T16:28:40+00:00"
+    },
+    {
+      "title": "4K [34]",
+      "share_url": "https://pan.quark.cn/s/e0d03f7d887d",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12430",
+      "msg_time": "2026-10-11T16:42:55+00:00"
+    },
+    {
+      "title": "4KMAX [HDR60fps][][47]",
+      "share_url": "https://pan.quark.cn/s/845a1b3c40a0",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12432",
+      "msg_time": "2026-10-11T17:26:09+00:00"
+    },
+    {
+      "title": "4K [][24]",
+      "share_url": "https://pan.quark.cn/s/e1e051d9bace",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12441",
+      "msg_time": "2026-10-11T19:20:23+00:00"
+    },
+    {
+      "title": "4K [DV&HDR][][14]",
+      "share_url": "https://pan.quark.cn/s/9726995ce58d",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12456",
+      "msg_time": "2026-10-14T11:25:35+00:00"
+    },
+    {
+      "title": "​ ​ 4KMAX [15]",
+      "share_url": "https://pan.quark.cn/s/87d567e03c99",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12460",
+      "msg_time": "2026-10-14T11:34:39+00:00"
+    },
+    {
+      "title": "4KMAX [][185]",
+      "share_url": "https://pan.quark.cn/s/9e1a1e5d0a33",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12461",
+      "msg_time": "2026-10-14T11:36:11+00:00"
+    },
+    {
+      "title": "4KMAX [1080p][08]",
+      "share_url": "https://pan.quark.cn/s/bf1f3efff77e",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12462",
+      "msg_time": "2026-10-14T11:45:00+00:00"
+    },
+    {
+      "title": "4K [163]",
+      "share_url": "https://pan.quark.cn/s/3dea995b4b68",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12463",
+      "msg_time": "2026-10-14T11:50:34+00:00"
+    },
+    {
+      "title": "4K [FLAC][19]",
+      "share_url": "https://pan.quark.cn/s/a273e53de321",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12464",
+      "msg_time": "2026-10-14T11:56:00+00:00"
+    },
+    {
+      "title": "4K [][24]",
+      "share_url": "https://pan.quark.cn/s/60bbf72bc870",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12474",
+      "msg_time": "2026-10-14T13:20:09+00:00"
+    },
+    {
+      "title": "[][02]",
+      "share_url": "https://pan.quark.cn/s/32ab815d66b8",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12477",
+      "msg_time": "2026-10-14T13:57:22+00:00"
+    },
+    {
+      "title": "4K [DSNP][][02]",
+      "share_url": "https://pan.quark.cn/s/5368d191d6e2",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12484",
+      "msg_time": "2026-10-14T14:52:28+00:00"
+    },
+    {
+      "title": "4K [APTV][][05]",
+      "share_url": "https://pan.quark.cn/s/ba75a4b27e85",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12485",
+      "msg_time": "2026-10-14T15:03:38+00:00"
+    },
+    {
+      "title": "4K [APTV][][05]",
+      "share_url": "https://pan.quark.cn/s/e04ee05bca39",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12486",
+      "msg_time": "2026-10-14T15:06:55+00:00"
+    },
+    {
+      "title": "[DSNP][][02]",
+      "share_url": "https://pan.quark.cn/s/79e9e6f705a9",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12488",
+      "msg_time": "2026-10-14T17:43:17+00:00"
+    },
+    {
+      "title": "[08]",
+      "share_url": "https://pan.quark.cn/s/9d626d2d87a5",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12489",
+      "msg_time": "2026-10-15T02:40:40+00:00"
+    },
+    {
+      "title": "4KMAX [06]",
+      "share_url": "https://pan.quark.cn/s/fdd60ae9c011",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12492",
+      "msg_time": "2026-10-15T02:51:48+00:00"
+    },
+    {
+      "title": "4K [14]",
+      "share_url": "https://pan.quark.cn/s/72441a5aaa44",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12494",
+      "msg_time": "2026-10-15T03:10:18+00:00"
+    },
+    {
+      "title": "4K [DV&HDR][HBOMax][][8]",
+      "share_url": "https://pan.quark.cn/s/1abde0461d75",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12355",
+      "msg_time": "2026-10-07T14:19:05+00:00"
+    },
+    {
+      "title": "4K [IMAX][][]",
+      "share_url": "https://pan.quark.cn/s/c0b9d8c97b30",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12357",
+      "msg_time": "2026-10-07T21:29:42+00:00"
+    },
+    {
+      "title": "4K [HBOMax][][10]",
+      "share_url": "https://pan.quark.cn/s/534a3cc65704",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12358",
+      "msg_time": "2026-10-07T21:43:19+00:00"
+    },
+    {
+      "title": "4K [HDR][13]",
+      "share_url": "https://pan.quark.cn/s/7acaf9be017e",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12361",
+      "msg_time": "2026-10-08T10:33:42+00:00"
+    },
+    {
+      "title": "4K [][20]",
+      "share_url": "https://pan.quark.cn/s/5e55cea99496",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12377",
+      "msg_time": "2026-10-08T13:01:20+00:00"
+    },
+    {
+      "title": "[HOBMax][][10]",
+      "share_url": "https://pan.quark.cn/s/c6d70b5c7989",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12378",
+      "msg_time": "2026-10-08T13:33:50+00:00"
+    },
+    {
+      "title": "[MAX][][10]",
+      "share_url": "https://pan.quark.cn/s/b0625c6dfced",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:PanjClub:12382",
+      "msg_time": "2026-10-08T17:46:26+00:00"
+    },
+    {
+      "title": "4K [AMZN][][8]",
+      "share_url": "https://pan.quark.cn/s/e8511df83f5e",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12383",
+      "msg_time": "2026-10-08T18:46:02+00:00"
+    },
+    {
+      "title": "4K [APTV][][6]",
+      "share_url": "https://pan.quark.cn/s/2fcb0d012ea2",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12384",
+      "msg_time": "2026-10-08T19:31:08+00:00"
+    },
+    {
+      "title": "4K [28]",
+      "share_url": "https://pan.quark.cn/s/4c6b8e557a6e",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12388",
+      "msg_time": "2026-10-09T11:33:27+00:00"
+    },
+    {
+      "title": "4K [HDR][219]",
+      "share_url": "https://pan.quark.cn/s/9533afd1ac4e",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12400",
+      "msg_time": "2026-10-09T13:18:48+00:00"
+    },
+    {
+      "title": "4K [HDR][33]",
+      "share_url": "https://pan.quark.cn/s/e6ec16098f74",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12402",
+      "msg_time": "2026-10-09T13:25:03+00:00"
+    },
+    {
+      "title": "4K [HDR][24]",
+      "share_url": "https://pan.quark.cn/s/1ba2d089eccc",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12403",
+      "msg_time": "2026-10-09T13:27:15+00:00"
+    },
+    {
+      "title": "4K [HDR][222]",
+      "share_url": "https://pan.quark.cn/s/521d3e13ff23",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12404",
+      "msg_time": "2026-10-09T13:31:48+00:00"
+    },
+    {
+      "title": "4K [][58]",
+      "share_url": "https://pan.quark.cn/s/8031778c9a3b",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12406",
+      "msg_time": "2026-10-09T13:43:31+00:00"
+    },
+    {
+      "title": "4K [24]",
+      "share_url": "https://pan.quark.cn/s/7a492b1f25fe",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12407",
+      "msg_time": "2026-10-09T13:50:37+00:00"
+    },
+    {
+      "title": "4K [NF][][10]",
+      "share_url": "https://pan.quark.cn/s/703918ece500",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12414",
+      "msg_time": "2026-10-09T18:42:06+00:00"
+    },
+    {
+      "title": "4K [DV&HDR][][15]",
+      "share_url": "https://pan.quark.cn/s/00de8391f034",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12415",
+      "msg_time": "2026-10-10T01:57:12+00:00"
+    },
+    {
+      "title": "4K [211]",
+      "share_url": "https://pan.quark.cn/s/5f9e39cabb86",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12416",
+      "msg_time": "2026-10-10T02:08:25+00:00"
+    },
+    {
+      "title": "4K [SDR&DV][43]",
+      "share_url": "https://pan.quark.cn/s/e16219deee5a",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:PanjClub:12420",
+      "msg_time": "2026-10-10T02:30:32+00:00"
+    },
+    {
+      "title": "名称：\n菊梓乔 隨意瞞（新曲 + 精選）FLAC 24bit 48khz qobuz\n描述：1. 随意瞒\n2. 爱无余地\n3. 你就是天下（剧《倚天屠龙记》片尾",
+      "share_url": "https://pan.quark.cn/s/cfd9eace10cd",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "music",
+      "source": "telegram:Quark_Movies:76500",
+      "msg_time": "2026-10-19T14:16:34+00:00"
+    },
+    {
+      "title": "名称：\n古典 Itzhak Perlman - Great Concertos for Violin (2026) FLAC 16 +24bit qobuz\n描",
+      "share_url": "https://pan.quark.cn/s/2209713aa64c",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "music",
+      "source": "telegram:Quark_Movies:76501",
+      "msg_time": "2026-10-19T14:16:40+00:00"
+    },
+    {
+      "title": "名称：\nNMIXX - Strange Muse (2026) FLAC 24bit 96kHz Tidal\n描述：NMIXX迷你六辑《Strange Muse",
+      "share_url": "https://pan.quark.cn/s/e40eb8d30f66",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "music",
+      "source": "telegram:Quark_Movies:76502",
+      "msg_time": "2026-10-19T14:16:45+00:00"
+    },
+    {
+      "title": "名称：\n伟大的长征（2026）4K 60FPS S01E01 - E20 杜比音效\n描述：该剧以全景式展现红军长征这一波澜壮阔的历史画卷，呈现一个个有血有肉有温",
+      "share_url": "https://pan.quark.cn/s/e91898c7f356",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76503",
+      "msg_time": "2026-10-19T14:21:34+00:00"
+    },
+    {
+      "title": "名称：\n璀璨之城（2026）1080p S01E01 - E06 国粤双语\n描述：尚利锋集团主席官志琛在澳门雄霸一方，这商界巨人安排两子官孝贤、官孝君，出任集团",
+      "share_url": "https://pan.quark.cn/s/5e8284c386d0",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76505",
+      "msg_time": "2026-10-19T15:10:35+00:00"
+    },
+    {
+      "title": "名称：\n2026年10月19日 短剧更新目录5\n描述：1.谁说没灵根不能修仙的之无灵证道第34季（102集）\n2.人前不熟，人后沦陷（280集）\n3.天灾我囤尽",
+      "share_url": "https://pan.quark.cn/s/e5a714993e15",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:Quark_Movies:76506",
+      "msg_time": "2026-10-19T15:48:44+00:00"
+    },
+    {
+      "title": "名称：\n马兰士总工30周年纪念碟 -《马兰士爵士精选》 FLAC 88,2kHz - 24bit\n描述：石渡健30周年纪念SACD，马兰士原厂录制，收录12首经",
+      "share_url": "https://pan.quark.cn/s/373c4d7736d9",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "music",
+      "source": "telegram:Quark_Movies:76507",
+      "msg_time": "2026-10-19T16:04:17+00:00"
+    },
+    {
+      "title": "名称：\n蔡琴 你不要那样看着我的眼睛 DSD\n描述：蔡琴1992同名专辑《你不要那样看着我的眼睛》，融合日系City Pop与爵士。近期大量短视频选用此曲作为氛",
+      "share_url": "https://pan.quark.cn/s/eac1b20c9e3d",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "music",
+      "source": "telegram:Quark_Movies:76508",
+      "msg_time": "2026-10-19T16:04:18+00:00"
+    },
+    {
+      "title": "名称：\n试音发烧天碟《天选Ⅱ》限量1：1黄金母盘直刻 低速原抓WAV+CUE\n描述：试音发烧天碟《天选Ⅱ》限量1：1黄金母盘直刻 低速原抓WAV+CUE\n夸克：",
+      "share_url": "https://pan.quark.cn/s/95b0bce51b36",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "music",
+      "source": "telegram:Quark_Movies:76510",
+      "msg_time": "2026-10-19T18:04:16+00:00"
+    },
+    {
+      "title": "名称：\n嫁金钗‎ (2026) 10集 4K SDR 高码\n描述：阿丑原是街上倒夜香的低贱少女，人人皆可践踏欺凌，只因一张酷似侯府千金魏娆的面容，意外成为国公府",
+      "share_url": "https://pan.quark.cn/s/4312113ce803",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76511",
+      "msg_time": "2026-10-19T23:44:52+00:00"
+    },
+    {
+      "title": "名称：\n伟大的长征‎ (2026) 20集 4K SDR 60帧 高码\n描述：该剧以全景式展现红军长征这一波澜壮阔的历史画卷，呈现一个个有血有肉有温度的革命故事",
+      "share_url": "https://pan.quark.cn/s/603364d44810",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76512",
+      "msg_time": "2026-10-19T23:44:54+00:00"
+    },
+    {
+      "title": "名称：\n替罪 (2026) 4K HDR 全18集\n描述：东南亚纳迦菩尔国，一场大桥垮塌事故牵出连环命案。大桥设计师梭温设下惊天替罪局，华人女警长许安迪循迹追查",
+      "share_url": "https://pan.quark.cn/s/3d0e736bbd79",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76513",
+      "msg_time": "2026-10-20T01:12:27+00:00"
+    },
+    {
+      "title": "名称：\n王菲 - 《如愿》(纯银CD) WAV+CUE\n描述：1. 如愿 4:21\n2. 匆匆那年 3:58\n3. 人间 4:44\n4. 红豆 4:13\n5.",
+      "share_url": "https://pan.quark.cn/s/0f170a840d73",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "music",
+      "source": "telegram:Quark_Movies:76514",
+      "msg_time": "2026-10-20T01:58:43+00:00"
+    },
+    {
+      "title": "名称：\n炼气十万年 (2023) 4K 更新至387集/国漫\n描述：十万年前，天岚宗叱咤修真界，宗内弟子皆是天骄，所向披靡。唯独开山弟子徐阳一直是炼气期，为突破",
+      "share_url": "https://pan.quark.cn/s/cfda2dfbd9b6",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76515",
+      "msg_time": "2026-10-20T02:05:11+00:00"
+    },
+    {
+      "title": "名称：\n地狱大状（2026）1080p Viu TV S01E01 - E11 内封简繁\n描述：死后翻生的金牌大状，替鬼打遗产官司、追查自己的死因，并在所剩无几",
+      "share_url": "https://pan.quark.cn/s/92a9d4d9f013",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76516",
+      "msg_time": "2026-10-20T02:05:19+00:00"
+    },
+    {
+      "title": "名称：\n2026年10月20日 短剧更新目录1\n描述：1.骄骄藏不住（79集）黄云云&储子竣\n2.分手后男友愧疚终生（62集）舒萱&罗欢&王璟悦\n3.我家来了位",
+      "share_url": "https://pan.quark.cn/s/9ce3c1110ae2",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:Quark_Movies:76517",
+      "msg_time": "2026-10-20T02:11:48+00:00"
+    },
+    {
+      "title": "名称：\n凤栖（2026）4K S01E01 - E16\n描述：现代画手苏晓晨猝死职场，穿越成冷宫废妃凤知微。为求生，她以笔名“青桥先生”创作画本，却不知自己的故",
+      "share_url": "https://pan.quark.cn/s/1bf81d9783db",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76518",
+      "msg_time": "2026-10-20T02:32:49+00:00"
+    },
+    {
+      "title": "名称：\n2026年10月20日 短剧更新目录2\n描述：1.隐龙卫（82集）杜江山&觅七\n2.铁血信使（75集）孙艺燃&蔡欣洋\n3.诱裴郎（88集）\n4.昭离长生",
+      "share_url": "https://pan.quark.cn/s/1a436bbe773b",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:Quark_Movies:76519",
+      "msg_time": "2026-10-20T02:42:42+00:00"
+    },
+    {
+      "title": "名称：\n把黑夜点燃 (2026)剧情 悬疑 犯罪 4KHDR 更新08集\n描述：1997年，在西南地区小城雾港，陈善一家生活在西南石油单位分配的单身楼里。父亲陈",
+      "share_url": "https://pan.quark.cn/s/585b4646d3e6",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76480",
+      "msg_time": "2026-10-19T10:22:06+00:00"
+    },
+    {
+      "title": "名称：\n美人余（2026）4K 60FPS S01E01 -  E23 HIFI声\n描述：根据伊北同名小说改编，以当代都市为背景，两性关系作为切口，直戳现代社会",
+      "share_url": "https://pan.quark.cn/s/eec1e229a837",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76481",
+      "msg_time": "2026-10-19T10:23:11+00:00"
+    },
+    {
+      "title": "名称：\n美人余 (2026)剧情 李一桐 4KHDR60FPS 更新23集\n描述：根据伊北同名小说改编，以当代都市为背景，两性关系作为切口，直戳现代社会“有性无",
+      "share_url": "https://pan.quark.cn/s/f2cf13d2d8d0",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76482",
+      "msg_time": "2026-10-19T10:24:05+00:00"
+    },
+    {
+      "title": "名称：\n醉梦 (2026)剧情 犯罪 刘诗诗 李乃文 4KHDR60FPS 更新09集\n描述：多年前，记者沈乐水用摄像机记录了老松江啤酒厂的厂工生活，这里的故事",
+      "share_url": "https://pan.quark.cn/s/d1be402e0228",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76483",
+      "msg_time": "2026-10-19T10:25:47+00:00"
+    },
+    {
+      "title": "名称：\n吞噬星空（2020）4K 臻彩 S01E01 - E246\n描述：暂无描述\n夸克：\nhttps://pan.quark.cn/s/434e32b727f",
+      "share_url": "https://pan.quark.cn/s/434e32b727f8",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76484",
+      "msg_time": "2026-10-19T10:27:14+00:00"
+    },
+    {
+      "title": "名称：\n吞噬星空(2025)国漫 臻彩4K 更新246集\n描述：小说主要讲述了地球经历一场大灾难后引发了各物种的变异，优胜劣汰，主角罗峰得到陨墨星主人传承，成为",
+      "share_url": "https://pan.quark.cn/s/de14b6113506",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76485",
+      "msg_time": "2026-10-19T10:28:10+00:00"
+    },
+    {
+      "title": "名称：\n醉梦（2026）4K 60FPS S01E01 - E09 HIFI声\n描述：多年前，记者沈乐水用摄像机记录了老松江啤酒厂的厂工生活，这里的故事，像一杯",
+      "share_url": "https://pan.quark.cn/s/50cbb5ffd365",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76486",
+      "msg_time": "2026-10-19T10:47:18+00:00"
+    },
+    {
+      "title": "名称：\n把黑夜点燃（2026）IQ 4K 内封简中 更至EP08\n描述：1990年代石油产业飞速发展的背景下，一家普通家庭在时代浪潮中经历了命运的巨变。少年陈善",
+      "share_url": "https://pan.quark.cn/s/dff85ce37474",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76487",
+      "msg_time": "2026-10-19T10:59:30+00:00"
+    },
+    {
+      "title": "名称：\n美人余（2026）4K 10bit 60FPS 杜比环绕声 更至EP23\n描述：好命富家女余梦险遭赘婿丈夫吃绝户，她设计钓出寄生虫夫妇展开反击，最终夺回",
+      "share_url": "https://pan.quark.cn/s/5d5fa788cfe2",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76488",
+      "msg_time": "2026-10-19T11:02:05+00:00"
+    },
+    {
+      "title": "名称：\n吞噬星空 4K更新至246集\n描述：某一天，地球上出现了不明来由的RR病毒，将世界卷入灾难之中。受到感染的动物变异成为可怕的怪兽，大举入侵，人类面临毁灭",
+      "share_url": "https://pan.quark.cn/s/5819bdbfb285",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76489",
+      "msg_time": "2026-10-19T11:27:46+00:00"
+    },
+    {
+      "title": "名称：\n醉梦(2026） 4K 更新至09集\n描述：多年前，记者沈乐水用摄像机记录了老松江啤酒厂的厂工生活，这里的故事，像一杯久藏的啤酒, 酝酿着复杂的情感，也",
+      "share_url": "https://pan.quark.cn/s/621c29072e68",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76490",
+      "msg_time": "2026-10-19T11:43:39+00:00"
+    },
+    {
+      "title": "名称：\n美人余(2026） 4K 更新至23集\n描述：根据伊北同名小说改编，以当代都市为背景，两性关系作为切口，直戳现代社会“有性无爱，有爱无性”等真实情感和婚",
+      "share_url": "https://pan.quark.cn/s/bf355187b608",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76491",
+      "msg_time": "2026-10-19T11:49:01+00:00"
+    },
+    {
+      "title": "名称：\n大理寺日志 第二季 (2022) 4K 超分 全12集\n描述：寿宴过后，李饼接受了女皇安排的秘密任务，藏身胡肆，随后带着陈拾前往博州，暗中查探丘神纪曾经",
+      "share_url": "https://pan.quark.cn/s/e0e6b5a98dbe",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76492",
+      "msg_time": "2026-10-19T11:55:28+00:00"
+    },
+    {
+      "title": "名称：\n伟大的长征（2026）4K 10bit 60FPS FLAC无损HiFi声 更至EP20\n描述：以1934年至1937年为时代背景，以中央红军长征为主线",
+      "share_url": "https://pan.quark.cn/s/bd876663ad5c",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76493",
+      "msg_time": "2026-10-19T12:30:58+00:00"
+    },
+    {
+      "title": "名称：\n醉梦（2026）4K 10bit 60FPS 杜比全景声 更至EP10\n描述：故事发生在千禧年前后的东北老工业城拉城。1999年，啤酒厂女工刘雪梅因撞破",
+      "share_url": "https://pan.quark.cn/s/3b89bdd9282d",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76494",
+      "msg_time": "2026-10-19T12:33:22+00:00"
+    },
+    {
+      "title": "名称：\n吞噬星空（2023）4K 臻彩10bit 更至EP246\n描述：故事背景设定在RR病毒爆发后的地球，人类因怪兽侵袭濒临灭绝，建立基地市求生。主角罗峰出身",
+      "share_url": "https://pan.quark.cn/s/21a9c15e5ad7",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76495",
+      "msg_time": "2026-10-19T12:36:58+00:00"
+    },
+    {
+      "title": "名称：\n2026年10月19日 短剧更新目录3\n描述：1.顾先生他心不由己（81集）于龙&杨伊璐\n2.鹤栖乔枝（148集）\n3.后妈驾到，继子没招了（183集）",
+      "share_url": "https://pan.quark.cn/s/c867fe339230",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:Quark_Movies:76497",
+      "msg_time": "2026-10-19T13:36:58+00:00"
+    },
+    {
+      "title": "名称：\n2026年10月19日 短剧更新目录4\n描述：1.怪谈入侵：她靠隐藏规则杀进真相（70集）王一晴&思雨（四四）\n2.悍妻进门：成了农户当家人（68集）宋",
+      "share_url": "https://pan.quark.cn/s/196b08b9a218",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:Quark_Movies:76499",
+      "msg_time": "2026-10-19T14:13:31+00:00"
+    },
+    {
+      "title": "名称：\n杯雪·一战成名（2026）4K HDR 杜比音效\n描述：时秦桧把持朝堂，操控麾下缇骑四处镇压抗金义军。数月前，金使等四十一人命丧七里铺，江湖传言，痛下杀",
+      "share_url": "https://pan.quark.cn/s/14d672b812a6",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76460",
+      "msg_time": "2026-10-19T03:42:01+00:00"
+    },
+    {
+      "title": "名称：\n玉簟秋 (2026)剧情 爱情 徐若晗 4K50FPS 更新15集\n描述：该剧改编自灵希同名小说。民国乱世中，少帅虞昶轩（丞磊 饰）与女学生叶平君（徐若",
+      "share_url": "https://pan.quark.cn/s/2b5097c3457e",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76462",
+      "msg_time": "2026-10-19T04:13:19+00:00"
+    },
+    {
+      "title": "名称：\n嫁金钗 (2026)剧情 爱情 古装 田曦薇 4KHQHDR60FPS 更新10集\n描述：阿丑原是街上倒夜香的低贱少女，人人皆可践踏欺凌，只因一张酷似侯",
+      "share_url": "https://pan.quark.cn/s/84d442394b37",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76463",
+      "msg_time": "2026-10-19T04:15:08+00:00"
+    },
+    {
+      "title": "名称：\n玉簟秋‎ (2026) 15集 4K SDR\n描述：该剧改编自灵希同名小说。民国乱世中，少帅虞昶轩(丞磊 饰)与女学生叶平君(徐若晗 饰)因一场邂逅深陷",
+      "share_url": "https://pan.quark.cn/s/8973b70411bc",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76464",
+      "msg_time": "2026-10-19T04:29:02+00:00"
+    },
+    {
+      "title": "名称：\n嫁金钗‎ (2026) 08集 4K SDR\n描述：阿丑原是街上倒夜香的低贱少女，人人皆可践踏欺凌，只因一张酷似侯府千金魏娆的面容，意外成为国公府世子陆",
+      "share_url": "https://pan.quark.cn/s/3447fc335c67",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76465",
+      "msg_time": "2026-10-19T04:32:58+00:00"
+    },
+    {
+      "title": "名称：\n成也萧河（2026）4K更新至14集\n描述：游戏中，全服第一剑士萧无尽和第一女通缉犯桃之夭夭不打不相识。现实中，冬川大学校园男神萧河和大一新生沈心因大学",
+      "share_url": "https://pan.quark.cn/s/37bc80294dd9",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76466",
+      "msg_time": "2026-10-19T04:42:28+00:00"
+    },
+    {
+      "title": "名称：\n玉簟秋（2026）4K 芒臻 S01E01 - E15\n描述：该剧改编自灵希同名小说。民国乱世中，少帅虞昶轩（丞磊 饰）与女学生叶平君（徐若晗 饰）因一",
+      "share_url": "https://pan.quark.cn/s/96b7119b59e0",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76467",
+      "msg_time": "2026-10-19T04:47:52+00:00"
+    },
+    {
+      "title": "名称：\n嫁金钗（2026）4K 10bit 60FPS S01E01 - E10\n描述：阿丑原是街上倒夜香的低贱少女，人人皆可践踏欺凌，只因一张酷似侯府千金魏娆",
+      "share_url": "https://pan.quark.cn/s/c21bb3ee16cb",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76468",
+      "msg_time": "2026-10-19T04:49:55+00:00"
+    },
+    {
+      "title": "名称：\n一斩苍穹(2026） 4K 更新至14集\n描述：【第一版】仙界至暗，众生皆材；残躯少年谷安，于生死绝境夺得古神之力，携以无限灵气，执凡刃，荡恶人，雪深仇",
+      "share_url": "https://pan.quark.cn/s/2dc25682d831",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76469",
+      "msg_time": "2026-10-19T04:51:31+00:00"
+    },
+    {
+      "title": "名称：\n玉簟秋（2026）4K 更至EP15\n描述：20世纪20年代的乱世中，少帅虞昶轩与女学生叶平君因一场邂逅深陷爱恨漩涡，彻底改写二人的人生轨迹。纵然身份悬",
+      "share_url": "https://pan.quark.cn/s/8dce54968d89",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76470",
+      "msg_time": "2026-10-19T06:25:43+00:00"
+    },
+    {
+      "title": "名称：\n嫁金钗（2026）NF 1080p 内封简中 更至EP10\n描述：讲述了真千金魏娆（田曦薇饰）自幼被调换，流落市井靠倒夜香为生。为救养母，她被迫代替假千",
+      "share_url": "https://pan.quark.cn/s/07c9386e7957",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76471",
+      "msg_time": "2026-10-19T06:29:20+00:00"
+    },
+    {
+      "title": "名称：\n她的局（2026）4K S01E01 - E06 HIFI声\n描述：余颂（加奈那 饰）为替父讨回公道，以助理身份进入宋家。她用真诚打动宋澄（谭晓凡 饰）",
+      "share_url": "https://pan.quark.cn/s/10de836d593e",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76472",
+      "msg_time": "2026-10-19T06:47:09+00:00"
+    },
+    {
+      "title": "名称：\n好一个乖乖女（2026）4K 臻彩 S01E01 - E18\n描述：被养在深闺中备受伯父全家折磨的鹿家二小姐鹿鸣于（徐梦洁 饰）设计逃离了鹿家，却在逃跑",
+      "share_url": "https://pan.quark.cn/s/439ea3d72310",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76473",
+      "msg_time": "2026-10-19T07:05:24+00:00"
+    },
+    {
+      "title": "名称：\n老婆万岁 (2005)\n描述：一个一门心思想怀孕的丑女人，逼得老公琵琶别抱，别觅新欢；一个想完全掌控男人的商界女强人，使得老公千方百计想翻身；一个嫁入豪",
+      "share_url": "https://pan.quark.cn/s/1b021d003b0c",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:Quark_Movies:76474",
+      "msg_time": "2026-10-19T08:42:13+00:00"
+    },
+    {
+      "title": "名称：\n楚离（2026）4K S01E01 - E20\n描述：秦将白起攻城，楚国郢都三十万百姓丧命于此。巫女楚离召唤“楚风引”逆转时间，却被并不相识的宋子渊一剑",
+      "share_url": "https://pan.quark.cn/s/415035ca5081",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76475",
+      "msg_time": "2026-10-19T09:15:39+00:00"
+    },
+    {
+      "title": "名称：\n富闺可期（2026）4K S01E01 -  E12\n描述：现代闺蜜田郁圆、林舒迢意外穿进宅斗小说，成了新婚夜便要遭花船构陷、双双惨死的炮灰妯娌。二人联",
+      "share_url": "https://pan.quark.cn/s/8f90b018442c",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76476",
+      "msg_time": "2026-10-19T09:17:08+00:00"
+    },
+    {
+      "title": "名称：\n战无不胜 (2026)\n描述：苏逢似恶实正、魅力非凡最重情义，曾为老大哥张铭打下半壁江山镇压黑道各方势力，功高盖主却甘愿为老大哥张铭鞍前马后，故被黑道称",
+      "share_url": "https://pan.quark.cn/s/1c009995ad2a",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:Quark_Movies:76477",
+      "msg_time": "2026-10-19T09:17:15+00:00"
+    },
+    {
+      "title": "名称：\n死刑将至（2026）4K S01E01 - E24 hifi声\n描述：年轻律师付庭（苏小玎 饰）为追随业界权威大律师严同（王志飞 饰），需一个月内完成十",
+      "share_url": "https://pan.quark.cn/s/7defce8977ae",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76478",
+      "msg_time": "2026-10-19T09:18:24+00:00"
+    },
+    {
+      "title": "名称：\n把黑夜点燃（2026）4K 60FPS S01E01 - E08 杜比音效\n描述：2001年，西南石油系统乘上经济发展的高速列车，家家户户都过上了中产的",
+      "share_url": "https://pan.quark.cn/s/98983a4e3971",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76479",
+      "msg_time": "2026-10-19T10:00:23+00:00"
+    },
+    {
+      "title": "名称：\n牧神记（2024）4K S01E01 - E104 HiveWeb\n描述：秦牧天生凡体，历经考验成为天魔教教主，被延康国封为第一任太学博士。延康国叛乱之",
+      "share_url": "https://pan.quark.cn/s/aa00e02f2d9a",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76440",
+      "msg_time": "2026-10-18T13:52:46+00:00"
+    },
+    {
+      "title": "名称：\n点亮欧洲 (2008)\n描述：温州生产的金属打火机，大部分出口到欧洲，欧盟要针对中国打火机实施安全标准，这构成了对中国打火机企业的歧视，也损害了欧洲普通",
+      "share_url": "https://pan.quark.cn/s/f47eef603227",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:Quark_Movies:76441",
+      "msg_time": "2026-10-18T13:55:02+00:00"
+    },
+    {
+      "title": "名称：\n年画·画年 (2021) 1080P 全7集\n描述：该片聚焦中国人春节最强烈的图像元素——年画，在中国人千年文脉的传承中，以烟火气的表达讲述民间优秀传统",
+      "share_url": "https://pan.quark.cn/s/af31f646a016",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76442",
+      "msg_time": "2026-10-18T14:35:32+00:00"
+    },
+    {
+      "title": "名称：\n兰香如故  去头去尾版 (2026) 4K 全47集\n描述：大学士府长孙女沈嘉兰与吏部尚书林家的长孙林锦岐订下婚约，然而朝堂风云突变，祖父沈大学士被判谋",
+      "share_url": "https://pan.quark.cn/s/f7ec9dce0675",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76443",
+      "msg_time": "2026-10-18T15:21:55+00:00"
+    },
+    {
+      "title": "名称：\n新手上路（2026）1080p NF S01全 内封简繁\n描述：这部奇幻喜剧讲述了一个意外怀孕和超自然事件交织而成的混乱育儿故事。剧中笑料与泪水交织，揭",
+      "share_url": "https://pan.quark.cn/s/5d6e00ecd98a",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76444",
+      "msg_time": "2026-10-18T15:31:40+00:00"
+    },
+    {
+      "title": "名称：\n2026年10月18日 短剧更新目录2\n描述：1.掌印大人的心尖宠（78集）洪奕昕&林潇\n2.血脉提纯我养的都是神兽（56集）\n3.修仙从扮演少女开始第",
+      "share_url": "https://pan.quark.cn/s/02436b3f74d0",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:Quark_Movies:76445",
+      "msg_time": "2026-10-18T15:46:37+00:00"
+    },
+    {
+      "title": "名称：\n蛋堡（Soft Lipa）专辑 合集\n描述：合集\n夸克：\nhttps://pan.quark.cn/s/44db5efbad9d\n📁\n 大小：2.4GB",
+      "share_url": "https://pan.quark.cn/s/44db5efbad9d",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "music",
+      "source": "telegram:Quark_Movies:76446",
+      "msg_time": "2026-10-18T16:01:02+00:00"
+    },
+    {
+      "title": "名称：\n2026年10月18日 短剧更新目录3\n描述：1.神临我自执剑迎（66集）周煜枫&王幸子\n2.山杏花开!（37集）王珊珊&武帅康\n3.三元面馆（56集）",
+      "share_url": "https://pan.quark.cn/s/e98aec7b211b",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:Quark_Movies:76447",
+      "msg_time": "2026-10-18T16:03:21+00:00"
+    },
+    {
+      "title": "名称：\n2026年10月18日 短剧更新目录4\n描述：1.本座在话本里横着走（60集）王百合&薛景元&刘越阳\n2.报废倒计时（58集）艾江山&王乐一\n3.读心老",
+      "share_url": "https://pan.quark.cn/s/204460611abc",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:Quark_Movies:76448",
+      "msg_time": "2026-10-18T16:18:59+00:00"
+    },
+    {
+      "title": "名称：\n伟大的长征‎ (2026) 19集 4K SDR 60帧 高码\n描述：该剧以全景式展现红军长征这一波澜壮阔的历史画卷，呈现一个个有血有肉有温度的革命故事",
+      "share_url": "https://pan.quark.cn/s/d26a06798759",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76449",
+      "msg_time": "2026-10-18T16:34:50+00:00"
+    },
+    {
+      "title": "名称：\n彭佳慧 2007 - 绝对收藏 2CD WAV分轨\n描述：收录《旧梦》《敲敲我的头》《月亮使者》等经典曲目32首。嗓音极具爆发力，深情演绎多首传唱佳作，",
+      "share_url": "https://pan.quark.cn/s/6f21769ce144",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "music",
+      "source": "telegram:Quark_Movies:76450",
+      "msg_time": "2026-10-18T16:38:03+00:00"
+    },
+    {
+      "title": "名称：\n2026年10月19日 短剧更新目录1\n描述：1.迷局之义聚山河（110集）黄涛&章滢&魏小也\n2.九龙撼山（61集）谢海青&胡馨元\n3.穿书惹上疯批暴",
+      "share_url": "https://pan.quark.cn/s/3b2ac98dbd7e",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:Quark_Movies:76452",
+      "msg_time": "2026-10-19T00:04:40+00:00"
+    },
+    {
+      "title": "名称：\n2026年10月19日 短剧更新目录2\n描述：1.持械入宋：第三季（100集）\n2.冰封降临，重生末世我在十八楼当女王2（90集）\n3.从路边摊到厨神之",
+      "share_url": "https://pan.quark.cn/s/c02b8894dbac",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:Quark_Movies:76453",
+      "msg_time": "2026-10-19T00:31:01+00:00"
+    },
+    {
+      "title": "名称：\n师兄太稳健 (2026) 4K 60帧 全30集\n描述：前世是重症患者的李长寿意外重生到洪荒世界，化身为一名珍视生命、不沾因果的小小炼气士，为躲避天道预",
+      "share_url": "https://pan.quark.cn/s/6fc0e0e447df",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76454",
+      "msg_time": "2026-10-19T01:43:15+00:00"
+    },
+    {
+      "title": "名称：\n一斩苍穹 (2026)喜剧 动作 动画 奇幻 4KHQHDR 更新14集\n描述：【第一版】仙界至暗，众生皆材；残躯少年谷安，于生死绝境夺得古神之力，携以",
+      "share_url": "https://pan.quark.cn/s/38aff8a36de8",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76455",
+      "msg_time": "2026-10-19T02:03:41+00:00"
+    },
+    {
+      "title": "名称：\n一斩苍穹（2026）4K HQ 高码率 更至EP14\n描述：从小努力，立志成为仙人，却不料先天缺乏灵根，无缘仙途，还被拐入诈骗园区，九死一生……转我50",
+      "share_url": "https://pan.quark.cn/s/f240fa303a02",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76456",
+      "msg_time": "2026-10-19T02:43:04+00:00"
+    },
+    {
+      "title": "名称：\n一斩苍穹（2026）4K HQ S01E01 - E14 高码率 \n描述：【第一版】仙界至暗，众生皆材；残躯少年谷安，于生死绝境夺得古神之力，携以无限灵",
+      "share_url": "https://pan.quark.cn/s/ecc8151a0fbc",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76458",
+      "msg_time": "2026-10-19T03:33:59+00:00"
+    },
+    {
+      "title": "名称：\n财神窦占龙（2026）4K HDR S01E01 - E12 杜比音效 \n描述：天下霸唱继《鬼吹灯》后，打造最新成人向民俗暗黑传奇，在烟火人间与诡谲幻境",
+      "share_url": "https://pan.quark.cn/s/3fd66d688c7c",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76459",
+      "msg_time": "2026-10-19T03:40:05+00:00"
+    },
+    {
+      "title": "名称：\n仙逆(2026) 163集 4K SDR 杜比音效\n描述：乡村平凡少年王林逆仙而修，求的不仅是长生，更多的是摆脱那背后的蝼蚁之身。他坚信道在人为，以平庸",
+      "share_url": "https://pan.quark.cn/s/7f92cc1929ea",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76420",
+      "msg_time": "2026-10-18T11:43:04+00:00"
+    },
+    {
+      "title": "名称：\n仙逆（2024）4K 10bit 立体环绕声 更至EP163\n描述：改自自耳根同名小说《仙逆》讲述了乡村平凡少年王林以心中之感动，逆仙而修，求的不仅是长",
+      "share_url": "https://pan.quark.cn/s/374a26237f1b",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76422",
+      "msg_time": "2026-10-18T12:01:44+00:00"
+    },
+    {
+      "title": "名称：\n玉簟秋（2026）4K 芒臻 S01E01 - E14\n描述：该剧改编自灵希同名小说。民国乱世中，少帅虞昶轩（丞磊 饰）与女学生叶平君（徐若晗 饰）因一",
+      "share_url": "https://pan.quark.cn/s/1fa42c9a5ed2",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76427",
+      "msg_time": "2026-10-18T12:14:09+00:00"
+    },
+    {
+      "title": "名称：\n仙逆（2022）4K 臻彩 S01E01 - E163\n描述：改编自耳根同名小说《仙逆》，讲述了乡村平凡少年王林以心中之感动，逆仙而修，求的不仅是长生，",
+      "share_url": "https://pan.quark.cn/s/0cb5e18ef2ad",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76431",
+      "msg_time": "2026-10-18T12:40:42+00:00"
+    },
+    {
+      "title": "名称：\n第二次初恋（2026）4K S01E01 - E14 杜比音效\n描述：元⽓励志少⼥周想想和禁欲系篮球⼤神顾晗，两个多年未⻅的⼉时伙伴， 因⼀场误会再次相",
+      "share_url": "https://pan.quark.cn/s/e9d8a3f72eb2",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76434",
+      "msg_time": "2026-10-18T12:44:15+00:00"
+    },
+    {
+      "title": "名称：\n现在就出发 第四季（2026）4K 更新至 第二期下\n描述：出发团再度开启全球快乐野游，抽象派旅居4.0\n夸克：\nhttps://pan.quark.c",
+      "share_url": "https://pan.quark.cn/s/067f27e16dee",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76436",
+      "msg_time": "2026-10-18T13:08:26+00:00"
+    },
+    {
+      "title": "名称：\n此处通往繁星 (2026)\n描述：王灿在北京创业失败，回到家乡寻求父母支持，被父母推荐到清凉山殡仪馆装殓班工作。本来只打算在此过渡的王灿，意外与三位发小",
+      "share_url": "https://pan.quark.cn/s/f9743cc6fa74",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:Quark_Movies:76437",
+      "msg_time": "2026-10-18T13:31:30+00:00"
+    },
+    {
+      "title": "名称：\n伟大的长征（2026）4K 60FPS S01E01 - E19 杜比音效\n描述：该剧以全景式展现红军长征这一波澜壮阔的历史画卷，呈现一个个有血有肉有温",
+      "share_url": "https://pan.quark.cn/s/e812af301d8e",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:Quark_Movies:76438",
+      "msg_time": "2026-10-18T13:32:58+00:00"
+    },
+    {
+      "title": "名称：\n我会好好的 (2025)\n描述：女孩赵小满（张子枫 饰）重复着打零工的生活，一只流浪狗（塔塔 饰）的闯入让她逐渐放下家庭伤痛，形影不离的朝夕相处温暖了同",
+      "share_url": "https://pan.quark.cn/s/b266717ec759",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:Quark_Movies:76439",
+      "msg_time": "2026-10-18T13:33:21+00:00"
+    },
+    {
+      "title": "(2025) [1080P] [] [8]",
+      "share_url": "https://pan.baidu.com/s/1JEUK29SSHggfNK4YE3iu_w",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:116",
+      "msg_time": "2025-10-26T13:50:40+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [7]",
+      "share_url": "https://pan.baidu.com/s/1Ulu6YIrYjcS083GjNNWb6A",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:117",
+      "msg_time": "2025-10-26T13:51:45+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [2]",
+      "share_url": "https://pan.baidu.com/s/1mkS2wM9UKJFmlajhjRs_Yg",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:118",
+      "msg_time": "2025-10-26T13:52:36+00:00"
+    },
+    {
+      "title": "2025WEB-4K",
+      "share_url": "https://pan.baidu.com/s/10uUQBX4Kd9dR1Tl2WYxZFQ",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:119",
+      "msg_time": "2025-11-02T13:05:11+00:00"
+    },
+    {
+      "title": "(1-4)4K.HDR&/",
+      "share_url": "https://pan.baidu.com/s/16AB03Fix_M0F7PaFz-Za0Q",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:120",
+      "msg_time": "2025-11-02T13:07:30+00:00"
+    },
+    {
+      "title": "(2025)06",
+      "share_url": "https://pan.baidu.com/s/1Dvhpe5Ajce1uYjzfs2HgOw",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "other",
+      "source": "telegram:yunpanbaidu:122",
+      "msg_time": "2025-11-02T13:11:29+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [16]",
+      "share_url": "https://pan.baidu.com/s/1EEokqqgOk7w-pGSwBOkvoQ",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:123",
+      "msg_time": "2025-11-25T06:07:58+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [32]",
+      "share_url": "https://pan.baidu.com/s/1W9swXJwPJn7gCGNMhGzgqg",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:124",
+      "msg_time": "2025-12-07T13:29:07+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [4]",
+      "share_url": "https://pan.baidu.com/s/1kfGCrt1Su2Y-Ev9lu3yR_Q",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:125",
+      "msg_time": "2025-12-18T11:34:56+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [30]",
+      "share_url": "https://pan.baidu.com/s/1nuxtCcVrWc4AL08j4VI16A",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:126",
+      "msg_time": "2025-12-18T14:18:09+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [14]",
+      "share_url": "https://pan.baidu.com/s/1kg_aiZUjRq6SXJG8B2y8Wg",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:128",
+      "msg_time": "2025-12-21T14:20:46+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [16]",
+      "share_url": "https://pan.baidu.com/s/1oNCKWHocpNJ3gyj0PJR0eQ",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:129",
+      "msg_time": "2025-12-21T14:32:33+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [10]",
+      "share_url": "https://pan.baidu.com/s/1d64pzKu59kFZzQiOuXVqqg",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:130",
+      "msg_time": "2025-12-21T14:41:25+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [21]",
+      "share_url": "https://pan.baidu.com/s/10PrblIvieKMqncmtzxZUxQ",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:131",
+      "msg_time": "2025-12-21T14:43:14+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [24]",
+      "share_url": "https://pan.baidu.com/s/1gyYPsyPIkLVoY-g_ss4npQ",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:132",
+      "msg_time": "2025-12-22T07:28:48+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [23]",
+      "share_url": "https://pan.baidu.com/s/14mUQ8duQd2NQ1ecwcH7aXQ",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:133",
+      "msg_time": "2025-12-22T07:43:05+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [36 ]",
+      "share_url": "https://pan.baidu.com/s/1O1RMAgdO2uS08QSkA2pOeQ",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:135",
+      "msg_time": "2026-01-07T07:03:00+00:00"
+    },
+    {
+      "title": "(2025)184K.HDR.60/",
+      "share_url": "https://pan.baidu.com/s/1s-XIzBh5zIhF5kBL9H3YPQ",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:96",
+      "msg_time": "2025-09-29T14:06:26+00:00"
+    },
+    {
+      "title": "(2025) WEB-4K 60FPS 38",
+      "share_url": "https://pan.baidu.com/s/1wuN1Y4hNRFhRvFPPOAL2ZA",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:97",
+      "msg_time": "2025-09-29T14:07:24+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [19]",
+      "share_url": "https://pan.baidu.com/s/1P1RadtXojF12WwREKMptDQ",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:98",
+      "msg_time": "2025-09-29T14:08:35+00:00"
+    },
+    {
+      "title": "(2025) //EP14 4K",
+      "share_url": "https://pan.baidu.com/s/1jo8WO4UvAvIFJXJGANT1fw",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:99",
+      "msg_time": "2025-09-29T14:09:11+00:00"
+    },
+    {
+      "title": "(2025) 12 [4K][/][//]",
+      "share_url": "https://pan.baidu.com/s/1YMRKxkthS823HwROekRc_A",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:100",
+      "msg_time": "2025-09-29T14:09:37+00:00"
+    },
+    {
+      "title": "(2025)/ /4K 08",
+      "share_url": "https://pan.baidu.com/s/1pMeZiwY1_T0v-4G1mfqXpA",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:101",
+      "msg_time": "2025-09-29T14:10:07+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [9]",
+      "share_url": "https://pan.baidu.com/s/19_KBhHBsuUuKzsaLZL6r9A",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:102",
+      "msg_time": "2025-09-29T14:10:37+00:00"
+    },
+    {
+      "title": "(2025) 4K+ 1080p",
+      "share_url": "https://pan.baidu.com/s/1iND5Kpl68dXUXJar--pr_g",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:103",
+      "msg_time": "2025-09-30T03:11:48+00:00"
+    },
+    {
+      "title": "20254K",
+      "share_url": "https://pan.baidu.com/s/1U75rZPfsO9F-CoTwmy7FbA",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:104",
+      "msg_time": "2025-10-04T10:46:25+00:00"
+    },
+    {
+      "title": "(2024)1080p REMUXDIY9.6",
+      "share_url": "https://pan.baidu.com/s/1bIPKo4eZA4akZ4kvLT_VYQ",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:105",
+      "msg_time": "2025-10-08T13:28:09+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [39]",
+      "share_url": "https://pan.baidu.com/s/1-exADF7hoxcvCCB7FHjn5Q",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:107",
+      "msg_time": "2025-10-17T13:33:38+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [38]",
+      "share_url": "https://pan.baidu.com/s/19TygutI3cHTnAw4AtFfMjg",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:108",
+      "msg_time": "2025-10-17T13:34:57+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [20]",
+      "share_url": "https://pan.baidu.com/s/1FFx-T1uAn8B_tlOJcSfPpA",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:109",
+      "msg_time": "2025-10-17T13:36:38+00:00"
+    },
+    {
+      "title": "(2025)26/324K./",
+      "share_url": "https://pan.baidu.com/s/1PuWFlr4IWLKTdTcL89KtGg",
+      "share_password": "Yu66",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:110",
+      "msg_time": "2025-10-20T16:00:33+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [18]",
+      "share_url": "https://pan.baidu.com/s/1AqGCcqRVWJsyMZNnnkUN6w",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:112",
+      "msg_time": "2025-10-26T13:42:53+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [16]",
+      "share_url": "https://pan.baidu.com/s/1vrawWBNVcVLc7zxE1BMskw",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:113",
+      "msg_time": "2025-10-26T13:47:35+00:00"
+    },
+    {
+      "title": "4K 12",
+      "share_url": "https://pan.baidu.com/s/19RvAzmHkVtHGd5Ee3DrLlg",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:114",
+      "msg_time": "2025-10-26T13:48:54+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [5]",
+      "share_url": "https://pan.baidu.com/s/1yqB7qiOPYwmYLXby2uGehQ",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:115",
+      "msg_time": "2025-10-26T13:49:42+00:00"
+    },
+    {
+      "title": "(2025)//4K.HDR.06",
+      "share_url": "https://pan.baidu.com/s/1Lt-27BORafu0GEXXlVv67g",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:76",
+      "msg_time": "2025-09-20T14:09:37+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [11]",
+      "share_url": "https://pan.baidu.com/s/10nFWmQtuXDZuKHQrEej-gQ",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:77",
+      "msg_time": "2025-09-20T14:11:18+00:00"
+    },
+    {
+      "title": "2025 4K 26",
+      "share_url": "https://pan.baidu.com/s/1Za-OLgXHwycKOfNU9CFrGA",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:79",
+      "msg_time": "2025-09-21T13:22:11+00:00"
+    },
+    {
+      "title": "2 (2025)134K//",
+      "share_url": "https://pan.baidu.com/s/1kWJRrRAmKvlimnxXepofVQ",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:81",
+      "msg_time": "2025-09-21T13:23:33+00:00"
+    },
+    {
+      "title": "/ 2(2025)044K.//",
+      "share_url": "https://pan.baidu.com/s/1XMrcUC4FrJgMgUU8heKC9w",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:56",
+      "msg_time": "2025-09-05T13:52:02+00:00"
+    },
+    {
+      "title": "(2025) [4K60FPS] [] [H.265] [08] [/]",
+      "share_url": "https://pan.baidu.com/s/11v8-1gAkhQzSaI6M3C3z5Q",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:57",
+      "msg_time": "2025-09-05T13:53:39+00:00"
+    },
+    {
+      "title": "(2025) 234K WEB DL/",
+      "share_url": "https://pan.baidu.com/s/15_aDzY67qNlJTevgIVh2Sw",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:58",
+      "msg_time": "2025-09-05T13:54:30+00:00"
+    },
+    {
+      "title": "2025IQ 4K 30",
+      "share_url": "https://pan.baidu.com/s/1QUYD-qhbznAuzYpOTYHZTQ",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:59",
+      "msg_time": "2025-09-05T13:54:59+00:00"
+    },
+    {
+      "title": "(2025) 26 [4K HDR 60][: //][: ////]",
+      "share_url": "https://pan.baidu.com/s/1o8qCjT0OE7-gMq2CXxWQwg",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:60",
+      "msg_time": "2025-09-05T13:55:47+00:00"
+    },
+    {
+      "title": "20254K.21//",
+      "share_url": "https://pan.baidu.com/s/1laCTOmB4fjr1ReDWKMB8BA",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:61",
+      "msg_time": "2025-09-05T13:56:30+00:00"
+    },
+    {
+      "title": "(2025)08/164K//",
+      "share_url": "https://pan.baidu.com/s/1l5sJDyMpZbfAWd2DSC60bw",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:39",
+      "msg_time": "2025-08-30T14:28:14+00:00"
+    },
+    {
+      "title": "(2025) && EP06 4K",
+      "share_url": "https://pan.baidu.com/s/1LmIApl5G94J0SxtI2ESmmQ",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:40",
+      "msg_time": "2025-08-30T14:28:45+00:00"
+    },
+    {
+      "title": "Re2025.1080P.WEB-Rip.DDP2.0.H264.mp4 1.82G",
+      "share_url": "https://pan.baidu.com/s/1f9D10AWD_f_dviV2v_bTdw",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:41",
+      "msg_time": "2025-08-31T15:35:19+00:00"
+    },
+    {
+      "title": "20254K 60FPS 33",
+      "share_url": "https://pan.baidu.com/s/1tqoZ4laOt7uQI8pYV9q4mw",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:42",
+      "msg_time": "2025-09-01T13:14:23+00:00"
+    },
+    {
+      "title": "/ (2025) //EP33 4K",
+      "share_url": "https://pan.baidu.com/s/1G_1L9jDAGvArvrshjXCHcg",
+      "share_password": "pyxh",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanbaidu:44",
+      "msg_time": "2025-09-01T13:15:39+00:00"
+    },
+    {
+      "title": "(2022) 4K HDR",
+      "share_url": "https://pan.quark.cn/s/715853cc698a?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11358",
+      "msg_time": "2024-10-22T10:53:11+00:00"
+    },
+    {
+      "title": "S @@ (2024) 13",
+      "share_url": "https://pan.quark.cn/s/43e631a05d7d?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11359",
+      "msg_time": "2024-10-22T11:53:16+00:00"
+    },
+    {
+      "title": "「温子仁恐怖系列电影 21部合集」\n链接：\nhttps://pan.quark.cn/s/13031fd37db7?entry=funletu\nhttps://",
+      "share_url": "https://pan.quark.cn/s/13031fd37db7?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11360",
+      "msg_time": "2024-10-22T12:53:14+00:00"
+    },
+    {
+      "title": "Ta1022",
+      "share_url": "https://pan.quark.cn/s/a41e1f1667a6?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11363",
+      "msg_time": "2024-10-22T13:53:25+00:00"
+    },
+    {
+      "title": "Okura~~ [2024][ ]",
+      "share_url": "https://pan.quark.cn/s/0655c74a2d9d?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11364",
+      "msg_time": "2024-10-22T14:53:22+00:00"
+    },
+    {
+      "title": "「猫猫少女的呢喃」\n我用夸克网盘分享了「猫猫少女的呢喃」\n链接：\nhttps://pan.quark.cn/s/d3b8d0095cd3?entry=funle",
+      "share_url": "https://pan.quark.cn/s/d3b8d0095cd3?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:QuarkShare:quarkshare/11365",
+      "msg_time": "2024-10-22T15:53:06+00:00"
+    },
+    {
+      "title": "「更衣人偶坠入爱河」\n我用夸克网盘分享了「更衣人偶坠入爱河」\n链接：\nhttps://pan.quark.cn/s/fdbe0023ac34?entry=fun",
+      "share_url": "https://pan.quark.cn/s/fdbe0023ac34?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:QuarkShare:quarkshare/11367",
+      "msg_time": "2024-10-22T16:53:07+00:00"
+    },
+    {
+      "title": "梦想改造家 第9季\nhttps://pan.quark.cn/s/870528b2183d?entry=funletu\nhttps://pan.ifun.coo",
+      "share_url": "https://pan.quark.cn/s/870528b2183d?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:QuarkShare:quarkshare/11368",
+      "msg_time": "2024-10-22T17:52:59+00:00"
+    },
+    {
+      "title": "「柑橘味香气 」全集 已完结\n我用夸克网盘分享了「柑橘味香气 」\n链接：\nhttps://pan.quark.cn/s/ff8535fc58ec?entry=f",
+      "share_url": "https://pan.quark.cn/s/ff8535fc58ec?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:QuarkShare:quarkshare/11370",
+      "msg_time": "2024-10-22T18:53:04+00:00"
+    },
+    {
+      "title": "「安达与岛村」全集 已完结\n我用夸克网盘分享了「安达与岛村」\n链接：\nhttps://pan.quark.cn/s/876921d361c7?entry=fun",
+      "share_url": "https://pan.quark.cn/s/876921d361c7?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:QuarkShare:quarkshare/11371",
+      "msg_time": "2024-10-22T19:54:13+00:00"
+    },
+    {
+      "title": "Bagman[][]",
+      "share_url": "https://pan.quark.cn/s/3977443de1a2?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11372",
+      "msg_time": "2024-10-22T20:53:17+00:00"
+    },
+    {
+      "title": "72.0",
+      "share_url": "https://pan.quark.cn/s/1d2475cbd791?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11373",
+      "msg_time": "2024-10-22T21:53:30+00:00"
+    },
+    {
+      "title": "(2024)",
+      "share_url": "https://pan.quark.cn/s/bf848770cfc2?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11374",
+      "msg_time": "2024-10-22T22:53:16+00:00"
+    },
+    {
+      "title": "2 (2022)1~2 / :",
+      "share_url": "https://pan.quark.cn/s/884f9cc3524d?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11375",
+      "msg_time": "2024-10-22T23:53:07+00:00"
+    },
+    {
+      "title": "MIT",
+      "share_url": "https://pan.quark.cn/s/24fe7f0b34f1?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11381",
+      "msg_time": "2024-10-23T04:54:14+00:00"
+    },
+    {
+      "title": "2024",
+      "share_url": "https://pan.quark.cn/s/7b9897e8a47d?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11340",
+      "msg_time": "2024-10-21T16:53:16+00:00"
+    },
+    {
+      "title": "2024",
+      "share_url": "https://pan.quark.cn/s/832979f9233f?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11341",
+      "msg_time": "2024-10-21T17:53:42+00:00"
+    },
+    {
+      "title": "Brothers (2024)[ ]",
+      "share_url": "https://pan.quark.cn/s/aacf0159ab13?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11344",
+      "msg_time": "2024-10-21T20:53:03+00:00"
+    },
+    {
+      "title": "(2024)[ ]",
+      "share_url": "https://pan.quark.cn/s/d4dee479e281?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11345",
+      "msg_time": "2024-10-21T21:53:07+00:00"
+    },
+    {
+      "title": "30002024",
+      "share_url": "https://pan.quark.cn/s/4751b88e3fc3?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11348",
+      "msg_time": "2024-10-21T23:53:06+00:00"
+    },
+    {
+      "title": "[2024][ ][· ·][]",
+      "share_url": "https://pan.quark.cn/s/17730df0c45d?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11349",
+      "msg_time": "2024-10-22T00:52:59+00:00"
+    },
+    {
+      "title": "小灯塔少儿动画-南北极探险之旅（全）\nhttps://pan.quark.cn/s/a38cdf19ce6f?entry=funletu\nhttps://pan",
+      "share_url": "https://pan.quark.cn/s/a38cdf19ce6f?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11352",
+      "msg_time": "2024-10-22T03:53:25+00:00"
+    },
+    {
+      "title": "格雷斯\n我用夸克网盘分享了「格雷斯」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。\n链接：\nhttps://pan",
+      "share_url": "https://pan.quark.cn/s/77993c562aa9?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:QuarkShare:quarkshare/11356",
+      "msg_time": "2024-10-22T08:53:17+00:00"
+    },
+    {
+      "title": "210",
+      "share_url": "https://pan.quark.cn/s/1575e70316f8?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11318",
+      "msg_time": "2024-10-20T17:53:41+00:00"
+    },
+    {
+      "title": "4K/",
+      "share_url": "https://pan.quark.cn/s/6b1455fd1013?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11319",
+      "msg_time": "2024-10-20T18:53:28+00:00"
+    },
+    {
+      "title": "HKFACT",
+      "share_url": "https://pan.baidu.com/s/1zKCee-5zDX6IuRkIeQvecA?pwd=ay49",
+      "share_password": "ay49",
+      "pan_type": "baidu",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11320",
+      "msg_time": "2024-10-20T19:53:14+00:00"
+    },
+    {
+      "title": "HKFACT",
+      "share_url": "https://pan.quark.cn/s/6908a7130e3d?entry=funletu",
+      "share_password": "ay49",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11320",
+      "msg_time": "2024-10-20T19:53:14+00:00"
+    },
+    {
+      "title": "20244K 59",
+      "share_url": "https://pan.quark.cn/s/fec7d2f149e6?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11322",
+      "msg_time": "2024-10-20T21:53:05+00:00"
+    },
+    {
+      "title": "SnapTube v7.28.0.72850210 YouTuBe",
+      "share_url": "https://pan.quark.cn/s/1be9d4737771?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11323",
+      "msg_time": "2024-10-20T22:53:21+00:00"
+    },
+    {
+      "title": "[2024][ ]",
+      "share_url": "https://pan.quark.cn/s/69b83b090f25?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11325",
+      "msg_time": "2024-10-21T00:53:31+00:00"
+    },
+    {
+      "title": "800",
+      "share_url": "https://pan.quark.cn/s/8497d4bf2cd4?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11326",
+      "msg_time": "2024-10-21T02:53:24+00:00"
+    },
+    {
+      "title": "[2024][ ]",
+      "share_url": "https://pan.quark.cn/s/40a6efc74c3b?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11327",
+      "msg_time": "2024-10-21T04:37:45+00:00"
+    },
+    {
+      "title": "[2023][ ][5.1]",
+      "share_url": "https://pan.quark.cn/s/144c1863a597?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11328",
+      "msg_time": "2024-10-21T04:53:17+00:00"
+    },
+    {
+      "title": "····3-4 [198][WEB-MKV/591.1GB][][1080P][C]",
+      "share_url": "https://pan.quark.cn/s/512cb300fbd2?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11329",
+      "msg_time": "2024-10-21T05:54:25+00:00"
+    },
+    {
+      "title": "····3-4 [198][WEB-MKV/591.1GB][][1080P][C]",
+      "share_url": "https://pan.quark.cn/s/1b044d9728b2?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11329",
+      "msg_time": "2024-10-21T05:54:25+00:00"
+    },
+    {
+      "title": "····3-4 [198][WEB-MKV/591.1GB][][1080P][C]",
+      "share_url": "https://pan.quark.cn/s/83f992faa064?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11329",
+      "msg_time": "2024-10-21T05:54:25+00:00"
+    },
+    {
+      "title": "····3-4 [198][WEB-MKV/591.1GB][][1080P][C]",
+      "share_url": "https://pan.quark.cn/s/8ae7017951be?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11329",
+      "msg_time": "2024-10-21T05:54:25+00:00"
+    },
+    {
+      "title": "2024 (2024) : /",
+      "share_url": "https://pan.quark.cn/s/172d74618930?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11334",
+      "msg_time": "2024-10-21T10:52:57+00:00"
+    },
+    {
+      "title": "石黑一雄中英双语作品集（套装共8册）\n石黑一雄中英双语作品集（套装共8册）\n夸克：\nhttps://pan.quark.cn/s/b1f6beafa0a3?en",
+      "share_url": "https://pan.quark.cn/s/b1f6beafa0a3?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:QuarkShare:quarkshare/11335",
+      "msg_time": "2024-10-21T11:53:23+00:00"
+    },
+    {
+      "title": "2099 (2024)1080",
+      "share_url": "https://pan.quark.cn/s/583bc20d6aec?entry=funletu",
+      "share_password": "yaya",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11302",
+      "msg_time": "2024-10-20T04:53:22+00:00"
+    },
+    {
+      "title": "2099 (2024)1080",
+      "share_url": "https://pan.baidu.com/s/13EWn0dPI38qYkW10cEqyxQ?pwd=yaya",
+      "share_password": "yaya",
+      "pan_type": "baidu",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11302",
+      "msg_time": "2024-10-20T04:53:22+00:00"
+    },
+    {
+      "title": "2099 (2024)1080",
+      "share_url": "https://pan.quark.cn/s/3352e57b78bf?entry=funletu",
+      "share_password": "yaya",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11302",
+      "msg_time": "2024-10-20T04:53:22+00:00"
+    },
+    {
+      "title": "2099 (2024)1080",
+      "share_url": "https://pan.quark.cn/s/31d1c610d062?entry=funletu",
+      "share_password": "yaya",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11302",
+      "msg_time": "2024-10-20T04:53:22+00:00"
+    },
+    {
+      "title": "·S018·",
+      "share_url": "https://pan.quark.cn/s/35abfb258018?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11306",
+      "msg_time": "2024-10-20T08:53:12+00:00"
+    },
+    {
+      "title": "19958.1",
+      "share_url": "https://pan.quark.cn/s/0b813ca31de8?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11307",
+      "msg_time": "2024-10-20T09:53:12+00:00"
+    },
+    {
+      "title": "19958.1",
+      "share_url": "https://pan.baidu.com/s/1rIb9ld8oAR5Y8yfN2MLerw?pwd=2036",
+      "share_password": "2036",
+      "pan_type": "baidu",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11307",
+      "msg_time": "2024-10-20T09:53:12+00:00"
+    },
+    {
+      "title": "《DK儿童百科全书》动画版\nhttps://pan.quark.cn/s/0ed9d2022d08?entry=funletu\nhttps://pan.ifun",
+      "share_url": "https://pan.quark.cn/s/0ed9d2022d08?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11308",
+      "msg_time": "2024-10-20T10:52:59+00:00"
+    },
+    {
+      "title": "v0.20.13",
+      "share_url": "https://pan.quark.cn/s/1c8b6630acd1?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11309",
+      "msg_time": "2024-10-20T11:53:24+00:00"
+    },
+    {
+      "title": "C 03 ()",
+      "share_url": "https://pan.quark.cn/s/5c4ea7e3f8b2?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11310",
+      "msg_time": "2024-10-20T12:53:55+00:00"
+    },
+    {
+      "title": "「【白夜剧场】血色逃逸线豆瓣阅读悬疑年榜作品59集完结 有声剧」\n链接：\nhttps://pan.quark.cn/s/010c08e7fa1d?entry=f",
+      "share_url": "https://pan.quark.cn/s/010c08e7fa1d?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:QuarkShare:quarkshare/11312",
+      "msg_time": "2024-10-20T13:53:00+00:00"
+    },
+    {
+      "title": "179.8GB",
+      "share_url": "https://pan.quark.cn/s/90ea08af440f?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11315",
+      "msg_time": "2024-10-20T14:53:51+00:00"
+    },
+    {
+      "title": "「好好吃饭：无须自控力，三观最正的瘦身指南」\n链接：\nhttps://pan.quark.cn/s/7e4ed5a2da22?entry=funletu\nhtt",
+      "share_url": "https://pan.quark.cn/s/7e4ed5a2da22?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:QuarkShare:quarkshare/11316",
+      "msg_time": "2024-10-20T15:53:01+00:00"
+    },
+    {
+      "title": "· [2024][ ][ ]04",
+      "share_url": "https://pan.quark.cn/s/e4599aadca2a?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11317",
+      "msg_time": "2024-10-20T16:53:12+00:00"
+    },
+    {
+      "title": "地理大百科启蒙动画《地理八分钟》\nhttps://pan.quark.cn/s/8804fe6a8df6?entry=funletu\nhttps://pan.i",
+      "share_url": "https://pan.quark.cn/s/8804fe6a8df6?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11278",
+      "msg_time": "2024-10-19T05:53:12+00:00"
+    },
+    {
+      "title": "2015-2024",
+      "share_url": "https://pan.quark.cn/s/b55b65c814d7?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11280",
+      "msg_time": "2024-10-19T08:53:12+00:00"
+    },
+    {
+      "title": "[2024] : /",
+      "share_url": "https://pan.quark.cn/s/2c5a0fe8bbfc?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11281",
+      "msg_time": "2024-10-19T09:53:33+00:00"
+    },
+    {
+      "title": "MadS [2024]1080P[ ]",
+      "share_url": "https://pan.quark.cn/s/23ecc0393685?entry=funletu",
+      "share_password": "6666",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11282",
+      "msg_time": "2024-10-19T10:53:06+00:00"
+    },
+    {
+      "title": "MadS [2024]1080P[ ]",
+      "share_url": "https://pan.baidu.com/s/1BGNWBCF-CS2eNZuch1FR7A",
+      "share_password": "6666",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11282",
+      "msg_time": "2024-10-19T10:53:06+00:00"
+    },
+    {
+      "title": "x (2024)4K04",
+      "share_url": "https://pan.quark.cn/s/033a9f412a49?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11284",
+      "msg_time": "2024-10-19T11:52:58+00:00"
+    },
+    {
+      "title": "(2024)1080P[ ]01",
+      "share_url": "https://pan.quark.cn/s/341cdfdeb219?entry=funletu",
+      "share_password": "6666",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11285",
+      "msg_time": "2024-10-19T12:53:04+00:00"
+    },
+    {
+      "title": "(2024)1080P[ ]01",
+      "share_url": "https://pan.baidu.com/s/1XjlRCjP8-azI0fC_EoDS0A",
+      "share_password": "6666",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11285",
+      "msg_time": "2024-10-19T12:53:04+00:00"
+    },
+    {
+      "title": "(2024)4K[ ][ ]",
+      "share_url": "https://pan.quark.cn/s/23adf2a67e4e?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11286",
+      "msg_time": "2024-10-19T13:53:14+00:00"
+    },
+    {
+      "title": "(2024)4K[ ][ ]",
+      "share_url": "https://pan.quark.cn/s/daf8dbecdb64?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11286",
+      "msg_time": "2024-10-19T13:53:14+00:00"
+    },
+    {
+      "title": "(2024)4K[ ][ ]",
+      "share_url": "https://pan.quark.cn/s/83a0666ca430?entry=funletu[/ttreply]",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11286",
+      "msg_time": "2024-10-19T13:53:14+00:00"
+    },
+    {
+      "title": "(2023)· / / : ·",
+      "share_url": "https://pan.quark.cn/s/26ce3f62043e?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11287",
+      "msg_time": "2024-10-19T14:53:03+00:00"
+    },
+    {
+      "title": "1-6",
+      "share_url": "https://pan.quark.cn/s/1c517a1eb36f?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11288",
+      "msg_time": "2024-10-19T15:52:59+00:00"
+    },
+    {
+      "title": "(2024) 4K",
+      "share_url": "https://pan.quark.cn/s/5e26e16157d8?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:QuarkShare:quarkshare/11289",
+      "msg_time": "2024-10-19T16:53:10+00:00"
+    },
+    {
+      "title": "/ (2024)",
+      "share_url": "https://pan.quark.cn/s/fc6c18a355d6?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11290",
+      "msg_time": "2024-10-19T17:53:12+00:00"
+    },
+    {
+      "title": "2024",
+      "share_url": "https://pan.quark.cn/s/47e5c2b8d93f?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:QuarkShare:quarkshare/11292",
+      "msg_time": "2024-10-19T19:52:58+00:00"
+    },
+    {
+      "title": "🙆\n英语音标合集\n🙆\n英语音标合集\n「【完结】Frank老师：好玩好记的极简音标课」链接：\nhttps://pan.quark.cn/s/d7ae3017302",
+      "share_url": "https://pan.quark.cn/s/d7ae3017302e?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:QuarkShare:quarkshare/11294",
+      "msg_time": "2024-10-19T20:53:01+00:00"
+    },
+    {
+      "title": "🙆\n英语音标合集\n🙆\n英语音标合集\n「【完结】Frank老师：好玩好记的极简音标课」链接：\nhttps://pan.quark.cn/s/d7ae3017302",
+      "share_url": "https://pan.quark.cn/s/97dc5119bf5f?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:QuarkShare:quarkshare/11294",
+      "msg_time": "2024-10-19T20:53:01+00:00"
+    },
+    {
+      "title": "🙆\n英语音标合集\n🙆\n英语音标合集\n「【完结】Frank老师：好玩好记的极简音标课」链接：\nhttps://pan.quark.cn/s/d7ae3017302",
+      "share_url": "https://pan.quark.cn/s/31c7787b9de9?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:QuarkShare:quarkshare/11294",
+      "msg_time": "2024-10-19T20:53:01+00:00"
+    },
+    {
+      "title": "🙆\n英语音标合集\n🙆\n英语音标合集\n「【完结】Frank老师：好玩好记的极简音标课」链接：\nhttps://pan.quark.cn/s/d7ae3017302",
+      "share_url": "https://pan.quark.cn/s/2e987d347106?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:QuarkShare:quarkshare/11294",
+      "msg_time": "2024-10-19T20:53:01+00:00"
+    },
+    {
+      "title": "学习变现：把知识转化为价值\nhttps://pan.quark.cn/s/cffd5db174b0?entry=funletu\nhttps://pan.ifun",
+      "share_url": "https://pan.quark.cn/s/cffd5db174b0?entry=funletu",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:QuarkShare:quarkshare/11295",
+      "msg_time": "2024-10-19T21:53:31+00:00"
+    },
+    {
+      "title": "4K.7",
+      "share_url": "https://pan.quark.cn/s/c413e29557f6",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:kuakeshare:KuaKeShare/3",
+      "msg_time": "2024-09-07T12:54:38+00:00"
+    },
+    {
+      "title": "4K.6",
+      "share_url": "https://pan.quark.cn/s/1acb6a0acf08",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:kuakeshare:KuaKeShare/4",
+      "msg_time": "2024-09-07T12:59:10+00:00"
+    },
+    {
+      "title": "11/12 / [2025][][]",
+      "share_url": "https://pan.quark.cn/s/678706f08bc4",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:yunpanNB:195",
+      "msg_time": "2025-10-26T14:01:12+00:00"
+    },
+    {
+      "title": "(2025) [1080P] [] [11]",
+      "share_url": "https://pan.quark.cn/s/307db5db84a6",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:196",
+      "msg_time": "2025-10-26T14:01:54+00:00"
+    },
+    {
+      "title": "Boots (2025) 1080 S01",
+      "share_url": "https://pan.quark.cn/s/4b19cce4cde0",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:yunpanNB:197",
+      "msg_time": "2025-10-26T14:03:38+00:00"
+    },
+    {
+      "title": "(1-4)4K.HDR&/",
+      "share_url": "https://pan.quark.cn/s/bddfd6801134",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:199",
+      "msg_time": "2025-11-02T13:07:29+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [12]",
+      "share_url": "https://pan.quark.cn/s/684bf38c3217",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:200",
+      "msg_time": "2025-11-02T13:08:23+00:00"
+    },
+    {
+      "title": "(2025)06",
+      "share_url": "https://pan.quark.cn/s/d0a6ac1b850d",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:yunpanNB:201",
+      "msg_time": "2025-11-02T13:11:28+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [16]",
+      "share_url": "https://pan.quark.cn/s/9f79ad5649e9",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:202",
+      "msg_time": "2025-11-25T06:07:55+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [32]",
+      "share_url": "https://pan.quark.cn/s/78e2c1fb0006",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:203",
+      "msg_time": "2025-12-07T13:29:05+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [4]",
+      "share_url": "https://pan.quark.cn/s/b858ed4032e6",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:204",
+      "msg_time": "2025-12-18T11:34:51+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [30]",
+      "share_url": "https://pan.quark.cn/s/87195d4ec5c0",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:205",
+      "msg_time": "2025-12-18T14:18:08+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [23]",
+      "share_url": "https://pan.quark.cn/s/23fc183f1e33",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:206",
+      "msg_time": "2025-12-21T14:14:42+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [14]",
+      "share_url": "https://pan.quark.cn/s/a96042b6f26d",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:207",
+      "msg_time": "2025-12-21T14:20:44+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [16]",
+      "share_url": "https://pan.quark.cn/s/dde660b3b214",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:208",
+      "msg_time": "2025-12-21T14:32:31+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [10]",
+      "share_url": "https://pan.quark.cn/s/b0751d5a863a",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:209",
+      "msg_time": "2025-12-21T14:41:24+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [21]",
+      "share_url": "https://pan.quark.cn/s/89d1515b8766",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:210",
+      "msg_time": "2025-12-21T14:43:13+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [24]",
+      "share_url": "https://pan.quark.cn/s/0bd2b77fbd62",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:211",
+      "msg_time": "2025-12-22T07:28:47+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [23]",
+      "share_url": "https://pan.quark.cn/s/51c2f16e662c",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:212",
+      "msg_time": "2025-12-22T07:43:04+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [36 ]",
+      "share_url": "https://pan.quark.cn/s/ca80f81be646",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:214",
+      "msg_time": "2026-01-07T07:02:59+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [16]",
+      "share_url": "https://pan.quark.cn/s/2025d50ff90c",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:175",
+      "msg_time": "2025-10-17T13:39:06+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [10]",
+      "share_url": "https://pan.quark.cn/s/85b4350e4382",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:176",
+      "msg_time": "2025-10-17T13:40:22+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [5]",
+      "share_url": "https://pan.quark.cn/s/264bb18f7d88",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:177",
+      "msg_time": "2025-10-17T13:41:40+00:00"
+    },
+    {
+      "title": "(2025)26/324K./",
+      "share_url": "https://pan.quark.cn/s/855adfec8601",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:178",
+      "msg_time": "2025-10-20T16:00:31+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [36]",
+      "share_url": "https://pan.quark.cn/s/2c7c166862ab",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:179",
+      "msg_time": "2025-10-26T13:33:38+00:00"
+    },
+    {
+      "title": "(2025)324K./",
+      "share_url": "https://pan.quark.cn/s/23d5be971aa7",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:180",
+      "msg_time": "2025-10-26T13:37:45+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [16]",
+      "share_url": "https://pan.quark.cn/s/83597b899795",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:183",
+      "msg_time": "2025-10-26T13:47:33+00:00"
+    },
+    {
+      "title": "4K 12",
+      "share_url": "https://pan.quark.cn/s/d5165be8543c",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:184",
+      "msg_time": "2025-10-26T13:48:52+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [5]",
+      "share_url": "https://pan.quark.cn/s/db25c6118861",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:185",
+      "msg_time": "2025-10-26T13:49:40+00:00"
+    },
+    {
+      "title": "(2025) [1080P] [] [8]",
+      "share_url": "https://pan.quark.cn/s/65a05523b7f8",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:186",
+      "msg_time": "2025-10-26T13:50:38+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [7]",
+      "share_url": "https://pan.quark.cn/s/a8096de0ed0e",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:187",
+      "msg_time": "2025-10-26T13:51:43+00:00"
+    },
+    {
+      "title": "2025.1080p.NF.WEB-DL.H.264.DDP5.1.Atmos.mkv 1",
+      "share_url": "https://pan.quark.cn/s/7644e1ee02ef",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:189",
+      "msg_time": "2025-10-26T13:53:48+00:00"
+    },
+    {
+      "title": "05/16 / [2025][][]",
+      "share_url": "https://pan.quark.cn/s/3e06e9f4b21b",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:yunpanNB:190",
+      "msg_time": "2025-10-26T13:54:37+00:00"
+    },
+    {
+      "title": "06/12 / [2025][][]",
+      "share_url": "https://pan.quark.cn/s/fce6b1984cec",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:yunpanNB:191",
+      "msg_time": "2025-10-26T13:57:48+00:00"
+    },
+    {
+      "title": "8 / [2025][][]",
+      "share_url": "https://pan.quark.cn/s/0f9cef91ce6b",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:yunpanNB:192",
+      "msg_time": "2025-10-26T13:59:11+00:00"
+    },
+    {
+      "title": "10/12 / [2025][][]",
+      "share_url": "https://pan.quark.cn/s/c8e8856d15d9",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:yunpanNB:193",
+      "msg_time": "2025-10-26T13:59:55+00:00"
+    },
+    {
+      "title": "08/12 / [2025][][]",
+      "share_url": "https://pan.quark.cn/s/45e42e2fa37f",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:yunpanNB:194",
+      "msg_time": "2025-10-26T14:00:31+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [19]",
+      "share_url": "https://pan.quark.cn/s/65905910da20",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:155",
+      "msg_time": "2025-09-29T14:08:34+00:00"
+    },
+    {
+      "title": "(2025) //EP14 4K",
+      "share_url": "https://pan.quark.cn/s/373e15f1b20e",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:156",
+      "msg_time": "2025-09-29T14:09:10+00:00"
+    },
+    {
+      "title": "(2025) 12 [4K][/][//]",
+      "share_url": "https://pan.quark.cn/s/14f3cca2bf59",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:157",
+      "msg_time": "2025-09-29T14:09:36+00:00"
+    },
+    {
+      "title": "(2025)/ /4K 08",
+      "share_url": "https://pan.quark.cn/s/aa64284a1572",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:158",
+      "msg_time": "2025-09-29T14:10:05+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [9]",
+      "share_url": "https://pan.quark.cn/s/e9198ea07fcf",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:159",
+      "msg_time": "2025-09-29T14:10:35+00:00"
+    },
+    {
+      "title": "(2022) (30) & |",
+      "share_url": "https://pan.quark.cn/s/f8111daf512a",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:yunpanNB:160",
+      "msg_time": "2025-09-29T14:13:55+00:00"
+    },
+    {
+      "title": "(2022) (24) & |",
+      "share_url": "https://pan.quark.cn/s/42dee17e2365",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:yunpanNB:161",
+      "msg_time": "2025-09-29T14:15:12+00:00"
+    },
+    {
+      "title": "(2022) (24) & |",
+      "share_url": "https://pan.quark.cn/s/65ba859f63cc",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:yunpanNB:162",
+      "msg_time": "2025-09-29T14:16:07+00:00"
+    },
+    {
+      "title": "(2022) (24) & |",
+      "share_url": "https://pan.quark.cn/s/3972c0b9ede2",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:yunpanNB:163",
+      "msg_time": "2025-09-29T14:18:26+00:00"
+    },
+    {
+      "title": "(2024)(22) /",
+      "share_url": "https://pan.quark.cn/s/6cbb71debf39",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:yunpanNB:164",
+      "msg_time": "2025-09-29T14:21:12+00:00"
+    },
+    {
+      "title": "(2025) 4K+ 1080p",
+      "share_url": "https://pan.quark.cn/s/708149115ce1",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:165",
+      "msg_time": "2025-09-30T03:11:47+00:00"
+    },
+    {
+      "title": "·(2025)1080p",
+      "share_url": "https://pan.quark.cn/s/5cd47af19718",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:166",
+      "msg_time": "2025-10-04T10:44:28+00:00"
+    },
+    {
+      "title": "20254K",
+      "share_url": "https://pan.quark.cn/s/3029ab3d837d",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:167",
+      "msg_time": "2025-10-04T10:46:24+00:00"
+    },
+    {
+      "title": "20251080p",
+      "share_url": "https://pan.quark.cn/s/1fb9910facfb",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:168",
+      "msg_time": "2025-10-04T10:47:37+00:00"
+    },
+    {
+      "title": "(2024)1080p REMUXDIY9.6",
+      "share_url": "https://pan.quark.cn/s/43ca6c8e76d4",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:169",
+      "msg_time": "2025-10-08T13:28:07+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [39]",
+      "share_url": "https://pan.quark.cn/s/ea8c37771662",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:171",
+      "msg_time": "2025-10-17T13:33:36+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [38]",
+      "share_url": "https://pan.quark.cn/s/16bd7fb1ad0f",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:172",
+      "msg_time": "2025-10-17T13:34:56+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [20]",
+      "share_url": "https://pan.quark.cn/s/f1965f2c2a92",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:173",
+      "msg_time": "2025-10-17T13:36:37+00:00"
+    },
+    {
+      "title": "KR KR (2025) [1080P] [] [5]",
+      "share_url": "https://pan.quark.cn/s/0dc5bc264f8c",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:135",
+      "msg_time": "2025-09-21T13:30:56+00:00"
+    },
+    {
+      "title": "2025 4K 40",
+      "share_url": "https://pan.quark.cn/s/c084d601b6e5",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:136",
+      "msg_time": "2025-09-27T13:26:24+00:00"
+    },
+    {
+      "title": "(2025) WEB-4K 60FPS 34",
+      "share_url": "https://pan.quark.cn/s/0e8f648c0899",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:137",
+      "msg_time": "2025-09-27T13:27:19+00:00"
+    },
+    {
+      "title": "2 2 (2025)234K//",
+      "share_url": "https://pan.quark.cn/s/ee11aecc250e",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:138",
+      "msg_time": "2025-09-27T13:28:00+00:00"
+    },
+    {
+      "title": "(2025)//4K.HDR.11",
+      "share_url": "https://pan.quark.cn/s/fede152b75e9",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:139",
+      "msg_time": "2025-09-27T13:28:45+00:00"
+    },
+    {
+      "title": "(2025)124K.HDR.60/",
+      "share_url": "https://pan.quark.cn/s/04467ce9e5b5",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:140",
+      "msg_time": "2025-09-27T13:29:21+00:00"
+    },
+    {
+      "title": "(2025) 16 [4K][/][/][20]",
+      "share_url": "https://pan.quark.cn/s/a8bcefc7a9c3",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:141",
+      "msg_time": "2025-09-27T13:30:38+00:00"
+    },
+    {
+      "title": "(2025) //4K 24",
+      "share_url": "https://pan.quark.cn/s/0522c59df218",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:142",
+      "msg_time": "2025-09-27T13:32:58+00:00"
+    },
+    {
+      "title": "() 2025 (0927)",
+      "share_url": "https://pan.quark.cn/s/d3be39f12e66",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:yunpanNB:148",
+      "msg_time": "2025-09-29T13:58:06+00:00"
+    },
+    {
+      "title": "20250929",
+      "share_url": "https://pan.quark.cn/s/25c4118266db",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:yunpanNB:149",
+      "msg_time": "2025-09-29T14:00:31+00:00"
+    },
+    {
+      "title": "(2025) 334K WEB DL/",
+      "share_url": "https://pan.quark.cn/s/92bbb2c825bd",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:115",
+      "msg_time": "2025-09-12T13:09:02+00:00"
+    },
+    {
+      "title": "‎ (2025) 4K. HDR 10 12",
+      "share_url": "https://pan.quark.cn/s/3dfb066d5dae",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:116",
+      "msg_time": "2025-09-12T13:28:28+00:00"
+    },
+    {
+      "title": "20251080p S01",
+      "share_url": "https://pan.quark.cn/s/c5d7ca4a74d7",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:117",
+      "msg_time": "2025-09-12T13:48:01+00:00"
+    },
+    {
+      "title": "(2025)4K 22",
+      "share_url": "https://pan.quark.cn/s/2f697944c0fb",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:118",
+      "msg_time": "2025-09-12T13:59:58+00:00"
+    },
+    {
+      "title": "(2025) 4K 22",
+      "share_url": "https://pan.quark.cn/s/ef3c83b665a3",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:119",
+      "msg_time": "2025-09-12T14:01:34+00:00"
+    },
+    {
+      "title": "(2025)4K 24",
+      "share_url": "https://pan.quark.cn/s/18e75cde0269",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:120",
+      "msg_time": "2025-09-12T14:02:12+00:00"
+    },
+    {
+      "title": "(2025)4K 18",
+      "share_url": "https://pan.quark.cn/s/7dd076eee914",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:121",
+      "msg_time": "2025-09-12T14:03:25+00:00"
+    },
+    {
+      "title": "(2025) [WEB-4K] [] [11]",
+      "share_url": "https://pan.quark.cn/s/b293e1444077",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanNB:126",
+      "msg_time": "2025-09-20T14:11:16+00:00"
+    },
+    {
+      "title": "02/12 [2025][][]",
+      "share_url": "https://pan.quark.cn/s/443ba86d6a73",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:yunpanNB:134",
+      "msg_time": "2025-09-21T13:27:48+00:00"
+    },
+    {
+      "title": "2026web-4k 23",
+      "share_url": "https://pan.quark.cn/s/86b9f16902d8",
+      "share_password": "sdkc",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167248",
+      "msg_time": "2026-10-20T03:32:42+00:00"
+    },
+    {
+      "title": "2026web-4k 23",
+      "share_url": "https://pan.baidu.com/s/1vQ3Xv16o3bT-_scXOmhYow?pwd=sdkc",
+      "share_password": "sdkc",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167248",
+      "msg_time": "2026-10-20T03:32:42+00:00"
+    },
+    {
+      "title": "4k 20",
+      "share_url": "https://pan.baidu.com/s/1N8KhoNDpYaHeGmGaQPq1uw",
+      "share_password": "6666",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167249",
+      "msg_time": "2026-10-20T03:32:42+00:00"
+    },
+    {
+      "title": "4k 20",
+      "share_url": "https://pan.quark.cn/s/ba43d2c29fb1",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167249",
+      "msg_time": "2026-10-20T03:32:42+00:00"
+    },
+    {
+      "title": "(2026) 23 [4K][][/]",
+      "share_url": "https://pan.quark.cn/s/941767f397a5",
+      "share_password": "1020",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167250",
+      "msg_time": "2026-10-20T03:32:42+00:00"
+    },
+    {
+      "title": "(2026) 23 [4K][][/]",
+      "share_url": "https://pan.baidu.com/s/1FroqZE792W4cbTJu5QDVjw?pwd=1020",
+      "share_password": "1020",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167250",
+      "msg_time": "2026-10-20T03:32:42+00:00"
+    },
+    {
+      "title": "20264k 8",
+      "share_url": "https://pan.baidu.com/s/1vxMvGKeyzqnznJPu5EZCMA?pwd=6666",
+      "share_password": "zqnznJ",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167251",
+      "msg_time": "2026-10-20T03:32:42+00:00"
+    },
+    {
+      "title": "20264k 8",
+      "share_url": "https://pan.quark.cn/s/87f52e7f0e2a",
+      "share_password": "zqnznJ",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167251",
+      "msg_time": "2026-10-20T03:32:42+00:00"
+    },
+    {
+      "title": "20264K+108023",
+      "share_url": "https://pan.quark.cn/s/9c06f85c1a7b",
+      "share_password": "6666",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167252",
+      "msg_time": "2026-10-20T03:32:42+00:00"
+    },
+    {
+      "title": "20264K+108023",
+      "share_url": "https://pan.baidu.com/s/1ODWKYT46j7Q1N_ltcbhIJA?pwd=6666",
+      "share_password": "6666",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167252",
+      "msg_time": "2026-10-20T03:32:42+00:00"
+    },
+    {
+      "title": "2026web-4k 23",
+      "share_url": "https://pan.baidu.com/s/1vQ3Xv16o3bT-_scXOmhYow",
+      "share_password": "sdkc",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167253",
+      "msg_time": "2026-10-20T03:32:42+00:00"
+    },
+    {
+      "title": "The Secret Life of Walter Mitty",
+      "share_url": "https://pan.quark.cn/s/a3fbceec7d9e",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:leoziyuan:3167254",
+      "msg_time": "2026-10-20T03:32:42+00:00"
+    },
+    {
+      "title": "#电影\n🗄\n 不择手段\n📜\n介绍：\n1960年代，一位年轻的黑人FBI探员（叶海亚·阿卜杜勒-迈丁 饰）被派往密西西比州，调查一系列针对民权领袖的残忍谋杀案。他",
+      "share_url": "https://pan.quark.cn/s/7b58f668df20",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167256",
+      "msg_time": "2026-10-20T03:32:43+00:00"
+    },
+    {
+      "title": "#电影\n🗄\n 不择手段\n📜\n介绍：\n1960年代，一位年轻的黑人FBI探员（叶海亚·阿卜杜勒-迈丁 饰）被派往密西西比州，调查一系列针对民权领袖的残忍谋杀案。他",
+      "share_url": "https://pan.baidu.com/s/1PwfYXvXjOG7IHY9gIjQjFA",
+      "share_password": "fy4g",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167256",
+      "msg_time": "2026-10-20T03:32:43+00:00"
+    },
+    {
+      "title": "1115",
+      "share_url": "https://pan.baidu.com/s/1YsaIjSj9f1F2lL33ilJ4Bg",
+      "share_password": "khru",
+      "pan_type": "baidu",
+      "resource_type": "other",
+      "source": "telegram:leoziyuan:3167259",
+      "msg_time": "2026-10-20T03:32:46+00:00"
+    },
+    {
+      "title": "(2026) 23 [4K][][/]",
+      "share_url": "https://pan.baidu.com/s/1FroqZE792W4cbTJu5QDVjw",
+      "share_password": "1020",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167260",
+      "msg_time": "2026-10-20T03:32:46+00:00"
+    },
+    {
+      "title": "‎ (2026) 4K HDR DDP5.1+AAC5.1 4.2GB/08/",
+      "share_url": "https://pan.quark.cn/s/31d4ac5c7b81",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167261",
+      "msg_time": "2026-10-20T03:32:47+00:00"
+    },
+    {
+      "title": "By Any Means (2026) 1080P",
+      "share_url": "https://pan.quark.cn/s/f443cc3a3cfb",
+      "share_password": "1314",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167263",
+      "msg_time": "2026-10-20T03:32:47+00:00"
+    },
+    {
+      "title": "By Any Means (2026) 1080P",
+      "share_url": "https://pan.baidu.com/s/1AyCGzlS6eBvDMYxVzQI_Tg?pwd=1314",
+      "share_password": "1314",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167263",
+      "msg_time": "2026-10-20T03:32:47+00:00"
+    },
+    {
+      "title": "(2026)WEB-DL 1080p 5",
+      "share_url": "https://pan.quark.cn/s/f2e2f7eb735c",
+      "share_password": "7yce",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167264",
+      "msg_time": "2026-10-20T03:32:47+00:00"
+    },
+    {
+      "title": "(2026)WEB-DL 1080p 5",
+      "share_url": "https://pan.baidu.com/s/12p3tMdTFtb-J_3G3BvqPUg?pwd=7yce",
+      "share_password": "7yce",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167264",
+      "msg_time": "2026-10-20T03:32:47+00:00"
+    },
+    {
+      "title": "(2026)021080p/",
+      "share_url": "https://pan.quark.cn/s/20357fccabac",
+      "share_password": "Yu88",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167219",
+      "msg_time": "2026-10-20T03:02:45+00:00"
+    },
+    {
+      "title": "(2026)021080p/",
+      "share_url": "https://pan.baidu.com/s/1hfsBzDljmOItLJvajNKGtQ?pwd=Yu88",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167219",
+      "msg_time": "2026-10-20T03:02:45+00:00"
+    },
+    {
+      "title": "(2026) 031080p/",
+      "share_url": "https://pan.quark.cn/s/bb1ed0dd1636",
+      "share_password": "Yu88",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167221",
+      "msg_time": "2026-10-20T03:02:45+00:00"
+    },
+    {
+      "title": "(2026) 031080p/",
+      "share_url": "https://pan.baidu.com/s/1ZNT-RvIAvJlg_ZXEKlpYaQ?pwd=Yu88",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167221",
+      "msg_time": "2026-10-20T03:02:45+00:00"
+    },
+    {
+      "title": "1/2 (2026)031080p/1-2",
+      "share_url": "https://pan.quark.cn/s/a7d2fa2ee068",
+      "share_password": "Yu88",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167222",
+      "msg_time": "2026-10-20T03:02:45+00:00"
+    },
+    {
+      "title": "1/2 (2026)031080p/1-2",
+      "share_url": "https://pan.baidu.com/s/1o8Ydf3LYC1pqtqJ0ULVY2g?pwd=Yu88",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167222",
+      "msg_time": "2026-10-20T03:02:45+00:00"
+    },
+    {
+      "title": "名称：\nK & DA League of Legends Music i-dle & Mimi Webb - FIRESTARTER - Single (202",
+      "share_url": "https://pan.quark.cn/s/f251a26335e7",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:leoziyuan:3167230",
+      "msg_time": "2026-10-20T03:02:51+00:00"
+    },
+    {
+      "title": "By Any Means (2026) .1080p.AMZN.WEB-DL",
+      "share_url": "https://pan.baidu.com/s/1PwfYXvXjOG7IHY9gIjQjFA?pwd=fy4g",
+      "share_password": "fy4g",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167233",
+      "msg_time": "2026-10-20T03:17:40+00:00"
+    },
+    {
+      "title": "(2026) .1080p.Disney+.WEB-DL",
+      "share_url": "https://pan.quark.cn/s/6e9a0c7e82ce",
+      "share_password": "bx2g",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167234",
+      "msg_time": "2026-10-20T03:17:40+00:00"
+    },
+    {
+      "title": "(2026) .1080p.Disney+.WEB-DL",
+      "share_url": "https://pan.baidu.com/s/1qSXLH9Z43q9Sg15P61wgHQ?pwd=bx2g",
+      "share_password": "bx2g",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167234",
+      "msg_time": "2026-10-20T03:17:40+00:00"
+    },
+    {
+      "title": "#电影\n资源标题：情场如战场 情場如戰場 (2026) 粤语音轨内封官方简繁中字.1080p.Disney+.WEB-DL.DDP.5.1.H.264.Atmo",
+      "share_url": "https://pan.baidu.com/s/1qSXLH9Z43q9Sg15P61wgHQ",
+      "share_password": "bx2g",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167236",
+      "msg_time": "2026-10-20T03:17:41+00:00"
+    },
+    {
+      "title": "名称：入殓师 おくりびと\n描述：买了昂贵的大提琴，想要成就一番事业的小林大悟（本木雅弘 饰），经历了4个月的管弦乐演奏，得到的却是“乐团解散”的噩耗与购买乐器的",
+      "share_url": "https://pan.quark.cn/s/809b52a53912",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:leoziyuan:3167237",
+      "msg_time": "2026-10-20T03:17:41+00:00"
+    },
+    {
+      "title": "名称：步履不停 歩いても 歩いても\n描述：“人生路上步履不停，为何总是慢一拍”。\n　　位于偏远小镇的横山一家，生活平静祥和。父亲恭平（原田芳雄 饰）是业已退休的",
+      "share_url": "https://pan.quark.cn/s/dedb5ff74439",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:leoziyuan:3167238",
+      "msg_time": "2026-10-20T03:17:41+00:00"
+    },
+    {
+      "title": "The Boy in the Striped Pajamas",
+      "share_url": "https://pan.quark.cn/s/66fea0c391de",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:leoziyuan:3167239",
+      "msg_time": "2026-10-20T03:17:41+00:00"
+    },
+    {
+      "title": "20264K",
+      "share_url": "https://pan.quark.cn/s/c679661b1327",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167241",
+      "msg_time": "2026-10-20T03:17:45+00:00"
+    },
+    {
+      "title": "20264K",
+      "share_url": "https://pan.baidu.com/s/1v4K-TwchK9FjVMZkufNYOg",
+      "share_password": "",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167241",
+      "msg_time": "2026-10-20T03:17:45+00:00"
+    },
+    {
+      "title": "🗄\n 朱色的面具 (2026)【更02集】【1080p】【内嵌简中】【动画/奇幻】\n·\n📜\n介绍：\n奋起反抗吧！迎战强敌——抗争命运—— 武神假面、蜘蛛假面、炎",
+      "share_url": "https://pan.baidu.com/s/1hfsBzDljmOItLJvajNKGtQ",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167196",
+      "msg_time": "2026-10-20T03:02:42+00:00"
+    },
+    {
+      "title": "🗄\n 黑色五叶草 第二季(2026) 【更03集】【1080p】【内嵌繁中】【动画/奇幻】【附剧场版】\n·\n📜\n介绍：\n幸运草的第五片叶子里，栖息着恶魔—— 在",
+      "share_url": "https://pan.baidu.com/s/1ZNT-RvIAvJlg_ZXEKlpYaQ",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167197",
+      "msg_time": "2026-10-20T03:02:42+00:00"
+    },
+    {
+      "title": "🗄\n 乱马1/2 第三季(2026)【更03集】【1080p】【内嵌简中】【动画/动作】【附1-2季】\n·\n📜\n介绍：\n豆瓣8.7高分\n早乙女乱马和天道道场的天",
+      "share_url": "https://pan.baidu.com/s/1o8Ydf3LYC1pqtqJ0ULVY2g",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167198",
+      "msg_time": "2026-10-20T03:02:42+00:00"
+    },
+    {
+      "title": "(2026)031080p/",
+      "share_url": "https://pan.baidu.com/s/1UHWDG6h72F4nPsyOENYCCw",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167170",
+      "msg_time": "2026-10-20T02:47:43+00:00"
+    },
+    {
+      "title": "MAX (2026)031080p/",
+      "share_url": "https://pan.baidu.com/s/18-YMjX7VDZ5HWrumxTO8vg",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167171",
+      "msg_time": "2026-10-20T02:47:43+00:00"
+    },
+    {
+      "title": "(2026)111080p/",
+      "share_url": "https://pan.baidu.com/s/1RxnHNc3kc_eumY7RMV7qYw",
+      "share_password": "Yu66",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167173",
+      "msg_time": "2026-10-20T02:47:43+00:00"
+    },
+    {
+      "title": "(2026)031080p/",
+      "share_url": "https://pan.baidu.com/s/1TyQFhC4vzZ_aSh0U6Ax-rA",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167174",
+      "msg_time": "2026-10-20T02:47:43+00:00"
+    },
+    {
+      "title": "(2026)021080p/",
+      "share_url": "https://pan.baidu.com/s/1fnAej-QDBdKxx-VgG4IGqA",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167175",
+      "msg_time": "2026-10-20T02:47:43+00:00"
+    },
+    {
+      "title": "(2026) 2026 1015",
+      "share_url": "https://pan.quark.cn/s/0eb2f7cc5398",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:leoziyuan:3167176",
+      "msg_time": "2026-10-20T02:47:44+00:00"
+    },
+    {
+      "title": "(2026)021080p/",
+      "share_url": "https://pan.quark.cn/s/7d8f0caf85c4",
+      "share_password": "Yu88",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167177",
+      "msg_time": "2026-10-20T02:47:44+00:00"
+    },
+    {
+      "title": "(2026)021080p/",
+      "share_url": "https://pan.baidu.com/s/1sXzwnV-sOw0K18PEZQQJRA?pwd=Yu88",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167177",
+      "msg_time": "2026-10-20T02:47:44+00:00"
+    },
+    {
+      "title": "(2026)021080p/",
+      "share_url": "https://pan.quark.cn/s/fc586eb78ae3",
+      "share_password": "Yu88",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167178",
+      "msg_time": "2026-10-20T02:47:44+00:00"
+    },
+    {
+      "title": "(2026)021080p/",
+      "share_url": "https://pan.baidu.com/s/1fnAej-QDBdKxx-VgG4IGqA?pwd=Yu88",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167178",
+      "msg_time": "2026-10-20T02:47:44+00:00"
+    },
+    {
+      "title": "(2023) S05E01-E03 1080P",
+      "share_url": "https://pan.quark.cn/s/69b560f6ae7c",
+      "share_password": "1314",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167179",
+      "msg_time": "2026-10-20T02:47:44+00:00"
+    },
+    {
+      "title": "(2023) S05E01-E03 1080P",
+      "share_url": "https://pan.baidu.com/s/12dfpWGhFGI2Xh1wJ67clXg?pwd=1314",
+      "share_password": "1314",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167179",
+      "msg_time": "2026-10-20T02:47:44+00:00"
+    },
+    {
+      "title": "(2026)111080p/",
+      "share_url": "https://pan.quark.cn/s/e2360d8cffd9",
+      "share_password": "Yu66",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167180",
+      "msg_time": "2026-10-20T02:47:44+00:00"
+    },
+    {
+      "title": "(2026)111080p/",
+      "share_url": "https://pan.baidu.com/s/1RxnHNc3kc_eumY7RMV7qYw?pwd=Yu66",
+      "share_password": "Yu66",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167180",
+      "msg_time": "2026-10-20T02:47:44+00:00"
+    },
+    {
+      "title": "(2026)031080p/",
+      "share_url": "https://pan.quark.cn/s/96b625e7cd0a",
+      "share_password": "Yu88",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167181",
+      "msg_time": "2026-10-20T02:47:44+00:00"
+    },
+    {
+      "title": "(2026)031080p/",
+      "share_url": "https://pan.baidu.com/s/1TyQFhC4vzZ_aSh0U6Ax-rA?pwd=Yu88",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167181",
+      "msg_time": "2026-10-20T02:47:44+00:00"
+    },
+    {
+      "title": "(2026)031080p/",
+      "share_url": "https://pan.quark.cn/s/61607363136a",
+      "share_password": "Yu88",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167182",
+      "msg_time": "2026-10-20T02:47:44+00:00"
+    },
+    {
+      "title": "(2026)031080p/",
+      "share_url": "https://pan.baidu.com/s/1UHWDG6h72F4nPsyOENYCCw?pwd=Yu88",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167182",
+      "msg_time": "2026-10-20T02:47:44+00:00"
+    },
+    {
+      "title": "MAX (2026)031080p/",
+      "share_url": "https://pan.quark.cn/s/c7a092727e2f",
+      "share_password": "Yu88",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167183",
+      "msg_time": "2026-10-20T02:47:44+00:00"
+    },
+    {
+      "title": "MAX (2026)031080p/",
+      "share_url": "https://pan.baidu.com/s/18-YMjX7VDZ5HWrumxTO8vg?pwd=Yu88",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167183",
+      "msg_time": "2026-10-20T02:47:44+00:00"
+    },
+    {
+      "title": "20261020 2",
+      "share_url": "https://pan.baidu.com/s/1-bJ25rqgLCXHwutUjSgxiw?pwd=s319",
+      "share_password": "s319",
+      "pan_type": "baidu",
+      "resource_type": "other",
+      "source": "telegram:leoziyuan:3167184",
+      "msg_time": "2026-10-20T02:47:44+00:00"
+    },
+    {
+      "title": "名称：\n2026年10月20日 短剧更新目录2\n描述：1.隐龙卫（82集）杜江山&觅七\n2.铁血信使（75集）孙艺燃&蔡欣洋\n3.诱裴郎（88集）\n4.昭离长生",
+      "share_url": "https://pan.baidu.com/s/1-bJ25rqgLCXHwutUjSgxiw",
+      "share_password": "s319",
+      "pan_type": "baidu",
+      "resource_type": "other",
+      "source": "telegram:leoziyuan:3167185",
+      "msg_time": "2026-10-20T02:47:48+00:00"
+    },
+    {
+      "title": "名称：\n凤栖（2026）4K S01E01 - E16\n描述：现代画手苏晓晨猝死职场，穿越成冷宫废妃凤知微。为求生，她以笔名“青桥先生”创作画本，却不知自己的故",
+      "share_url": "https://pan.baidu.com/s/1JpoIWDiYKX4FmYR_LcydBA",
+      "share_password": "fj8p",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167187",
+      "msg_time": "2026-10-20T02:47:54+00:00"
+    },
+    {
+      "title": "🔥\n美剧「布里奇顿 第四季 全08集」完结【剧情 爱情】【附1-3季】    \nhttps://pan.baidu.com/s/1lXjk-vrKVEO3sQp",
+      "share_url": "https://pan.baidu.com/s/1lXjk-vrKVEO3sQpPCI7Cmw",
+      "share_password": "je5u",
+      "pan_type": "baidu",
+      "resource_type": "software",
+      "source": "telegram:leoziyuan:3167195",
+      "msg_time": "2026-10-20T03:00:01+00:00"
+    },
+    {
+      "title": "🔥\n美剧「布里奇顿 第四季 全08集」完结【剧情 爱情】【附1-3季】    \nhttps://pan.baidu.com/s/1lXjk-vrKVEO3sQp",
+      "share_url": "https://pan.baidu.com/s/1Nbc2pKJx5K3yT4sp8OgcOg",
+      "share_password": "je5u",
+      "pan_type": "baidu",
+      "resource_type": "software",
+      "source": "telegram:leoziyuan:3167195",
+      "msg_time": "2026-10-20T03:00:01+00:00"
+    },
+    {
+      "title": "🔥\n美剧「布里奇顿 第四季 全08集」完结【剧情 爱情】【附1-3季】    \nhttps://pan.baidu.com/s/1lXjk-vrKVEO3sQp",
+      "share_url": "https://pan.baidu.com/s/1BrvwGapnK7GE7hxZLK4yoQ",
+      "share_password": "je5u",
+      "pan_type": "baidu",
+      "resource_type": "software",
+      "source": "telegram:leoziyuan:3167195",
+      "msg_time": "2026-10-20T03:00:01+00:00"
+    },
+    {
+      "title": "🔥\n美剧「布里奇顿 第四季 全08集」完结【剧情 爱情】【附1-3季】    \nhttps://pan.baidu.com/s/1lXjk-vrKVEO3sQp",
+      "share_url": "https://pan.baidu.com/s/1kqlxkyaMFKUJU-q1ABLavQ",
+      "share_password": "je5u",
+      "pan_type": "baidu",
+      "resource_type": "software",
+      "source": "telegram:leoziyuan:3167195",
+      "msg_time": "2026-10-20T03:00:01+00:00"
+    },
+    {
+      "title": "🗄\n 人生交换 (2026)【更02集】【1080p】【内嵌繁中】【真木阳子/马场富美加】\n·\n📜\n介绍：\n故事讲述因屡次与客人发生纠纷而被解雇、流落街头的陪酒",
+      "share_url": "https://pan.baidu.com/s/1sXzwnV-sOw0K18PEZQQJRA",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:leoziyuan:3167152",
+      "msg_time": "2026-10-20T02:47:40+00:00"
+    },
+    {
+      "title": "🗄\n 提欧奥特曼 (2026)【更15集】【1080p】【内嵌繁中】【动作/科幻】\n·\n📜\n介绍：\n豆瓣8.8高分\n宇宙某处的行星“H12” 这颗与地球极其相似",
+      "share_url": "https://pan.quark.cn/s/c5bd8cd5bdd7",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163337",
+      "msg_time": "2026-10-20T02:37:15+00:00"
+    },
+    {
+      "title": "🗄\n 提欧奥特曼 (2026)【更15集】【1080p】【内嵌繁中】【动作/科幻】\n·\n📜\n介绍：\n豆瓣8.8高分\n宇宙某处的行星“H12” 这颗与地球极其相似",
+      "share_url": "https://pan.baidu.com/s/1riZXbZv2nIOGCNRk1cr1jQ",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163337",
+      "msg_time": "2026-10-20T02:37:15+00:00"
+    },
+    {
+      "title": "🗄\n 美人余 (2026)【更23集】【4K.HDR】【高码率】【内嵌简中】【李一桐/王佳佳】\n📜\n介绍：　　根据伊北同名小说改编，以当代都市为背景，两性关系作",
+      "share_url": "https://pan.baidu.com/s/1XAKnQMEZEg2zFC4BCADmlA",
+      "share_password": "2358",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163316",
+      "msg_time": "2026-10-20T01:26:47+00:00"
+    },
+    {
+      "title": "🗄\n 美人余 (2026)【更23集】【4K.HDR】【高码率】【内嵌简中】【李一桐/王佳佳】\n📜\n介绍：　　根据伊北同名小说改编，以当代都市为背景，两性关系作",
+      "share_url": "https://pan.quark.cn/s/edae83e3bd61",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163316",
+      "msg_time": "2026-10-20T01:26:47+00:00"
+    },
+    {
+      "title": "🗄\n 欲望的陷阱 A Trap Called Desire (2026) 1080p WEB-DL 中文字幕 H264 AAC 2.0v 40集\n📜\n介绍：\n美",
+      "share_url": "https://pan.baidu.com/s/1HSWaE8IU3s4y3BfAPRApjQ",
+      "share_password": "nuj4",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163317",
+      "msg_time": "2026-10-20T01:26:51+00:00"
+    },
+    {
+      "title": "🗄\n 欲望的陷阱 A Trap Called Desire (2026) 1080p WEB-DL 中文字幕 H264 AAC 2.0v 40集\n📜\n介绍：\n美",
+      "share_url": "https://pan.quark.cn/s/25376927dd87",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163317",
+      "msg_time": "2026-10-20T01:26:51+00:00"
+    },
+    {
+      "title": "#动漫\n🗄\n 九阳武神 (2025) [WEB-4K] [国语中字] [更至51集]\n·\n📜\n介绍：\n前世叶云飞天资过人，但体内武脉突然关闭，无法练武，遭遇了家",
+      "share_url": "https://pan.quark.cn/s/da04f55cd09f",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163318",
+      "msg_time": "2026-10-20T01:26:56+00:00"
+    },
+    {
+      "title": "#动漫\n🗄\n 九阳武神 (2025) [WEB-4K] [国语中字] [更至51集]\n·\n📜\n介绍：\n前世叶云飞天资过人，但体内武脉突然关闭，无法练武，遭遇了家",
+      "share_url": "https://pan.baidu.com/s/10bEd4ScEGMWOj8LCOVvy8Q",
+      "share_password": "1111",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163318",
+      "msg_time": "2026-10-20T01:26:56+00:00"
+    },
+    {
+      "title": "🗄\n 欲望的陷阱(2026)【更40集】【WEB-DL.1080p】【内封简中】【剧情/犯罪】\n·\n📜\n介绍：\n本剧讲述被冤枉为杀人而失去生命的一名女性面对巨大",
+      "share_url": "https://pan.quark.cn/s/59d54616745d",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163319",
+      "msg_time": "2026-10-20T01:38:35+00:00"
+    },
+    {
+      "title": "🗄\n 欲望的陷阱(2026)【更40集】【WEB-DL.1080p】【内封简中】【剧情/犯罪】\n·\n📜\n介绍：\n本剧讲述被冤枉为杀人而失去生命的一名女性面对巨大",
+      "share_url": "https://pan.baidu.com/s/1GVAczDFpd0BYq5DNImOtZA",
+      "share_password": "Yu66",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163319",
+      "msg_time": "2026-10-20T01:38:35+00:00"
+    },
+    {
+      "title": "🗄\n 百日谎言 (2026)【更04集】【NF.1080p】【内封简繁韩双语字幕】【动作/悬疑】【金裕贞/朴珍荣】\n·\n📜\n介绍：\n向往自由的顶尖扒手李佳景(金",
+      "share_url": "https://pan.quark.cn/s/e97f51bf04ba",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163320",
+      "msg_time": "2026-10-20T01:38:39+00:00"
+    },
+    {
+      "title": "🗄\n 百日谎言 (2026)【更04集】【NF.1080p】【内封简繁韩双语字幕】【动作/悬疑】【金裕贞/朴珍荣】\n·\n📜\n介绍：\n向往自由的顶尖扒手李佳景(金",
+      "share_url": "https://pan.baidu.com/s/1PNS4OukOq8GJsemg5PBZyA",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163320",
+      "msg_time": "2026-10-20T01:38:39+00:00"
+    },
+    {
+      "title": "🗄\n Doctor X：白色黑手党时代(2026)【更04集】【NF.1080p】【内封简繁英】【金智媛/李姃垠】\n·\n📜\n介绍：\n在一间充斥着自负与腐败的医院",
+      "share_url": "https://pan.quark.cn/s/6400789b47b4",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163321",
+      "msg_time": "2026-10-20T01:50:19+00:00"
+    },
+    {
+      "title": "🗄\n Doctor X：白色黑手党时代(2026)【更04集】【NF.1080p】【内封简繁英】【金智媛/李姃垠】\n·\n📜\n介绍：\n在一间充斥着自负与腐败的医院",
+      "share_url": "https://pan.baidu.com/s/1qQj4M86UzSBq9z1cgN-trA",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163321",
+      "msg_time": "2026-10-20T01:50:19+00:00"
+    },
+    {
+      "title": "🗄\n \n炼气十万年 (2023) 4K 更新至387集/国漫\n📜\n介绍：\n十万年前，天岚宗叱咤修真界，宗内弟子皆是天骄，所向披靡。唯独开山弟子徐阳一直是炼气期，",
+      "share_url": "https://pan.baidu.com/s/1NihA0xBD8vKwBLhOjBC98Q",
+      "share_password": "gwi1",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163324",
+      "msg_time": "2026-10-20T02:11:38+00:00"
+    },
+    {
+      "title": "🗄\n 找春天 Youth(2026)【更06集】【4K.高码率】【内封简繁英】【杜比全景声】\n#\n📜\n介绍：\n故事讲述一位50岁的离异女性，一边周旋于照顾病弱的",
+      "share_url": "https://pan.quark.cn/s/53b88d8e0b5e",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163325",
+      "msg_time": "2026-10-20T02:13:45+00:00"
+    },
+    {
+      "title": "🗄\n 找春天 Youth(2026)【更06集】【4K.高码率】【内封简繁英】【杜比全景声】\n#\n📜\n介绍：\n故事讲述一位50岁的离异女性，一边周旋于照顾病弱的",
+      "share_url": "https://pan.baidu.com/s/1HF_oNojScIIzx5AWxRU7YA",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163325",
+      "msg_time": "2026-10-20T02:13:45+00:00"
+    },
+    {
+      "title": "🗄\n \n死神 千年血战篇 -祸进谭-(2026)1080p S04E01 - E09 内封简繁 HiveWeb\n📜\n介绍：\n随着友哈巴赫攻入灵王宫，死神与灭却师",
+      "share_url": "https://pan.quark.cn/s/696a851ef07c",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163326",
+      "msg_time": "2026-10-20T02:13:49+00:00"
+    },
+    {
+      "title": "🗄\n 黑帮领地 1-2季(2026)【更05集】【4K.DV.HDR】【高码率】【内封简繁英】【杜比全景声】\n#\n📜\n介绍：\n北伦敦最大的黑帮家族——哈里根家族",
+      "share_url": "https://pan.quark.cn/s/f581ce091b1e",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163329",
+      "msg_time": "2026-10-20T02:14:00+00:00"
+    },
+    {
+      "title": "🗄\n 黑帮领地 1-2季(2026)【更05集】【4K.DV.HDR】【高码率】【内封简繁英】【杜比全景声】\n#\n📜\n介绍：\n北伦敦最大的黑帮家族——哈里根家族",
+      "share_url": "https://pan.baidu.com/s/16CiS5B1n_IOWcxMRxg9f1A",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163329",
+      "msg_time": "2026-10-20T02:14:00+00:00"
+    },
+    {
+      "title": "#动漫\n \n#短剧\n🗄\n 2026年10月20日 短剧更新目录1\n📜\n介绍：\n1.骄骄藏不住（79集）黄云云&储子竣\n2.分手后男友愧疚终生（62集）舒萱&罗欢",
+      "share_url": "https://pan.baidu.com/s/1vHULfQ8H65q9QAQeXTq6qA",
+      "share_password": "athv",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163330",
+      "msg_time": "2026-10-20T02:15:24+00:00"
+    },
+    {
+      "title": "🗄\n \nPSYREN 决战游戏（2026）1080p S01E01 - E03 内封简繁\n📜\n介绍：\n高中一年级学生·夜科扬羽，某天捡到了被遗弃在公共电话亭里的",
+      "share_url": "https://pan.quark.cn/s/2cbe0e6b4bb5",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163333",
+      "msg_time": "2026-10-20T02:25:23+00:00"
+    },
+    {
+      "title": "🗄\n \n你好、我是受心上人所托来做恋爱药的魔女。（2026）1080p S01E01 - E03 内封简繁\n📜\n介绍：\n“希望你能帮我制作迷情药”\n隐居在湖畔的",
+      "share_url": "https://pan.quark.cn/s/b5b07c20c175",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163334",
+      "msg_time": "2026-10-20T02:25:27+00:00"
+    },
+    {
+      "title": "🗄\n 百日谎言 (2026)【更04集】【NF.1080p】【内封简繁英】【动作/悬疑】【金裕贞/朴珍荣】已刮削！\n·\n📜\n介绍：\n向往自由的顶尖扒手李佳景（金",
+      "share_url": "https://pan.quark.cn/s/0c210beb4443",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163296",
+      "msg_time": "2026-10-19T17:51:20+00:00"
+    },
+    {
+      "title": "🗄\n 百日谎言 (2026)【更04集】【NF.1080p】【内封简繁英】【动作/悬疑】【金裕贞/朴珍荣】已刮削！\n·\n📜\n介绍：\n向往自由的顶尖扒手李佳景（金",
+      "share_url": "https://pan.baidu.com/s/1Up65AyFU76g-bNw8aBo7qw",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163296",
+      "msg_time": "2026-10-19T17:51:20+00:00"
+    },
+    {
+      "title": "🗄\n 潜入你心 (2026)【更08集】【WEB-DL.1080p】【内封简繁】【爱情/奇幻】【金知妍/朴栖含】\n·\n📜\n介绍：\n尹夏娜（金知妍 饰）是备受亚洲",
+      "share_url": "https://pan.quark.cn/s/50b11826ebae",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163297",
+      "msg_time": "2026-10-19T17:51:23+00:00"
+    },
+    {
+      "title": "🗄\n 潜入你心 (2026)【更08集】【WEB-DL.1080p】【内封简繁】【爱情/奇幻】【金知妍/朴栖含】\n·\n📜\n介绍：\n尹夏娜（金知妍 饰）是备受亚洲",
+      "share_url": "https://pan.baidu.com/s/1AkDduqW8i32mJMafrSmsoA",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163297",
+      "msg_time": "2026-10-19T17:51:23+00:00"
+    },
+    {
+      "title": "🗄\n 恋爱博士 (2026)【更05集】【WEB-DL.1080p】【内封简繁英字幕】【剧情/爱情】\n·\n📜\n介绍：\n讲述高中时期曾是游泳运动员、因疾病失去一条",
+      "share_url": "https://pan.quark.cn/s/0145706a4541",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163301",
+      "msg_time": "2026-10-19T18:01:26+00:00"
+    },
+    {
+      "title": "🗄\n 恋爱博士 (2026)【更05集】【WEB-DL.1080p】【内封简繁英字幕】【剧情/爱情】\n·\n📜\n介绍：\n讲述高中时期曾是游泳运动员、因疾病失去一条",
+      "share_url": "https://pan.baidu.com/s/1EQNunuEYfNIuqxFFhqPRcg",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163301",
+      "msg_time": "2026-10-19T18:01:26+00:00"
+    },
+    {
+      "title": "🗄\n 邮票与舒芙蕾(2026)【更07集】【4K.高码率】【内嵌繁中】【悬疑/犯罪】\n·\n📜\n介绍：\n每个角色的难戒之瘾，皆来自人生的难解之结。 少女张凯希为报",
+      "share_url": "https://pan.quark.cn/s/18550534c3c4",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163302",
+      "msg_time": "2026-10-19T18:01:30+00:00"
+    },
+    {
+      "title": "🗄\n 邮票与舒芙蕾(2026)【更07集】【4K.高码率】【内嵌繁中】【悬疑/犯罪】\n·\n📜\n介绍：\n每个角色的难戒之瘾，皆来自人生的难解之结。 少女张凯希为报",
+      "share_url": "https://pan.baidu.com/s/14srlSM7rmwATX9YR8CM-7Q",
+      "share_password": "Yu88",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163302",
+      "msg_time": "2026-10-19T18:01:30+00:00"
+    },
+    {
+      "title": "#剧集\n🗄\n 欲望的陷阱（2026）1080P 简中字幕 更新40集\n📜\n介绍：\n剧集讲述遭诬陷杀人而人生被夺走的女人，对抗巨大的欲望，并复原人生的复仇剧\n链接",
+      "share_url": "https://pan.quark.cn/s/99df1d3749d6",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163304",
+      "msg_time": "2026-10-19T22:00:45+00:00"
+    },
+    {
+      "title": "🗄\n 妈妈发疯了（2026）1080P 简中字幕 更新16集\n📜\n介绍：\n讲述了一位为家人奉献一生的母亲（金熙贞 饰）决定开启独立人生，与她那群不断闯祸、“如同",
+      "share_url": "https://pan.quark.cn/s/d63027b53b46",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163305",
+      "msg_time": "2026-10-19T22:00:48+00:00"
+    },
+    {
+      "title": "#综艺\n🗄\n 第六感: B side    （2026）1080P 简中字幕 更新05期\n📜\n介绍：（第六感：B-Side）（Sixth Sense: Bsid",
+      "share_url": "https://pan.quark.cn/s/6ec075bcaf81",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163306",
+      "msg_time": "2026-10-19T22:11:35+00:00"
+    },
+    {
+      "title": "🗄\n 兰香如故‎ (2026) 4K SDR HDR DV杜比视界 高码率 DDP2.0+HiFi 中字【5GB/集】全47集，谭松韵/刘学义\n📜\n介绍： 该剧",
+      "share_url": "https://pan.quark.cn/s/ed1627fda2ef",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163307",
+      "msg_time": "2026-10-19T23:21:02+00:00"
+    },
+    {
+      "title": "🗄\n 伟大的长征‎ (2026) 4K SDR HDR 60帧 高码率 FLAC2.0+DDP2.0+HiFi 中字【5.4GB/集】更20集，于和伟/曹磊\n📜",
+      "share_url": "https://pan.quark.cn/s/0d6a266daabe",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163308",
+      "msg_time": "2026-10-19T23:35:03+00:00"
+    },
+    {
+      "title": "🗄\n \n替罪 (2026) 4K HDR 全18集\n📜\n介绍：\n东南亚纳迦菩尔国，一场大桥垮塌事故牵出连环命案。大桥设计师梭温设下惊天替罪局，华人女警长许安迪循",
+      "share_url": "https://pan.baidu.com/s/1vP9ZqdhEej_fGPtwRvQLBQ",
+      "share_password": "0134",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163312",
+      "msg_time": "2026-10-20T01:14:49+00:00"
+    },
+    {
+      "title": "#动漫\n🗄\n PSYREN 决战游戏 PSYREN -サイレン- (2026) [1080P] [内封简繁] [更至3集]\n·\n📜\n介绍：\n高中一年级学生·夜科",
+      "share_url": "https://pan.quark.cn/s/fbbc17152061",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163313",
+      "msg_time": "2026-10-20T01:15:01+00:00"
+    },
+    {
+      "title": "#动漫\n🗄\n PSYREN 决战游戏 PSYREN -サイレン- (2026) [1080P] [内封简繁] [更至3集]\n·\n📜\n介绍：\n高中一年级学生·夜科",
+      "share_url": "https://pan.baidu.com/s/191ls9rnCixj0MLNYTguKhw",
+      "share_password": "1111",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163313",
+      "msg_time": "2026-10-20T01:15:01+00:00"
+    },
+    {
+      "title": "#动漫\n🗄\n 死神 千年血战篇 -祸进谭- BLEACH 千年血戦篇 -禍進譚- (2026) [1080P] [内封简繁] [更至49集]\n·\n📜\n介绍：\n随",
+      "share_url": "https://pan.quark.cn/s/28dd695f9fd2",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163314",
+      "msg_time": "2026-10-20T01:26:39+00:00"
+    },
+    {
+      "title": "#动漫\n🗄\n 死神 千年血战篇 -祸进谭- BLEACH 千年血戦篇 -禍進譚- (2026) [1080P] [内封简繁] [更至49集]\n·\n📜\n介绍：\n随",
+      "share_url": "https://pan.baidu.com/s/19qkKzgJ_NRDjRvPT5anMiQ",
+      "share_password": "1111",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163314",
+      "msg_time": "2026-10-20T01:26:39+00:00"
+    },
+    {
+      "title": "🗄\n 嫁金钗 (2026)【更10集】【DV&HDR】【4K.HQ.高码率】【内嵌简中】【田曦薇/闫桉】\n📜\n介绍：　　阿丑原是街上倒夜香的低贱少女，人人皆可践",
+      "share_url": "https://pan.baidu.com/s/1EAt2nh50Xmak7nrj2AbuMQ",
+      "share_password": "25bc",
+      "pan_type": "baidu",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163315",
+      "msg_time": "2026-10-20T01:26:44+00:00"
+    },
+    {
+      "title": "🗄\n 嫁金钗 (2026)【更10集】【DV&HDR】【4K.HQ.高码率】【内嵌简中】【田曦薇/闫桉】\n📜\n介绍：　　阿丑原是街上倒夜香的低贱少女，人人皆可践",
+      "share_url": "https://pan.quark.cn/s/498380b67f3a",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:yunpanx:163315",
+      "msg_time": "2026-10-20T01:26:44+00:00"
+    },
+    {
+      "title": "世子逃婚我转身改嫁他爹 \n#短剧\nhttps://pan.quark.cn/s/ff9fecff8ddc",
+      "share_url": "https://pan.quark.cn/s/ff9fecff8ddc",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:quarkdj:QuarkDJ/13576",
+      "msg_time": "2025-01-03T15:59:30+00:00"
+    },
+    {
+      "title": "天降老祖是神仙 \n#短剧\nhttps://pan.quark.cn/s/e4443d9d06ce",
+      "share_url": "https://pan.quark.cn/s/e4443d9d06ce",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13577",
+      "msg_time": "2025-01-03T15:59:33+00:00"
+    },
+    {
+      "title": "天降萌宝顾家少爷赖上我 \n#短剧\nhttps://pan.quark.cn/s/ee1c87849175",
+      "share_url": "https://pan.quark.cn/s/ee1c87849175",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13578",
+      "msg_time": "2025-01-03T15:59:35+00:00"
+    },
+    {
+      "title": "替身金丝雀 \n#短剧\nhttps://pan.quark.cn/s/e7caea228e75",
+      "share_url": "https://pan.quark.cn/s/e7caea228e75",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13579",
+      "msg_time": "2025-01-03T15:59:38+00:00"
+    },
+    {
+      "title": "我本狂人 \n#短剧\nhttps://pan.quark.cn/s/d3aa7e0736cf",
+      "share_url": "https://pan.quark.cn/s/d3aa7e0736cf",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13580",
+      "msg_time": "2025-01-03T15:59:41+00:00"
+    },
+    {
+      "title": "我的公主殿下臣来迟了 \n#短剧\nhttps://pan.quark.cn/s/0fa5ec5db35b",
+      "share_url": "https://pan.quark.cn/s/0fa5ec5db35b",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13581",
+      "msg_time": "2025-01-03T15:59:44+00:00"
+    },
+    {
+      "title": "我都死了你深情给谁看 \n#短剧\nhttps://pan.quark.cn/s/1b4fcec16db8",
+      "share_url": "https://pan.quark.cn/s/1b4fcec16db8",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13582",
+      "msg_time": "2025-01-03T15:59:47+00:00"
+    },
+    {
+      "title": "我以长枪饰红妆 \n#短剧\nhttps://pan.quark.cn/s/fdcae7355a2a",
+      "share_url": "https://pan.quark.cn/s/fdcae7355a2a",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:quarkdj:QuarkDJ/13583",
+      "msg_time": "2025-01-03T15:59:50+00:00"
+    },
+    {
+      "title": "雾中妻 \n#短剧\nhttps://pan.quark.cn/s/f42df9478ff2",
+      "share_url": "https://pan.quark.cn/s/f42df9478ff2",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13584",
+      "msg_time": "2025-01-03T15:59:56+00:00"
+    },
+    {
+      "title": "许你良辰岁岁安 \n#短剧\nhttps://pan.quark.cn/s/02b85c2195f6",
+      "share_url": "https://pan.quark.cn/s/02b85c2195f6",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13585",
+      "msg_time": "2025-01-03T15:59:59+00:00"
+    },
+    {
+      "title": "新情陷迷局 \n#短剧\nhttps://pan.quark.cn/s/930c4db709c7",
+      "share_url": "https://pan.quark.cn/s/930c4db709c7",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13586",
+      "msg_time": "2025-01-03T16:00:01+00:00"
+    },
+    {
+      "title": "小小球神不好惹 \n#短剧\nhttps://pan.quark.cn/s/b6dac4621324",
+      "share_url": "https://pan.quark.cn/s/b6dac4621324",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13587",
+      "msg_time": "2025-01-03T16:00:04+00:00"
+    },
+    {
+      "title": "心许于顾时光不负 \n#短剧\nhttps://pan.quark.cn/s/fed5a64f2628",
+      "share_url": "https://pan.quark.cn/s/fed5a64f2628",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13588",
+      "msg_time": "2025-01-03T16:00:07+00:00"
+    },
+    {
+      "title": "影后你老公人设崩了 \n#短剧\nhttps://pan.quark.cn/s/b1ebd63d095b",
+      "share_url": "https://pan.quark.cn/s/b1ebd63d095b",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:quarkdj:QuarkDJ/13589",
+      "msg_time": "2025-01-03T16:00:10+00:00"
+    },
+    {
+      "title": "遇见你星河万里 \n#短剧\nhttps://pan.quark.cn/s/c81915f9dac5",
+      "share_url": "https://pan.quark.cn/s/c81915f9dac5",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13590",
+      "msg_time": "2025-01-03T16:00:13+00:00"
+    },
+    {
+      "title": "遇见少林有功夫 \n#短剧\nhttps://pan.quark.cn/s/b5c22025e1aa",
+      "share_url": "https://pan.quark.cn/s/b5c22025e1aa",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13591",
+      "msg_time": "2025-01-03T16:00:16+00:00"
+    },
+    {
+      "title": "于她掌控 \n#短剧\nhttps://pan.quark.cn/s/a88f5a86a13a",
+      "share_url": "https://pan.quark.cn/s/a88f5a86a13a",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13592",
+      "msg_time": "2025-01-03T16:00:19+00:00"
+    },
+    {
+      "title": "重回九零之糙汉把我宠坏 \n#短剧\nhttps://pan.quark.cn/s/1456c89c164b",
+      "share_url": "https://pan.quark.cn/s/1456c89c164b",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13593",
+      "msg_time": "2025-01-03T16:00:22+00:00"
+    },
+    {
+      "title": "再借幸福人生 \n#短剧\nhttps://pan.quark.cn/s/d34d52ce4b80",
+      "share_url": "https://pan.quark.cn/s/d34d52ce4b80",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13594",
+      "msg_time": "2025-01-03T16:00:25+00:00"
+    },
+    {
+      "title": "正月初二回娘家 \n#短剧\nhttps://pan.quark.cn/s/f347dcfc781d",
+      "share_url": "https://pan.quark.cn/s/f347dcfc781d",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:quarkdj:QuarkDJ/13595",
+      "msg_time": "2025-01-03T16:00:27+00:00"
+    },
+    {
+      "title": "公司保洁竟是投资人 \n#短剧\nhttps://pan.quark.cn/s/22ccb84d4bfc",
+      "share_url": "https://pan.quark.cn/s/22ccb84d4bfc",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13556",
+      "msg_time": "2025-01-03T15:58:29+00:00"
+    },
+    {
+      "title": "公主小妹之千金归来 \n#短剧\nhttps://pan.quark.cn/s/1ab803cb67e7",
+      "share_url": "https://pan.quark.cn/s/1ab803cb67e7",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13557",
+      "msg_time": "2025-01-03T15:58:32+00:00"
+    },
+    {
+      "title": "好韶光 \n#短剧\nhttps://pan.quark.cn/s/b530aee3c59d",
+      "share_url": "https://pan.quark.cn/s/b530aee3c59d",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13558",
+      "msg_time": "2025-01-03T15:58:35+00:00"
+    },
+    {
+      "title": "飓风将至 \n#短剧\nhttps://pan.quark.cn/s/ca654970ba80",
+      "share_url": "https://pan.quark.cn/s/ca654970ba80",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13559",
+      "msg_time": "2025-01-03T15:58:38+00:00"
+    },
+    {
+      "title": "觉醒的她 \n#短剧\nhttps://pan.quark.cn/s/ecdc7708ddf3",
+      "share_url": "https://pan.quark.cn/s/ecdc7708ddf3",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:quarkdj:QuarkDJ/13560",
+      "msg_time": "2025-01-03T15:58:41+00:00"
+    },
+    {
+      "title": "可怜此地无车马 \n#短剧\nhttps://pan.quark.cn/s/8188ebfa3a6f",
+      "share_url": "https://pan.quark.cn/s/8188ebfa3a6f",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13561",
+      "msg_time": "2025-01-03T15:58:43+00:00"
+    },
+    {
+      "title": "老爸的团宠时代 \n#短剧\nhttps://pan.quark.cn/s/f3b4e96dbdcc",
+      "share_url": "https://pan.quark.cn/s/f3b4e96dbdcc",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:quarkdj:QuarkDJ/13562",
+      "msg_time": "2025-01-03T15:58:46+00:00"
+    },
+    {
+      "title": "离开后顾先生开始爱我 \n#短剧\nhttps://pan.quark.cn/s/5d8fb3be23f7",
+      "share_url": "https://pan.quark.cn/s/5d8fb3be23f7",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13563",
+      "msg_time": "2025-01-03T15:58:49+00:00"
+    },
+    {
+      "title": "女儿怀孕后全家疯了 \n#短剧\nhttps://pan.quark.cn/s/ddfed63cbf6a",
+      "share_url": "https://pan.quark.cn/s/ddfed63cbf6a",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13564",
+      "msg_time": "2025-01-03T15:58:55+00:00"
+    },
+    {
+      "title": "逆风翻盘 \n#短剧\nhttps://pan.quark.cn/s/a588dfa53fe1",
+      "share_url": "https://pan.quark.cn/s/a588dfa53fe1",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13565",
+      "msg_time": "2025-01-03T15:58:58+00:00"
+    },
+    {
+      "title": "男人四十正风华 \n#短剧\nhttps://pan.quark.cn/s/eba33d2f49f0",
+      "share_url": "https://pan.quark.cn/s/eba33d2f49f0",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13566",
+      "msg_time": "2025-01-03T15:59:01+00:00"
+    },
+    {
+      "title": "你若无心我便休 \n#短剧\nhttps://pan.quark.cn/s/9391e7a25d41",
+      "share_url": "https://pan.quark.cn/s/9391e7a25d41",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13567",
+      "msg_time": "2025-01-03T15:59:04+00:00"
+    },
+    {
+      "title": "怦然心动的爱 \n#短剧\nhttps://pan.quark.cn/s/e2f32ba7c60d",
+      "share_url": "https://pan.quark.cn/s/e2f32ba7c60d",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13568",
+      "msg_time": "2025-01-03T15:59:07+00:00"
+    },
+    {
+      "title": "偏执救赎 \n#短剧\nhttps://pan.quark.cn/s/0de37e809780",
+      "share_url": "https://pan.quark.cn/s/0de37e809780",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13569",
+      "msg_time": "2025-01-03T15:59:10+00:00"
+    },
+    {
+      "title": "请对我心动吧 \n#短剧\nhttps://pan.quark.cn/s/369f3060fd15",
+      "share_url": "https://pan.quark.cn/s/369f3060fd15",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13570",
+      "msg_time": "2025-01-03T15:59:13+00:00"
+    },
+    {
+      "title": "秋风误 \n#短剧\nhttps://pan.quark.cn/s/6cbbccd7ea84",
+      "share_url": "https://pan.quark.cn/s/6cbbccd7ea84",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13571",
+      "msg_time": "2025-01-03T15:59:16+00:00"
+    },
+    {
+      "title": "绮罗失常色 \n#短剧\nhttps://pan.quark.cn/s/7857c4708201",
+      "share_url": "https://pan.quark.cn/s/7857c4708201",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13572",
+      "msg_time": "2025-01-03T15:59:18+00:00"
+    },
+    {
+      "title": "入笼 \n#短剧\nhttps://pan.quark.cn/s/bff4bbe1777a",
+      "share_url": "https://pan.quark.cn/s/bff4bbe1777a",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13573",
+      "msg_time": "2025-01-03T15:59:21+00:00"
+    },
+    {
+      "title": "逝爱难寻 \n#短剧\nhttps://pan.quark.cn/s/0265dbd010c7",
+      "share_url": "https://pan.quark.cn/s/0265dbd010c7",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:quarkdj:QuarkDJ/13574",
+      "msg_time": "2025-01-03T15:59:24+00:00"
+    },
+    {
+      "title": "闪婚厚爱神医妈咪马甲又掉啦 \n#短剧\nhttps://pan.quark.cn/s/d9bb0e65b88f",
+      "share_url": "https://pan.quark.cn/s/d9bb0e65b88f",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13575",
+      "msg_time": "2025-01-03T15:59:27+00:00"
+    },
+    {
+      "title": "我的存款不翼而飞 \n#短剧\nhttps://pan.quark.cn/s/9889cd408bdb",
+      "share_url": "https://pan.quark.cn/s/9889cd408bdb",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:quarkdj:QuarkDJ/13536",
+      "msg_time": "2025-01-02T08:43:30+00:00"
+    },
+    {
+      "title": "我的老婆是地铁超人 \n#短剧\nhttps://pan.quark.cn/s/14078ca65724",
+      "share_url": "https://pan.quark.cn/s/14078ca65724",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13537",
+      "msg_time": "2025-01-02T08:43:33+00:00"
+    },
+    {
+      "title": "我送贤妻踏青云 \n#短剧\nhttps://pan.quark.cn/s/8214ca9cba80",
+      "share_url": "https://pan.quark.cn/s/8214ca9cba80",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13538",
+      "msg_time": "2025-01-02T08:43:35+00:00"
+    },
+    {
+      "title": "我寻你千百度首发 \n#短剧\nhttps://pan.quark.cn/s/8a52426d9b9a",
+      "share_url": "https://pan.quark.cn/s/8a52426d9b9a",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13539",
+      "msg_time": "2025-01-02T08:43:38+00:00"
+    },
+    {
+      "title": "武震江湖 \n#短剧\nhttps://pan.quark.cn/s/1d430455675d",
+      "share_url": "https://pan.quark.cn/s/1d430455675d",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13540",
+      "msg_time": "2025-01-02T08:43:41+00:00"
+    },
+    {
+      "title": "与你重逢便不再看破红尘 \n#短剧\nhttps://pan.quark.cn/s/65d0a5f8e953",
+      "share_url": "https://pan.quark.cn/s/65d0a5f8e953",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13541",
+      "msg_time": "2025-01-02T08:43:44+00:00"
+    },
+    {
+      "title": "中年妈妈觉醒了 \n#短剧\nhttps://pan.quark.cn/s/37df2a7dadd5",
+      "share_url": "https://pan.quark.cn/s/37df2a7dadd5",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13542",
+      "msg_time": "2025-01-02T08:43:46+00:00"
+    },
+    {
+      "title": "早知今日何必当初 \n#短剧\nhttps://pan.quark.cn/s/ba98567714b1",
+      "share_url": "https://pan.quark.cn/s/ba98567714b1",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13543",
+      "msg_time": "2025-01-02T08:43:49+00:00"
+    },
+    {
+      "title": "二婚夜植物人老公睁开眼 \n#短剧\nhttps://pan.quark.cn/s/556dbeb79737",
+      "share_url": "https://pan.quark.cn/s/556dbeb79737",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13544",
+      "msg_time": "2025-01-03T15:57:55+00:00"
+    },
+    {
+      "title": "五十岁怎么了 \n#短剧\nhttps://pan.quark.cn/s/2d83dfcdb341",
+      "share_url": "https://pan.quark.cn/s/2d83dfcdb341",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13545",
+      "msg_time": "2025-01-03T15:57:58+00:00"
+    },
+    {
+      "title": "阿牢山异闻录 \n#短剧\nhttps://pan.quark.cn/s/52ffcfd213bf",
+      "share_url": "https://pan.quark.cn/s/52ffcfd213bf",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13546",
+      "msg_time": "2025-01-03T15:58:01+00:00"
+    },
+    {
+      "title": "爱缀满天星 \n#短剧\nhttps://pan.quark.cn/s/03fda66a9d54",
+      "share_url": "https://pan.quark.cn/s/03fda66a9d54",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13547",
+      "msg_time": "2025-01-03T15:58:04+00:00"
+    },
+    {
+      "title": "不能相爱的我们 \n#短剧\nhttps://pan.quark.cn/s/fe2a9471328c",
+      "share_url": "https://pan.quark.cn/s/fe2a9471328c",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13548",
+      "msg_time": "2025-01-03T15:58:06+00:00"
+    },
+    {
+      "title": "穿成替身后她连夜攻读月嫂手册 \n#短剧\nhttps://pan.quark.cn/s/f1bd35125b40",
+      "share_url": "https://pan.quark.cn/s/f1bd35125b40",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "movie",
+      "source": "telegram:quarkdj:QuarkDJ/13549",
+      "msg_time": "2025-01-03T15:58:09+00:00"
+    },
+    {
+      "title": "吃水不忘挖并人 \n#短剧\nhttps://pan.quark.cn/s/c2475a899c76",
+      "share_url": "https://pan.quark.cn/s/c2475a899c76",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13550",
+      "msg_time": "2025-01-03T15:58:12+00:00"
+    },
+    {
+      "title": "儿子咱家真没钱 \n#短剧\nhttps://pan.quark.cn/s/081f8cef5ec2",
+      "share_url": "https://pan.quark.cn/s/081f8cef5ec2",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13551",
+      "msg_time": "2025-01-03T15:58:15+00:00"
+    },
+    {
+      "title": "反哺之义尽成尘 \n#短剧\nhttps://pan.quark.cn/s/9a305195b909",
+      "share_url": "https://pan.quark.cn/s/9a305195b909",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13552",
+      "msg_time": "2025-01-03T15:58:18+00:00"
+    },
+    {
+      "title": "父亲的礼物 \n#短剧\nhttps://pan.quark.cn/s/73b970d027d7",
+      "share_url": "https://pan.quark.cn/s/73b970d027d7",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13553",
+      "msg_time": "2025-01-03T15:58:21+00:00"
+    },
+    {
+      "title": "分手三年后 \n#短剧\nhttps://pan.quark.cn/s/f56606380c26",
+      "share_url": "https://pan.quark.cn/s/f56606380c26",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13554",
+      "msg_time": "2025-01-03T15:58:24+00:00"
+    },
+    {
+      "title": "分手后封总痛哭流涕 \n#短剧\nhttps://pan.quark.cn/s/7cee2f37c1cb",
+      "share_url": "https://pan.quark.cn/s/7cee2f37c1cb",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "software",
+      "source": "telegram:quarkdj:QuarkDJ/13555",
+      "msg_time": "2025-01-03T15:58:26+00:00"
+    },
+    {
+      "title": "#教程\n创作者 品牌 变现 实战 ： 内容 创作者 创业 系统 课 ， 用 商业 计划书 拿下 高价 品牌 合作\n10-19\n课程介绍： 本套 Creator",
+      "share_url": "https://pan.baidu.com/s/1PJLD4USYWMPyiQHdMkuWSg?pwd=3wqk",
+      "share_password": "3wqk",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188249",
+      "msg_time": "2026-10-20T03:25:26+00:00"
+    },
+    {
+      "title": "#教程\n探索 AI 辅助 教辅 制作 ： 英语 图文 视频 技巧 解析 及 全科 教学 视频 实战 攻略\n10-19\n课程介绍： 本套 AI 教辅生产系统课程，",
+      "share_url": "https://pan.baidu.com/s/16ji1l3LxUwTG5A4SAUmQrw?pwd=75sc",
+      "share_password": "75sc",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188251",
+      "msg_time": "2026-10-20T03:25:35+00:00"
+    },
+    {
+      "title": "#教程\n女装 直播 切片 操盘 特训 课 ： 从 零 搭建 切片 账号 ， 剪辑 实操 ， 选品 运营 数据 复盘\n10-19\n课程介绍： 本套女装切片从 0",
+      "share_url": "https://pan.baidu.com/s/125chGj8UN0xqsUlZU35M2A?pwd=7upx",
+      "share_password": "7upx",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188253",
+      "msg_time": "2026-10-20T03:25:45+00:00"
+    },
+    {
+      "title": "#教程\n2026 短 视频 销售 技巧 揭秘 ： 深度 剖析 热门 案例 ， 学会 打造 爆款 带货 内容\n10-19\n课程介绍： 本套 2026 短视频带货方",
+      "share_url": "https://pan.baidu.com/s/1h50H8WcQZHFffs2ZilDOuw?pwd=2dk4",
+      "share_password": "2dk4",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188255",
+      "msg_time": "2026-10-20T03:25:54+00:00"
+    },
+    {
+      "title": "#教程\n纪实 大案 AI 短 视频 训练营 ： 大案 短片 制作 教学 ， 音色 克隆 与 成品 样片 参考 配套 学习\n10-19\n课程介绍： 本套 AI 纪",
+      "share_url": "https://pan.baidu.com/s/1sd48R04oJG1ad2IWtgjRuA?pwd=pygf",
+      "share_password": "pygf",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188257",
+      "msg_time": "2026-10-20T03:26:04+00:00"
+    },
+    {
+      "title": "#教程\n探索 猫咪 AI 短 视频 制作 奥秘 ： 猫咪 主题 内容 创作 攻略 ， 附赠 实操 手册 解析 关键 技巧\n10-19\n课程介绍： 本套猫咪 AI",
+      "share_url": "https://pan.baidu.com/s/19YDyYSrCdbSWp7armo_r_g?pwd=trbr",
+      "share_password": "trbr",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188259",
+      "msg_time": "2026-10-20T03:26:13+00:00"
+    },
+    {
+      "title": "#教程\n轻松 驾驭 AI 量化 交易 ： 无需 守盘 熬夜 ， 智能 交易系统 自动 执行 策略\n10-19\nEA量化不是“挂机躺赚”，而是“会判断的系统” 兄",
+      "share_url": "https://pan.baidu.com/s/1xcIIEw4rjzwS45dnSFh3Vg?pwd=vnnp",
+      "share_password": "vnnp",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188261",
+      "msg_time": "2026-10-20T03:26:23+00:00"
+    },
+    {
+      "title": "#教程\n智能 客服 全 流程 掌控 ， 轻 资产 模式 多多 ， 培训 后 月入 可 达 万元 起\n10-20\n普通人做网创，要学会精简，专心深耕一个赛道。如果",
+      "share_url": "https://pan.baidu.com/s/1rgzHeIaDaFO4bQc7xvY9KA?pwd=ytw6",
+      "share_password": "ytw6",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188263",
+      "msg_time": "2026-10-20T03:26:33+00:00"
+    },
+    {
+      "title": "#教程\n流量 枯竭 短 视频 ？ 掌握 3 秒 关键 钩子 ， 心理学 结合 复制 策略 ， 轻松 锁定 观众 眼球 （ 现场 workshop 精彩 回顾 ）",
+      "share_url": "https://pan.baidu.com/s/1nnr_fJC9yz7s26U07KlduQ?pwd=yk6b",
+      "share_password": "yk6b",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188265",
+      "msg_time": "2026-10-20T03:26:43+00:00"
+    },
+    {
+      "title": "#教程\n揭秘 AI 美颜 视频 制作 攻略 ： 打造 逼真 真人 模特 ， 统一 形象 ， 轻松 换颜 换装 ， 切换 背景 ， 动作 迁移 大 揭秘 ， 教",
+      "share_url": "https://pan.baidu.com/s/1d-8C3rYtuYGyqh6nyZVivw?pwd=77qd",
+      "share_password": "77qd",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188266",
+      "msg_time": "2026-10-20T03:26:49+00:00"
+    },
+    {
+      "title": "#教程\n10 月 18 日 更新 ！ 小红书 电商 课程 揭秘 ： 无 库存 开店 、 精选 商品 上架 ， 零 粉丝 也 能 月入 过万\n10-19\n课程简介",
+      "share_url": "https://pan.baidu.com/s/1swsNtDDBwPxkkOezOjsefg?pwd=p7ft",
+      "share_password": "p7ft",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188229",
+      "msg_time": "2026-10-20T03:23:48+00:00"
+    },
+    {
+      "title": "#教程\n轻松 混剪 老年 情感 视频 号 ， 日入 四千 不是 梦 ， 矩阵 操作 轻松 驾驭\n10-19\n地址：\nhttps://pan.baidu.com/",
+      "share_url": "https://pan.baidu.com/s/1lCpDc4IKxAWVsTiT89QB7w?pwd=28nc",
+      "share_password": "28nc",
+      "pan_type": "baidu",
+      "resource_type": "software",
+      "source": "telegram:fuliziyuan:188231",
+      "msg_time": "2026-10-20T03:23:57+00:00"
+    },
+    {
+      "title": "#教程\n探索 AI 商业 全栈 实战 ： 梦 AI + ComfyUI + Flux + 数字 人 融合 ， 实战 项目 多角度 训练 ， 掌握 技能 即可 独",
+      "share_url": "https://pan.baidu.com/s/1XYzHDazzIm1tiyTlHOqlHA?pwd=giai",
+      "share_password": "giai",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188233",
+      "msg_time": "2026-10-20T03:24:08+00:00"
+    },
+    {
+      "title": "#教程\n探索 WorkBuddy + Skill 公众 号 高效 吸粉 秘诀 ： 爆款 选题 挖掘 、 AI 创作 、 智能 知识库 构建 ， 四大 AI 助手",
+      "share_url": "https://pan.baidu.com/s/1BTnlKv6LZEPfi4Q5X_MYeA?pwd=w7aa",
+      "share_password": "w7aa",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188235",
+      "msg_time": "2026-10-20T03:24:18+00:00"
+    },
+    {
+      "title": "#教程\n揭秘 抖音 红人 15 万 粉丝 背后 的 变现 攻略 ： 全方位 教学 ， 揭秘 工具 、 关键词 、 剪辑 技巧 ， 助力 实现 伙伴 计划 、 分",
+      "share_url": "https://pan.baidu.com/s/1C1RJ_bgWfxG1iHkMqtvOng?pwd=ga46",
+      "share_password": "ga46",
+      "pan_type": "baidu",
+      "resource_type": "software",
+      "source": "telegram:fuliziyuan:188237",
+      "msg_time": "2026-10-20T03:24:28+00:00"
+    },
+    {
+      "title": "#教程\n揭秘 抖音 AI 账号 快速 增粉 技巧 ： 3 日 轻松 突破 万粉 ， 新手 也 能 轻松 实现 变现\n10-19\n地址：\nhttps://pan.",
+      "share_url": "https://pan.baidu.com/s/1S-hHWWby_qon_Q1HPVhzlw?pwd=sagt",
+      "share_password": "sagt",
+      "pan_type": "baidu",
+      "resource_type": "software",
+      "source": "telegram:fuliziyuan:188239",
+      "msg_time": "2026-10-20T03:24:38+00:00"
+    },
+    {
+      "title": "#教程\n揭秘 Shopify 成功 秘诀 ： 社交 平台 广告投放 技巧 ， 高效 店铺 构建 与 营销 策略\n10-19\n课程介绍： 本套 Shopify 增",
+      "share_url": "https://pan.baidu.com/s/138V9mICEqJ6M3eTWeV9m4Q?pwd=ekbb",
+      "share_password": "ekbb",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188241",
+      "msg_time": "2026-10-20T03:24:47+00:00"
+    },
+    {
+      "title": "#教程\n实战 攻略 ： 实体店 流量 转化 秘籍 ： 塑造 个人 品牌 赢取 丰厚 收益 ， 视频 营销 揭秘 引流 之道 ， 附赠 精准 吸粉 关键词\n10-",
+      "share_url": "https://pan.baidu.com/s/1MT1lM2HlGMfBVREP5xFZyA?pwd=6mvk",
+      "share_password": "6mvk",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188243",
+      "msg_time": "2026-10-20T03:24:57+00:00"
+    },
+    {
+      "title": "#教程\n1017 全新 升级 ！ AIGC 全栈 创作 系统 实战 教学 ： 深入 探索 即 梦 绘图 、 ComfyUI ， AI 视频 制作 ， 数字 人",
+      "share_url": "https://pan.baidu.com/s/1DCGw0J4nqlt0OkvhSLOnmw?pwd=dhcy",
+      "share_password": "dhcy",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188245",
+      "msg_time": "2026-10-20T03:25:07+00:00"
+    },
+    {
+      "title": "#教程\n直播 带货 女装 百货 实战 训练营 ： 揭秘 账号 场景 搭建 、 直播 工具 运用 、 账号 运营 与 流量 攻略\n10-19\n课程介绍： 本套百货",
+      "share_url": "https://pan.baidu.com/s/1E_MwZF_GraXamcQiOErJkw?pwd=yi4s",
+      "share_password": "yi4s",
+      "pan_type": "baidu",
+      "resource_type": "software",
+      "source": "telegram:fuliziyuan:188247",
+      "msg_time": "2026-10-20T03:25:16+00:00"
+    },
+    {
+      "title": "#软件\n[ 软件名称 ] 威力 导演   PowerDirector   v16.7 . 3 高级 版\n[更新日期] 2026-10-19\n PowerDire",
+      "share_url": "https://pan.baidu.com/s/1NvHk631iTiFki-4ri74c7Q",
+      "share_password": "rgp5",
+      "pan_type": "baidu",
+      "resource_type": "software",
+      "source": "telegram:fuliziyuan:188209",
+      "msg_time": "2026-10-20T03:21:58+00:00"
+    },
+    {
+      "title": "#教程\n2026   闲鱼 无 货源 保姆 级实 操课   （ 最新 指南 ）\n10-16\n地址：\nhttps://pan.baidu.com/s/17KeRq",
+      "share_url": "https://pan.baidu.com/s/17KeRqFuvtO8nlvOpqUTdsw?pwd=qr4n",
+      "share_password": "qr4n",
+      "pan_type": "baidu",
+      "resource_type": "software",
+      "source": "telegram:fuliziyuan:188211",
+      "msg_time": "2026-10-20T03:22:16+00:00"
+    },
+    {
+      "title": "#教程\n揭秘 抖音 AI 服装 直播 攻略 ： 无需 真人 ， AI 技术 打造 爆款 短 视频 ， 涵盖 选品 、 AI 关键词 优化 、 账号 运营 全方位",
+      "share_url": "https://pan.baidu.com/s/1qGjghh_O1QBLhdhvq_9InA?pwd=jfj4",
+      "share_password": "jfj4",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188213",
+      "msg_time": "2026-10-20T03:22:27+00:00"
+    },
+    {
+      "title": "#教程\n揭秘 抖音 博主 影视 解说 搬运 秘籍 ： 手机 轻松 上 手 ， 技巧 与 模板 一网打尽\n10-16\n地址：\nhttps://pan.baidu.",
+      "share_url": "https://pan.baidu.com/s/1lTxqc600GjMTdnJk-Q0ysA?pwd=f4eq",
+      "share_password": "f4eq",
+      "pan_type": "baidu",
+      "resource_type": "software",
+      "source": "telegram:fuliziyuan:188215",
+      "msg_time": "2026-10-20T03:22:38+00:00"
+    },
+    {
+      "title": "#教程\n2026 抖音 直播 盛典 第 13 期 VIP 线下 实战 研讨会 ： 揭秘 高效 起号 技巧 、 热门 瞬烧 策略 、 爆款 选品 秘籍 、 快速",
+      "share_url": "https://pan.baidu.com/s/12OAu5ONd3nKnCgMgiIi1xw?pwd=jaup",
+      "share_password": "jaup",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188217",
+      "msg_time": "2026-10-20T03:22:48+00:00"
+    },
+    {
+      "title": "#教程\n2026 剪映 （ 剪同款 ） 拉新 项目 最新 玩法 ， 单价 7 元 / 单 ， 教 你 抖音 挂载 推广 、 有效 获客 、 联合 回填 与 收益",
+      "share_url": "https://pan.baidu.com/s/1XCdSWw4JrTu51lJBbf8GGg?pwd=e8qf",
+      "share_password": "e8qf",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188219",
+      "msg_time": "2026-10-20T03:22:58+00:00"
+    },
+    {
+      "title": "#教程\n2026 智能 办公 效率 加速 班 第五 季 — — 零 水印 教程 ： 全方位 指导 豆包 文案 、 梦境 成图 、 剪映 视频剪辑 、 AI",
+      "share_url": "https://pan.baidu.com/s/11ZKrh5eUuitMjzkYY2pVMw?pwd=2mm4",
+      "share_password": "2mm4",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188221",
+      "msg_time": "2026-10-20T03:23:08+00:00"
+    },
+    {
+      "title": "#教程\n2026 年 WorkBuddy + Skill 公众 号 引流 攻略 ： AI 赋能 ， 从 选题 爆款 到 自动 变现 ， 构建 高效 内容 矩阵",
+      "share_url": "https://pan.baidu.com/s/1TAIYbTvmH7QuhE4BuvBGvA?pwd=jdvq",
+      "share_password": "jdvq",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188223",
+      "msg_time": "2026-10-20T03:23:19+00:00"
+    },
+    {
+      "title": "#教程\n从 单张 商品 图到 Amazon   19 图大 集合 ， 揭秘 全程 制作 攻略\n10-19\n地址：\nhttps://pan.baidu.com/s",
+      "share_url": "https://pan.baidu.com/s/1HfLtKGbj-5zdR_OxNUc5Tg?pwd=ivwc",
+      "share_password": "ivwc",
+      "pan_type": "baidu",
+      "resource_type": "software",
+      "source": "telegram:fuliziyuan:188225",
+      "msg_time": "2026-10-20T03:23:28+00:00"
+    },
+    {
+      "title": "#教程\n9 月 5 - 6 日宝子 哥抖音 直播 VIP 线 下课 第 13 期 ： 26 年 经典 ， 不 容错过 的 直播 盛宴 ， 助 你 轻松 打破 流",
+      "share_url": "https://pan.baidu.com/s/1UwibCAslJ5xUou58WPs71A?pwd=q5pt",
+      "share_password": "q5pt",
+      "pan_type": "baidu",
+      "resource_type": "learning",
+      "source": "telegram:fuliziyuan:188227",
+      "msg_time": "2026-10-20T03:23:38+00:00"
+    },
+    {
+      "title": "Frozen",
+      "share_url": "https://pan.quark.cn/s/aae51c4e8b3a",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:shareAliyun:98926",
+      "msg_time": "2026-10-20T01:01:56+00:00"
+    },
+    {
+      "title": "名称：告白\n描述：一所平凡的中学，1年B组即将迎来春假。不知天高地厚的学生们肆意吵闹，殊不知一场绵亘数月的风暴正向他们袭来。级任教师森口悠子（松隆子 饰）全然无",
+      "share_url": "https://pan.quark.cn/s/bb349e820dfa",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:shareAliyun:98927",
+      "msg_time": "2026-10-20T01:05:19+00:00"
+    },
+    {
+      "title": "名称：借东西的小人阿莉埃蒂 借りぐらしのアリエッティ\n描述：虽然患有心脏方面的疾病，但是少年翔（神木隆之介 配音）的父母依然对他疏于呵护。为了准备即将到来的手术",
+      "share_url": "https://pan.quark.cn/s/588b1fad5711",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:shareAliyun:98928",
+      "msg_time": "2026-10-20T01:06:31+00:00"
+    },
+    {
+      "title": "名称：让子弹飞\n描述：民国年间，花钱捐得县长的马邦德（葛优 饰）携妻（刘嘉玲 饰）及随从走马上任。途经南国某地，遭劫匪张麻子（姜文 饰）一伙伏击，随从尽死，只夫",
+      "share_url": "https://pan.quark.cn/s/4f1b57761eb3",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:shareAliyun:98930",
+      "msg_time": "2026-10-20T01:16:14+00:00"
+    },
+    {
+      "title": "The Blind Side",
+      "share_url": "https://pan.quark.cn/s/d93904c4c161",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:shareAliyun:98932",
+      "msg_time": "2026-10-20T02:00:18+00:00"
+    },
+    {
+      "title": "Inception",
+      "share_url": "https://pan.quark.cn/s/f26ca6037252",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:shareAliyun:98933",
+      "msg_time": "2026-10-20T02:01:15+00:00"
+    },
+    {
+      "title": "The Dark Knight Rises",
+      "share_url": "https://pan.quark.cn/s/c3e7990ec42a",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:shareAliyun:98934",
+      "msg_time": "2026-10-20T02:16:03+00:00"
+    },
+    {
+      "title": "Mary and Max",
+      "share_url": "https://pan.quark.cn/s/405b0aa29dca",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:shareAliyun:98935",
+      "msg_time": "2026-10-20T02:26:00+00:00"
+    },
+    {
+      "title": "·() Harry Potter and the Deathly Hallows: Part 2",
+      "share_url": "https://pan.quark.cn/s/a577e82300e5",
+      "share_password": "",
+      "pan_type": "quark",
+      "resource_type": "other",
+      "source": "telegram:shareAliyun:98936",
+      "msg_time": "2026-10-20T02:30:59+00:00"
+    }
+  ],
+  "debug": [
+    {
+      "channel": "bdyunpan",
+      "status": "no_links"
+    },
+    {
+      "channel": "yunpan139",
+      "status": "no_links"
+    },
+    {
+      "channel": "yunpanxunlei",
+      "status": "no_links"
+    },
+    {
+      "channel": "yunpanuc",
+      "status": "no_links"
+    }
+  ]
+}
